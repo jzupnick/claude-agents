@@ -1,0 +1,151 @@
+# Constraint Schema Definition
+# Schema for project constraints including technical, resource, regulatory, and business limitations
+
+# Constraint Identification
+constraint_id: string          # Unique identifier for constraint
+name: string                   # Short name for the constraint
+description: string            # Detailed description of constraint
+category: string               # Technical/Resource/Regulatory/Business/Market/Time
+type: string                   # Hard/Soft constraint type
+source: string                 # Where constraint originates (stakeholder, regulation, etc.)
+created_date: date             # When constraint was identified
+last_reviewed: date            # Last time constraint was reviewed
+status: string                 # Active/Resolved/Deferred/Obsolete
+
+# Constraint Details
+constraint_definition:
+  what_is_constrained: string  # What aspect is being limited
+  limitation: string           # Specific limitation or boundary
+  rationale: string            # Why this constraint exists
+  flexibility: string          # None/Low/Medium/High flexibility to change
+  
+# Impact Assessment
+impact:
+  severity: string             # Low/Medium/High/Critical severity
+  scope: string                # Local/Module/System/Enterprise scope
+  affected_areas: [string]     # List of areas impacted by constraint
+  impact_description: string   # How constraint affects the project
+  
+# Constraint Specifications
+specifications:
+  quantitative_limits:         # Measurable constraints
+    - parameter: string        # Parameter being constrained
+      limit_value: number      # Numerical limit
+      unit: string             # Unit of measurement
+      operator: string         # ≤, ≥, =, <, >, ≠ comparison operator
+  qualitative_requirements:    # Non-numerical constraints
+    - requirement: string      # Qualitative requirement description
+      standard: string         # Standard or benchmark to meet
+      
+# Stakeholder Information
+stakeholders:
+  constraint_owner: string     # Who owns/enforces this constraint
+  affected_parties: [string]   # Who is impacted by constraint
+  decision_authority: string   # Who can modify or waive constraint
+  escalation_path: [string]    # Chain for constraint modification requests
+
+# Time Boundaries
+time_constraints:
+  valid_from: date             # When constraint becomes effective
+  valid_until: date            # When constraint expires (if applicable)
+  review_frequency: string     # How often constraint should be reviewed
+  next_review_date: date       # Next scheduled review
+
+# Compliance and Regulatory
+compliance:
+  regulatory_basis: string     # Regulation or standard that drives constraint
+  compliance_level: string     # Must-have/Should-have/Nice-to-have
+  audit_requirements: boolean  # True if constraint is auditable
+  documentation_needed: [string] # Required documentation for compliance
+  
+# Technical Constraints (if applicable)
+technical_details:
+  platform_limitations: [string] # Platform-specific constraints
+  integration_constraints: [string] # Integration-related limitations
+  performance_bounds:          # Performance-related constraints
+    - metric: string           # Performance metric constrained
+      threshold: string        # Performance threshold
+      measurement: string      # How performance is measured
+  technology_restrictions: [string] # Restricted technologies/approaches
+
+# Resource Constraints (if applicable)
+resource_details:
+  budget_constraints:
+    - resource_type: string    # Type of resource (personnel, equipment, etc.)
+      limit: number            # Constraint limit
+      unit: string             # Unit (dollars, hours, people, etc.)
+      period: string           # Time period for limit
+  skill_limitations: [string] # Skills not available or restricted
+  tool_restrictions: [string] # Tools that cannot be used
+  time_limitations:
+    - milestone: string        # Milestone or deadline
+      date: date               # Fixed date constraint
+      flexibility_days: number # Days of flexibility if any
+
+# Workaround and Mitigation
+mitigation:
+  possible_workarounds:        # Ways to work within constraint
+    - workaround: string       # Description of workaround
+      effort: string           # Low/Medium/High effort to implement
+      risk: string             # Risk level of workaround
+      effectiveness: string    # How well workaround addresses constraint
+  constraint_relaxation:       # Options to relax constraint
+    - approach: string         # How constraint could be relaxed
+      required_approval: string # Who must approve relaxation
+      conditions: string       # Conditions under which relaxation possible
+      impact: string           # Impact of relaxing constraint
+      
+# Monitoring and Tracking
+monitoring:
+  compliance_metrics:          # How compliance is measured
+    - metric: string           # Metric name
+      measurement_method: string # How metric is collected
+      frequency: string        # How often metric is checked
+      threshold: string        # When metric indicates violation
+  violation_procedures:        # What happens if constraint is violated
+    - step: string             # Procedure step
+      responsible_party: string # Who executes this step
+      timeframe: string        # When step must be completed
+      
+# Risk Information
+risks:
+  violation_risk:
+    probability: string        # Low/Medium/High probability of violation
+    impact: string             # Low/Medium/High impact if violated
+    consequences: [string]     # Specific consequences of violation
+  constraint_change_risk:
+    probability: string        # Likelihood constraint will change
+    impact: string             # Impact if constraint changes
+    indicators: [string]       # Early warning signs of change
+
+# Dependencies
+dependencies:
+  depends_on_constraints: [string] # Other constraints this depends on
+  influences_constraints: [string] # Other constraints this influences
+  conflicting_constraints: [string] # Constraints that conflict with this one
+  related_assumptions: [string] # Assumptions related to this constraint
+
+# Historical Information
+history:
+  previous_versions:           # History of constraint changes
+    - version: string          # Version identifier
+      change_date: date        # When change was made
+      change_description: string # What changed
+      change_reason: string    # Why change was made
+  lessons_learned: [string]    # Insights from managing this constraint
+
+# Example Values (for reference)
+# constraint_id: "TECH-CONST-001"
+# name: "iOS 15+ Compatibility"
+# description: "Application must support iOS 15.0 and later versions only"
+# category: "Technical"
+# type: "Hard"
+# constraint_definition:
+#   what_is_constrained: "iOS version compatibility"
+#   limitation: "Must support iOS 15.0 as minimum version"
+#   rationale: "Company policy to support only last 3 major iOS versions"
+#   flexibility: "Low"
+# impact:
+#   severity: "Medium"
+#   scope: "System"
+#   affected_areas: ["User Interface", "Core Functionality", "Testing"]

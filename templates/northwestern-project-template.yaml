@@ -1,0 +1,232 @@
+# Northwestern MPD2 Project Template
+# Complete project definition following Northwestern methodologies
+
+# Project Metadata
+name: ""                          # Project name for tracking and reference
+description: ""                   # Brief description of project goals and scope
+created_date: ""                  # YYYY-MM-DD format
+last_updated: ""                  # YYYY-MM-DD format
+project_manager: ""               # Person responsible for project coordination
+stakeholders: []                  # List of key stakeholders and their roles
+
+# Northwestern Framework Classification
+northwestern_frameworks:
+  knowledge_funnel_stage: ""      # mystery | heuristic | algorithm
+  three_horizons_category: ""     # horizon_1 | horizon_2 | horizon_3
+  exploration_exploitation: ""    # exploration | balanced | exploitation
+  uncertainty_level: ""           # low | moderate | high | very_high
+
+# Strategic Context
+strategic_context:
+  business_objectives: []         # Specific business objectives this project serves
+  strategic_fit_score: 0.0       # 0.0-10.0 scale of strategic alignment
+  competitive_advantage: ""       # How this project creates competitive advantage
+  market_timing: ""              # Early | optimal | late market timing assessment
+  organizational_capability: ""   # Existing organizational capability to execute
+
+# Project Objectives
+objectives:
+  primary_goal: ""               # Main objective the project aims to achieve
+  success_metrics:              # Measurable criteria for project success
+    - metric: ""                # Name of the metric
+      target: ""                # Target value or outcome
+      measurement_method: ""    # How the metric will be measured
+      timeline: ""              # When the metric will be achieved
+  secondary_goals: []           # Additional objectives and benefits
+  stakeholder_value: []         # Value delivered to different stakeholder groups
+
+# Scope Definition
+scope:
+  included: []                  # What is explicitly included in the project
+  excluded: []                  # What is explicitly excluded from the project
+  assumptions: []               # Key assumptions the project scope depends on
+  dependencies: []              # External dependencies required for success
+  interfaces: []                # Key interfaces with other systems or projects
+
+# Northwestern Stage-Gate Planning
+stage_gate_plan:
+  current_stage: 0              # Current stage number (0-4)
+  stage_definitions:
+    stage_0:
+      name: "Strategic Alignment"
+      duration_weeks: 2
+      key_activities: []
+      deliverables: []
+      gate_criteria: []
+      resources_required: []
+    stage_1:
+      name: "Concept Development"
+      duration_weeks: 8
+      key_activities: []
+      deliverables: []
+      gate_criteria: []
+      resources_required: []
+    stage_2:
+      name: "Business Case Development"
+      duration_weeks: 12
+      key_activities: []
+      deliverables: []
+      gate_criteria: []
+      resources_required: []
+    stage_3:
+      name: "Development & Testing"
+      duration_weeks: 16
+      key_activities: []
+      deliverables: []
+      gate_criteria: []
+      resources_required: []
+    stage_4:
+      name: "Launch & Monitoring"
+      duration_weeks: 8
+      key_activities: []
+      deliverables: []
+      gate_criteria: []
+      resources_required: []
+
+# Resource Requirements
+resources:
+  team_composition:
+    - role: ""                  # Role title
+      skills_required: []       # Skills needed for this role
+      time_commitment: ""       # Full-time, part-time, or percentage
+      duration: ""              # How long this role is needed
+  budget_allocation:
+    total_budget: 0             # Total project budget
+    stage_breakdown:            # Budget allocation by stage
+      stage_0: 0
+      stage_1: 0
+      stage_2: 0
+      stage_3: 0
+      stage_4: 0
+    cost_categories:
+      personnel: 0              # Personnel costs
+      technology: 0             # Technology and tools
+      materials: 0              # Materials and supplies
+      external: 0               # External services and contractors
+      contingency: 0            # Risk contingency (typically 10-20%)
+  technology_requirements: []   # Technology infrastructure needed
+  external_services: []         # External contractors or services required
+
+# Risk Assessment (Northwestern Risk Framework)
+risk_assessment:
+  overall_risk_level: ""        # low | moderate | high | very_high
+  knowledge_funnel_risks:       # Risks specific to Knowledge Funnel stage
+    - risk: ""
+      probability: ""           # low | moderate | high
+      impact: ""                # low | moderate | high
+      mitigation_strategy: ""
+      owner: ""
+  three_horizons_risks:         # Risks specific to Three Horizons classification
+    - risk: ""
+      probability: ""
+      impact: ""
+      mitigation_strategy: ""
+      owner: ""
+  technical_risks: []           # Technology and execution risks
+  market_risks: []              # Market and customer risks
+  organizational_risks: []      # Internal capability and resource risks
+  external_risks: []            # External environment and competition risks
+
+# Assumptions Register
+assumptions:
+  critical_assumptions:         # Assumptions that could kill the project if wrong
+    - assumption: ""
+      confidence_level: ""      # low | moderate | high
+      validation_method: ""
+      validation_timeline: ""
+      owner: ""
+      impact_if_wrong: ""
+  supporting_assumptions:       # Important but not critical assumptions
+    - assumption: ""
+      confidence_level: ""
+      validation_method: ""
+      validation_timeline: ""
+      owner: ""
+
+# Success Criteria and Metrics
+success_criteria:
+  stage_gate_metrics:           # Metrics for stage progression
+    gate_0: []
+    gate_1: []
+    gate_2: []
+    gate_3: []
+    gate_4: []
+  performance_metrics:          # Ongoing performance indicators
+    - metric: ""
+      baseline: ""
+      target: ""
+      measurement_frequency: ""
+      reporting_method: ""
+  learning_metrics:             # Northwestern learning and capability metrics
+    - metric: ""
+      target: ""
+      measurement_method: ""
+  stakeholder_satisfaction:     # Stakeholder success measures
+    - stakeholder_group: ""
+      success_measure: ""
+      target: ""
+
+# Communication Plan
+communication:
+  stakeholder_groups:
+    - group: ""                 # Stakeholder group name
+      communication_frequency: "" # Daily, weekly, monthly, quarterly
+      communication_method: ""   # Email, meetings, reports, dashboards
+      information_needs: []      # What information they need
+      decision_authority: ""     # What decisions they can make
+  reporting_schedule:
+    daily: []                   # Daily communication requirements
+    weekly: []                  # Weekly reporting and updates
+    monthly: []                 # Monthly reviews and reports
+    quarterly: []               # Quarterly strategic reviews
+    gate_reviews: []            # Stage-gate review requirements
+  escalation_procedures: []     # How to escalate issues and decisions
+
+# Northwestern Learning Framework
+learning_framework:
+  knowledge_development:
+    mystery_stage_learning: []  # Learning objectives for Mystery stage
+    heuristic_stage_learning: [] # Learning objectives for Heuristic stage
+    algorithm_stage_learning: [] # Learning objectives for Algorithm stage
+  organizational_capability:
+    skills_developed: []        # Skills the organization will develop
+    processes_improved: []      # Processes that will be enhanced
+    knowledge_captured: []      # Knowledge that will be documented
+  continuous_improvement:
+    feedback_mechanisms: []     # How feedback will be collected
+    learning_integration: []    # How learning will be applied
+    methodology_updates: []     # How methodologies will be improved
+
+# Integration Points
+integration:
+  existing_systems:             # How this project integrates with existing systems
+    - system: ""
+      integration_type: ""      # Enhancement, replacement, new interface
+      integration_complexity: "" # Low, moderate, high
+      integration_timeline: ""
+  other_projects:               # Dependencies and connections with other projects
+    - project: ""
+      relationship_type: ""     # Dependency, collaboration, coordination
+      coordination_method: ""
+      timeline_coordination: ""
+  organizational_processes:     # How this project fits with organizational processes
+    - process: ""
+      modification_required: "" # None, minor, major
+      change_management: ""
+      timeline: ""
+
+# Version Control and Change Management
+change_management:
+  change_approval_process: ""   # How changes to the project will be approved
+  change_tracking_method: ""    # How changes will be documented and tracked
+  impact_assessment_criteria: [] # Criteria for assessing change impacts
+  stakeholder_notification: "" # How stakeholders will be notified of changes
+
+# Template Usage Notes
+# 1. Complete all sections appropriate to your project's Knowledge Funnel stage
+# 2. Adjust stage-gate planning based on Three Horizons classification
+# 3. Ensure risk assessment reflects Northwestern uncertainty management
+# 4. Include organizational learning objectives in addition to delivery objectives
+# 5. Integrate with existing organizational processes while adding Northwestern rigor
+# 6. Use this template as a living document that evolves with the project
+# 7. Leverage Northwestern frameworks for decision-making throughout project lifecycle

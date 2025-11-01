@@ -1,0 +1,161 @@
+# Assumption Schema Definition
+# Schema for project assumptions with confidence levels, validation methods, and risk assessment
+
+# Assumption Identification
+assumption_id: string          # Unique identifier for assumption
+statement: string              # Clear, testable assumption statement
+category: string               # User/Market/Technical/Business/Regulatory assumption type
+created_date: date             # When assumption was identified
+created_by: string             # Who identified the assumption
+last_reviewed: date            # Last time assumption was reviewed
+status: string                 # Active/Validated/Invalidated/Deferred/Obsolete
+
+# Assumption Details
+assumption_definition:
+  what_we_assume: string       # What we're taking as given
+  why_we_assume: string        # Reason for making this assumption
+  scope: string                # Where assumption applies (component/system/market)
+  critical_path: boolean       # True if assumption is on critical path
+  
+# Confidence Assessment
+confidence:
+  confidence_level: string     # Low/Medium/High confidence in assumption
+  confidence_percentage: number # Numerical confidence (0-100%)
+  confidence_rationale: string # Why we have this confidence level
+  supporting_evidence: [string] # Evidence that supports assumption
+  contradicting_evidence: [string] # Evidence that challenges assumption
+  
+# Risk Assessment
+risk:
+  risk_if_wrong: string        # What happens if assumption is incorrect
+  impact_severity: string      # Low/Medium/High/Critical impact if wrong
+  probability_wrong: string    # Low/Medium/High probability assumption is wrong
+  risk_level: string           # Low/Medium/High/Critical overall risk
+  affected_components: [string] # What would be impacted if assumption wrong
+  
+# Validation Plan
+validation:
+  validation_method: string    # How assumption will be tested/validated
+  validation_criteria: string  # What would prove/disprove assumption
+  validation_timeline:
+    start_date: date           # When validation can begin
+    target_completion: date    # When validation should be complete
+    latest_decision_date: date # Latest date we can wait for validation
+  validation_cost: number      # Estimated cost to validate assumption
+  validation_effort: string    # Low/Medium/High effort to validate
+  
+# Validation Execution
+validation_execution:
+  responsible_party: string    # Who will execute validation
+  required_resources: [string] # Resources needed for validation
+  validation_steps:            # Steps to validate assumption
+    - step: string             # Description of validation step
+      duration: string         # Expected duration
+      dependencies: [string]   # What must be completed first
+  success_criteria: string     # What constitutes successful validation
+  failure_criteria: string     # What would invalidate assumption
+  
+# Dependencies and Relationships
+relationships:
+  depends_on_assumptions: [string] # Other assumptions this depends on
+  enables_assumptions: [string] # Assumptions this one enables
+  conflicts_with: [string]     # Assumptions that conflict with this one
+  related_constraints: [string] # Constraints related to this assumption
+  
+# Stakeholder Information
+stakeholders:
+  assumption_owner: string     # Who owns this assumption
+  key_stakeholders: [string]   # Who cares about this assumption
+  subject_matter_experts: [string] # Who can help validate assumption
+  decision_makers: [string]    # Who decides if assumption is acceptable
+  
+# Contingency Planning
+contingency:
+  if_validated:                # What to do if assumption proves true
+    actions: [string]          # Actions to take
+    implications: string       # What this means for project
+  if_invalidated:              # What to do if assumption proves false
+    alternative_approaches: [string] # Alternative approaches to consider
+    project_impacts: [string]  # How this affects project
+    mitigation_options: [string] # Ways to mitigate impact
+  if_unable_to_validate:       # What to do if can't validate in time
+    proceed_anyway: boolean    # Whether to proceed without validation
+    additional_risk_mitigation: [string] # Extra risk mitigation needed
+    monitoring_plan: string    # How to monitor assumption during execution
+    
+# Market Assumptions (if applicable)
+market_details:
+  target_market_size: number   # Assumed market size
+  market_growth_rate: number   # Assumed growth rate
+  user_behavior: string        # Assumed user behavior patterns
+  adoption_rate: number        # Assumed adoption rate
+  price_sensitivity: string    # Assumed price sensitivity
+  
+# Technical Assumptions (if applicable)
+technical_details:
+  technology_maturity: string  # Assumed technology readiness
+  performance_characteristics: # Assumed performance
+    - characteristic: string   # Performance aspect
+      assumed_value: string    # Assumed performance level
+  integration_complexity: string # Assumed integration difficulty
+  scalability: string         # Assumed scaling characteristics
+  
+# Business Assumptions (if applicable)
+business_details:
+  revenue_model: string        # Assumed revenue generation method
+  cost_structure: string       # Assumed cost patterns
+  competitive_response: string # Assumed competitor reactions
+  partnership_availability: string # Assumed partner cooperation
+  regulatory_environment: string # Assumed regulatory stability
+  
+# User Assumptions (if applicable)
+user_details:
+  user_needs: [string]         # Assumed user needs
+  user_capabilities: string    # Assumed user technical capabilities
+  user_preferences: string     # Assumed user preferences
+  usage_patterns: string       # Assumed usage patterns
+  willingness_to_pay: number   # Assumed price acceptance
+  
+# Monitoring and Tracking
+monitoring:
+  early_indicators: [string]   # Signs that assumption may be wrong
+  monitoring_frequency: string # How often to check assumption validity
+  monitoring_methods: [string] # How assumption is monitored
+  escalation_triggers: [string] # When to escalate assumption concerns
+  
+# Historical Information
+history:
+  assumption_evolution:        # How assumption has changed over time
+    - date: date               # When change occurred
+      previous_statement: string # Previous assumption statement
+      change_reason: string    # Why assumption changed
+      change_impact: string    # Impact of the change
+  validation_attempts:         # Previous validation efforts
+    - attempt_date: date       # When validation was attempted
+      method_used: string      # Validation method used
+      result: string           # Result of validation attempt
+      lessons_learned: string  # What was learned
+      
+# Documentation
+documentation:
+  supporting_documents: [string] # Documents that support assumption
+  analysis_reports: [string]   # Analysis related to assumption
+  expert_opinions: [string]    # Expert input on assumption
+  research_sources: [string]   # Research that informs assumption
+
+# Example Values (for reference)
+# assumption_id: "ASSUMP-USER-001"
+# statement: "Elderly users will be willing to learn voice commands for emergency alerts"
+# category: "User"
+# assumption_definition:
+#   what_we_assume: "Users aged 65+ can learn and remember simple voice commands"
+#   why_we_assume: "Voice interaction is simpler than physical button operation during emergencies"
+#   critical_path: true
+# confidence:
+#   confidence_level: "Medium"
+#   confidence_percentage: 65
+#   confidence_rationale: "Some evidence from smart speaker adoption, but limited emergency context data"
+# risk:
+#   risk_if_wrong: "Users won't adopt voice interface, reducing effectiveness"
+#   impact_severity: "High"
+#   probability_wrong: "Medium"

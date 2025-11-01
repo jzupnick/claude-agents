@@ -1,0 +1,31 @@
+# Claude Code Agent Repository Rules
+
+# File Organization
+- Always follow the structure defined in FILE_ORGANIZATION.md
+- Place complete agents in agents/
+- Reusable components go in subagents/
+- Maintain README.md files in each directory
+
+# Agent Development
+- Test agents thoroughly before adding to repository
+- Document agent capabilities and limitations
+- Include example usage in documentation
+- Follow naming conventions: kebab-case for files
+
+# Code Quality
+- Scripts must be executable and tested
+- Include proper error handling
+- Add comments for complex logic
+- Validate all external dependencies
+
+# Documentation Standards
+- Update PROJECT_MAP.md when adding new agents
+- Include real-world examples
+- Document integration patterns
+- Maintain version compatibility notes
+
+# Collaboration
+- Use pull requests for significant changes
+- Review agent specifications before merging
+- Test cross-agent compatibility
+- Update documentation with changes

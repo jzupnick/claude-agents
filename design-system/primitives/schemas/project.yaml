@@ -1,0 +1,130 @@
+# Project Schema Definition
+# Complete schema for design decision projects including metadata, objectives, and constraints
+
+# Project Identification
+name: string                    # Project name for tracking and reference
+description: string             # Brief description of project goals and scope
+project_id: string             # Unique identifier for project tracking
+created_date: date             # Project creation timestamp
+last_updated: date             # Last modification timestamp
+
+# Project Objectives
+objectives:
+  primary_goal: string         # Main objective the project aims to achieve
+  success_metrics:             # Measurable criteria for project success
+    - metric_name: string      # Name of success metric
+      target_value: number     # Target value to achieve
+      measurement_method: string # How the metric will be measured
+      deadline: date           # When metric should be achieved
+  secondary_goals:             # Supporting objectives
+    - goal: string             # Secondary goal description
+      priority: string         # Low/Medium/High priority level
+
+# Timeline and Phases
+timeline:
+  start_date: date             # Project start date
+  target_completion: date      # Planned completion date
+  phases:                      # Project phases with gates
+    - phase_name: string       # Name of project phase
+      duration_weeks: number   # Expected phase duration
+      deliverables:            # Expected outputs from phase
+        - deliverable: string  # Deliverable description
+      gate_criteria:           # Criteria to proceed to next phase
+        - criterion: string    # Gate criterion description
+
+# Stakeholders and Roles
+stakeholders:
+  decision_makers:             # People who make go/no-go decisions
+    - name: string             # Stakeholder name
+      role: string             # Their role in the organization
+      authority_level: string  # Level of decision authority
+  contributors:                # People who provide input and expertise
+    - name: string             # Contributor name
+      expertise: string        # Domain of expertise
+      involvement_level: string # Full-time/Part-time/Consultant
+  end_users:                   # Target users of the solution
+    - user_type: string        # Type or segment of user
+      needs: [string]          # List of user needs
+
+# Constraints and Boundaries
+constraints:
+  budget:
+    total_budget: number       # Total budget available
+    currency: string           # Currency for budget figures
+    budget_breakdown:          # How budget is allocated
+      - category: string       # Budget category (e.g., personnel, materials)
+        amount: number         # Amount allocated to category
+  resources:
+    team_size_limit: number    # Maximum team size
+    required_expertise: [string] # List of required skill areas
+    available_tools: [string]  # Tools and resources available
+  technical:
+    platform_requirements: [string] # Technical platform constraints
+    integration_requirements: [string] # Required integrations
+    performance_requirements:  # Performance constraints
+      - requirement: string    # Performance requirement description
+        threshold: string      # Minimum acceptable performance
+  regulatory:
+    compliance_requirements: [string] # Regulatory requirements to meet
+    standards_to_follow: [string] # Industry standards to comply with
+  time:
+    hard_deadline: date        # Non-negotiable deadline if any
+    milestone_deadlines:       # Critical milestone dates
+      - milestone: string      # Milestone description
+        deadline: date         # Milestone deadline
+
+# Risk Management
+risks:
+  identified_risks:            # Known risks at project start
+    - risk_description: string # Description of the risk
+      probability: string      # Low/Medium/High probability
+      impact: string           # Low/Medium/High impact
+      mitigation_plan: string  # Plan to address the risk
+  risk_tolerance:
+    acceptable_risk_level: string # Organization's risk tolerance
+    risk_budget: number        # Budget allocated for risk mitigation
+
+# Success Criteria and Validation
+validation:
+  user_acceptance_criteria:    # How user acceptance will be measured
+    - criterion: string        # Acceptance criterion
+      validation_method: string # How criterion will be validated
+  business_case:
+    expected_roi: number       # Expected return on investment
+    payback_period_months: number # Expected payback period
+    net_present_value: number  # Expected NPV if applicable
+
+# Documentation and Communication
+communication:
+  reporting_frequency: string  # How often progress is reported
+  reporting_format: string     # Format for progress reports
+  key_documents:               # Important project documents
+    - document_type: string    # Type of document
+      location: string         # Where document is stored
+      last_updated: date       # When document was last updated
+
+# Integration with Existing Systems
+integration:
+  existing_agents_used:        # Claude agents used in project
+    - agent_name: string       # Name of agent (e.g., product_design_strategist)
+      role_in_project: string  # How agent contributes to project
+  existing_tools_used:         # Existing tools leveraged
+    - tool_name: string        # Name of tool
+      purpose: string          # How tool is used in project
+  data_sources:                # Sources of data for decision making
+    - source_name: string      # Name of data source
+      data_type: string        # Type of data provided
+      update_frequency: string # How often data is updated
+
+# Example Values (for reference)
+# name: "Smart Emergency Alert System"
+# description: "Design and develop a wearable emergency alert device for elderly users"
+# project_id: "SEAS-2025-001"
+# created_date: "2025-11-01"
+# objectives:
+#   primary_goal: "Create market-ready emergency alert device within 12 months"
+#   success_metrics:
+#     - metric_name: "User adoption rate"
+#       target_value: 75
+#       measurement_method: "Percentage of test users who continue using device after 30 days"
+#       deadline: "2026-06-01"

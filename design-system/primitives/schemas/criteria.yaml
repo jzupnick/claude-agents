@@ -1,0 +1,169 @@
+# Criteria Schema Definition
+# Schema for decision criteria including dimensions, weights, scoring methods, and thresholds
+
+# Criteria Identification
+criteria_id: string            # Unique identifier for criteria
+name: string                   # Short name for the criteria
+description: string            # Detailed description of what criteria measures
+category: string               # Market/Technical/Business/User/Risk criteria type
+created_date: date             # When criteria was defined
+created_by: string             # Who defined the criteria
+last_modified: date            # Last modification date
+status: string                 # Active/Draft/Archived/Under Review
+
+# Criteria Definition
+criteria_definition:
+  dimension: string            # What aspect is being evaluated
+  purpose: string              # Why this criteria is important
+  scope: string                # What it applies to (concepts/features/decisions)
+  measurement_focus: string    # What specifically is being measured
+  
+# Weighting and Importance
+weighting:
+  weight: number               # Relative weight (0.0 to 1.0 or percentage)
+  weight_rationale: string     # Why this weight was chosen
+  importance_level: string     # Low/Medium/High/Critical importance
+  stakeholder_priority: string # How stakeholders prioritize this criteria
+  
+# Scoring Method
+scoring:
+  scoring_method: string       # Qualitative/Quantitative/Mixed scoring approach
+  scale_type: string           # Linear/Logarithmic/Custom scale
+  scale_range:
+    minimum: number            # Minimum possible score
+    maximum: number            # Maximum possible score
+    unit: string               # Unit of measurement if applicable
+  scoring_guidelines: string   # How to assign scores consistently
+  
+# Qualitative Scoring (if applicable)
+qualitative_scoring:
+  rating_levels:               # Different rating levels
+    - level: string            # Rating level name (e.g., "Excellent")
+      score: number            # Numerical score for this level
+      description: string      # What this level means
+      examples: [string]       # Examples of what gets this rating
+  evaluation_questions: [string] # Questions to guide evaluation
+  
+# Quantitative Scoring (if applicable)
+quantitative_scoring:
+  data_source: string          # Where data comes from
+  calculation_method: string   # How score is calculated from data
+  normalization_method: string # How to normalize across options
+  data_quality_requirements: string # Required data quality
+  
+# Thresholds and Benchmarks
+thresholds:
+  minimum_acceptable: number   # Minimum score to be considered viable
+  target_score: number         # Target score to aim for
+  excellent_threshold: number  # Score that represents excellent performance
+  benchmark_comparisons:       # How scores compare to benchmarks
+    - benchmark: string        # Benchmark name (e.g., "Industry average")
+      score: number            # Benchmark score
+      source: string           # Where benchmark comes from
+      
+# Validation and Quality
+validation:
+  reliability_check: string    # How to ensure consistent scoring
+  validity_check: string       # How to ensure criteria measures what intended
+  inter_rater_reliability: string # How to handle multiple evaluators
+  calibration_method: string   # How to calibrate scoring across evaluators
+  
+# Context and Constraints
+context:
+  applicable_scenarios: [string] # When this criteria applies
+  exclusion_scenarios: [string] # When this criteria doesn't apply
+  time_sensitivity: string     # How criteria importance changes over time
+  market_sensitivity: string   # How criteria varies by market/segment
+  
+# Relationships and Dependencies
+relationships:
+  correlated_criteria: [string] # Criteria that tend to correlate
+  conflicting_criteria: [string] # Criteria that conflict with this one
+  prerequisite_criteria: [string] # Criteria that must be met first
+  supporting_criteria: [string] # Criteria that support this one
+  
+# Data Requirements
+data_requirements:
+  required_data: [string]      # Data needed to evaluate this criteria
+  data_collection_method: string # How to gather required data
+  data_freshness_requirement: string # How current data must be
+  data_accuracy_requirement: string # Required data accuracy
+  fallback_data_sources: [string] # Alternative data sources
+  
+# Stakeholder Perspectives
+stakeholders:
+  primary_stakeholders: [string] # Who cares most about this criteria
+  scoring_authority: string    # Who has authority to score this criteria
+  different_perspectives:      # How different stakeholders view criteria
+    - stakeholder: string      # Stakeholder type
+      perspective: string      # Their view on importance/interpretation
+      weight_preference: number # Their preferred weight
+      
+# Risk and Sensitivity
+risk_analysis:
+  sensitivity_to_changes: string # High/Medium/Low sensitivity to changes
+  risk_of_misinterpretation: string # Risk criteria will be misunderstood
+  gaming_risk: string          # Risk of gaming/manipulating this criteria
+  measurement_risk: string     # Risk of measurement errors
+  
+# Monitoring and Evolution
+monitoring:
+  review_frequency: string     # How often criteria should be reviewed
+  performance_tracking: string # How to track criteria effectiveness
+  evolution_triggers: [string] # What would cause criteria to change
+  feedback_collection: string  # How to gather feedback on criteria
+  
+# Usage Guidelines
+usage:
+  best_practices: [string]     # Best practices for using this criteria
+  common_mistakes: [string]    # Common mistakes to avoid
+  calibration_examples:        # Examples for score calibration
+    - scenario: string         # Example scenario
+      expected_score: number   # What score it should receive
+      rationale: string        # Why this score is appropriate
+  edge_cases: [string]         # Unusual cases to consider
+  
+# Performance History
+history:
+  criteria_performance:        # How well criteria has worked
+    - period: string           # Time period
+      effectiveness: string    # How effective criteria was
+      issues_encountered: [string] # Problems with criteria
+      improvements_made: [string] # Improvements implemented
+  score_distribution:          # Historical score patterns
+    - period: string           # Time period
+      average_score: number    # Average score given
+      score_range: string      # Range of scores
+      outliers: string         # Notable outlier cases
+      
+# Integration Points
+integration:
+  decision_frameworks: [string] # Decision frameworks that use this criteria
+  automated_systems: [string]  # Systems that automatically score this criteria
+  manual_processes: [string]   # Manual processes that use this criteria
+  reporting_systems: [string]  # Systems that report on this criteria
+
+# Example Values (for reference)
+# criteria_id: "CRIT-MARKET-001"
+# name: "Market Size"
+# description: "Total addressable market size for the target solution"
+# category: "Market"
+# criteria_definition:
+#   dimension: "Market opportunity"
+#   purpose: "Ensure solutions target sufficiently large markets"
+#   measurement_focus: "Number of potential users and revenue potential"
+# weighting:
+#   weight: 0.25
+#   weight_rationale: "Market size directly impacts revenue potential"
+#   importance_level: "High"
+# scoring:
+#   scoring_method: "Quantitative"
+#   scale_type: "Logarithmic"
+#   scale_range:
+#     minimum: 0
+#     maximum: 100
+#     unit: "score"
+# thresholds:
+#   minimum_acceptable: 30
+#   target_score: 70
+#   excellent_threshold: 90

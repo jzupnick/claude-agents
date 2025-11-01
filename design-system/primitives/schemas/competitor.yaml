@@ -1,0 +1,170 @@
+# Competitor Schema Definition
+# Schema for competitor analysis with pricing, features, positioning, and market data
+
+# Competitor Identification
+name: string                    # Competitor company/product name
+competitor_id: string          # Unique identifier for tracking
+category: string               # Direct/Indirect/Substitute competitor
+analysis_date: date            # When analysis was conducted
+last_updated: date             # Last update to competitor data
+
+# Company Information
+company:
+  founded: date                # Company founding date
+  headquarters: string         # Company headquarters location
+  size: string                 # Startup/Small/Medium/Large/Enterprise
+  funding_stage: string        # Seed/Series A/B/C/Public/Private
+  total_funding: number        # Total funding raised if known
+  employee_count: number       # Approximate number of employees
+  public_company: boolean      # True if publicly traded
+
+# Product/Service Details
+product:
+  product_name: string         # Name of competing product/service
+  launch_date: date            # When product was launched
+  current_version: string      # Current version if applicable
+  product_category: string     # Category this product competes in
+  target_market: string        # Primary target market
+  
+# Pricing Information
+pricing:
+  pricing_model: string        # Free/Freemium/Subscription/One-time/Usage-based/Custom
+  price_points:                # Different pricing tiers
+    - tier_name: string        # Name of pricing tier
+      price: number            # Price for this tier
+      currency: string         # Currency for pricing
+      billing_period: string   # Monthly/Annual/One-time
+      target_segment: string   # Who this tier targets
+  free_trial: boolean          # True if offers free trial
+  trial_duration_days: number # Length of free trial
+  pricing_transparency: string # Transparent/Partial/Hidden pricing visibility
+
+# Features and Capabilities
+features:
+  core_features:               # Essential product features
+    - feature: string          # Feature name/description
+      availability: string     # All tiers/Premium only/Enterprise only
+      quality: string          # Basic/Good/Excellent implementation
+  unique_features:             # Features that differentiate them
+    - feature: string          # Unique feature description
+      competitive_advantage: string # How this creates advantage
+  missing_features:            # Notable features they lack
+    - feature: string          # Missing feature description
+      opportunity: string      # Opportunity this creates for us
+
+# Market Position
+positioning:
+  value_proposition: string    # Their primary value proposition
+  brand_perception: string     # How market perceives their brand
+  target_customer: string      # Primary customer segment they serve
+  go_to_market_strategy: string # How they acquire customers
+  
+# Strengths and Weaknesses
+analysis:
+  strengths:                   # What they do well
+    - strength: string         # Description of strength
+      impact: string           # Low/Medium/High competitive impact
+      source: string           # What makes this a strength
+  weaknesses:                  # Areas where they struggle
+    - weakness: string         # Description of weakness
+      impact: string           # Low/Medium/High opportunity for us
+      evidence: string         # Evidence supporting this weakness
+  opportunities:               # Market opportunities they might pursue
+    - opportunity: string      # Opportunity description
+      likelihood: string       # Low/Medium/High they'll pursue
+      threat_to_us: string     # Low/Medium/High threat if they succeed
+  threats:                     # Threats they pose to us
+    - threat: string           # Threat description
+      probability: string      # Low/Medium/High probability
+      impact: string           # Low/Medium/High impact on us
+
+# Market Performance
+market_data:
+  market_share: number         # Market share percentage if known
+  revenue: number              # Annual revenue if known
+  growth_rate: number          # Annual growth rate percentage
+  customer_count: number       # Number of customers if known
+  geographic_presence: [string] # Markets/regions where they operate
+  
+# Customer Base
+customers:
+  customer_segments:           # Types of customers they serve
+    - segment: string          # Customer segment description
+      percentage: number       # Percentage of customer base
+  notable_customers: [string]  # Well-known customers if public
+  customer_satisfaction: string # Low/Medium/High based on reviews/surveys
+  churn_rate: number          # Customer churn rate if known
+
+# Technology and Innovation
+technology:
+  technology_stack: [string]   # Known technologies they use
+  innovation_focus: [string]   # Areas where they innovate
+  patent_portfolio: number     # Number of patents if known
+  r_and_d_investment: number   # R&D investment percentage
+
+# Marketing and Sales
+marketing:
+  primary_channels: [string]   # Main marketing channels they use
+  marketing_message: string    # Primary marketing message
+  sales_model: string          # Direct/Partner/Channel sales model
+  customer_acquisition_cost: number # CAC if known
+  
+# Partnership and Ecosystem
+partnerships:
+  key_partners: [string]       # Important strategic partners
+  integration_ecosystem: [string] # Platforms/tools they integrate with
+  reseller_network: boolean    # True if they have resellers
+  
+# Recent Developments
+recent_activity:
+  product_updates:             # Recent product developments
+    - update: string           # Description of update/feature
+      date: date               # When update was released
+      impact: string           # Significance of update
+  business_developments:       # Recent business news
+    - development: string      # Business development description
+      date: date               # When development occurred
+      impact: string           # Impact on competitive position
+  funding_events:              # Recent funding activities
+    - event: string            # Funding event description
+      amount: number           # Funding amount
+      date: date               # When funding occurred
+
+# Competitive Intelligence Sources
+sources:
+  public_information:          # Publicly available sources
+    - source: string           # Source name (website, press release, etc.)
+      url: string              # URL if applicable
+      date_accessed: date      # When information was gathered
+  industry_reports:            # Third-party analysis
+    - report: string           # Report name
+      publisher: string        # Who published the report
+      date: date               # Report date
+  direct_research:             # First-hand research
+    - method: string           # Research method (user interviews, demos, etc.)
+      date: date               # When research was conducted
+      findings: string         # Key findings from research
+
+# Strategic Assessment
+strategic_assessment:
+  threat_level: string         # Low/Medium/High threat to our business
+  response_priority: string    # Low/Medium/High priority for response
+  recommended_actions: [string] # Specific actions we should consider
+  monitoring_frequency: string # How often to update this analysis
+
+# Example Values (for reference)
+# name: "Life Alert"
+# competitor_id: "LIFE-ALERT-001"
+# category: "Direct"
+# company:
+#   founded: "1987-01-01"
+#   size: "Medium"
+#   employee_count: 500
+# pricing:
+#   pricing_model: "Subscription"
+#   price_points:
+#     - tier_name: "Basic Plan"
+#       price: 49.95
+#       currency: "USD"
+#       billing_period: "Monthly"
+#       target_segment: "Individual users"

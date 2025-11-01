@@ -1,0 +1,167 @@
+# Concept Schema Definition
+# Schema for product/solution concepts with attributes, features, and validation data
+
+# Concept Identification
+name: string                    # Concept name for reference
+description: string             # Detailed description of the concept
+concept_id: string             # Unique identifier for tracking
+version: string                # Version number (e.g., "1.0", "2.1")
+created_date: date             # When concept was created
+last_modified: date            # Last modification timestamp
+status: string                 # Draft/Under Review/Validated/Rejected/Approved
+
+# Core Concept Definition
+core_value_proposition:
+  primary_benefit: string      # Main value the concept provides
+  target_user_segment: string  # Primary users who benefit
+  job_to_be_done: string      # Core job the concept accomplishes
+  differentiation: string     # What makes this concept unique
+
+# Concept Attributes
+attributes:
+  category: string             # Product/Service/Feature category
+  complexity: string           # Low/Medium/High development complexity
+  innovation_level: string     # Incremental/Radical/Disruptive innovation type
+  market_maturity: string      # Emerging/Growing/Mature/Declining market
+  
+# Features and Capabilities
+features:
+  core_features:               # Essential features for concept viability
+    - feature_name: string     # Name of the feature
+      description: string      # What the feature does
+      priority: string         # Must-have/Should-have/Nice-to-have
+      effort_estimate: string  # Low/Medium/High development effort
+  advanced_features:           # Features for competitive advantage
+    - feature_name: string     # Name of advanced feature
+      description: string      # What the feature does
+      competitive_advantage: string # How feature creates advantage
+      feasibility: string      # Easy/Moderate/Difficult to implement
+
+# Market Positioning
+positioning:
+  target_market:
+    primary_segment: string    # Main market segment
+    segment_size: number       # Size of target segment
+    growth_rate: number        # Annual growth rate percentage
+  competitive_landscape:
+    direct_competitors: [string] # List of direct competitors
+    indirect_competitors: [string] # List of indirect competitors
+    competitive_advantages:    # How concept beats competition
+      - advantage: string      # Competitive advantage description
+        strength: string       # Weak/Moderate/Strong advantage
+  pricing_strategy:
+    price_point: number        # Target price point
+    pricing_model: string      # One-time/Subscription/Usage-based/Freemium
+    price_justification: string # Why this price point makes sense
+
+# Technical Specifications
+technical:
+  architecture:
+    system_type: string        # Web/Mobile/Desktop/Hardware/Service
+    technology_stack: [string] # Technologies to be used
+    integration_points: [string] # Systems to integrate with
+  performance_requirements:
+    - requirement: string      # Performance requirement description
+      target: string           # Target performance level
+      measurement: string      # How performance is measured
+  scalability:
+    initial_capacity: string   # Expected initial usage
+    growth_capacity: string    # Expected peak usage
+    scaling_strategy: string   # How system will scale
+
+# Business Model
+business_model:
+  revenue_streams:             # How concept generates revenue
+    - stream: string           # Revenue stream description
+      percentage: number       # Percentage of total revenue
+  cost_structure:              # Major cost components
+    - cost_type: string        # Type of cost (development, operations, etc.)
+      percentage: number       # Percentage of total costs
+  key_partnerships:            # Strategic partnerships needed
+    - partner_type: string     # Type of partner
+      value_provided: string   # Value partner brings
+
+# Risk Assessment
+risks:
+  technical_risks:             # Technology-related risks
+    - risk: string             # Risk description
+      probability: string      # Low/Medium/High
+      impact: string           # Low/Medium/High
+      mitigation: string       # How risk will be addressed
+  market_risks:                # Market-related risks
+    - risk: string             # Risk description
+      probability: string      # Low/Medium/High
+      impact: string           # Low/Medium/High
+      mitigation: string       # How risk will be addressed
+  business_risks:              # Business model risks
+    - risk: string             # Risk description
+      probability: string      # Low/Medium/High
+      impact: string           # Low/Medium/High
+      mitigation: string       # How risk will be addressed
+
+# Validation Data
+validation:
+  assumptions:                 # Key assumptions underlying concept
+    - assumption: string       # Assumption statement
+      confidence: string       # Low/Medium/High confidence
+      validation_method: string # How assumption can be tested
+      critical: boolean        # True if assumption is critical to success
+  user_research:               # User research findings
+    - finding: string          # Research finding
+      source: string           # Where finding came from
+      confidence: string       # Confidence in finding
+  market_validation:           # Market validation evidence
+    - evidence: string         # Validation evidence
+      source: string           # Source of evidence
+      date: date               # When evidence was gathered
+
+# Development Estimates
+development:
+  timeline:
+    mvp_timeline_weeks: number # Time to minimum viable product
+    full_development_weeks: number # Time to complete solution
+    phases:                    # Development phases
+      - phase: string          # Phase name
+        duration_weeks: number # Phase duration
+        deliverables: [string] # Phase deliverables
+  resources:
+    team_size: number          # Required team size
+    budget_estimate: number    # Estimated development budget
+    key_skills: [string]       # Critical skills needed
+  dependencies:
+    external_dependencies: [string] # External factors needed
+    internal_dependencies: [string] # Internal prerequisites
+
+# Success Metrics
+success_metrics:
+  user_metrics:                # User-focused success measures
+    - metric: string           # Metric name
+      target: number           # Target value
+      timeframe: string        # When target should be achieved
+  business_metrics:            # Business success measures
+    - metric: string           # Metric name
+      target: number           # Target value
+      timeframe: string        # When target should be achieved
+  technical_metrics:           # Technical success measures
+    - metric: string           # Metric name
+      target: string           # Target value
+      timeframe: string        # When target should be achieved
+
+# Related Concepts
+relationships:
+  parent_concept: string       # Higher-level concept this belongs to
+  child_concepts: [string]     # Sub-concepts derived from this
+  alternative_concepts: [string] # Other concepts addressing same problem
+  complementary_concepts: [string] # Concepts that work well together
+
+# Example Values (for reference)
+# name: "Voice-Activated Emergency Alert"
+# description: "Voice-activated emergency alert system integrated into existing smart home devices"
+# concept_id: "VAEA-001"
+# version: "1.0"
+# status: "Under Review"
+# core_value_proposition:
+#   primary_benefit: "Hands-free emergency communication for elderly users"
+#   target_user_segment: "Adults 65+ living independently"
+#   job_to_be_done: "Get help quickly during medical emergencies when unable to reach phone"
+#   differentiation: "Leverages existing smart home infrastructure, no new hardware needed"
