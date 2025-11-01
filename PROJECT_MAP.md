@@ -11,17 +11,17 @@ claude-agents/
 ├── CONTRIBUTING.md          # Rules for adding content
 ├── FILE_ORGANIZATION.md     # How to organize files for Claude Code
 ├── PROJECT_MAP.md          # This file - quick navigation
-├── INTEGRATION_MAP.md      # Northwestern MPD2 integration strategy
+├── INTEGRATION_MAP.md      # MPD2 integration strategy
 │
-├── design-system/          # Northwestern MPD2 enhanced primitives
+├── design-system/          # MPD2 enhanced primitives
 │   └── primitives/
 │       ├── schemas/        # YAML data structures
-│       ├── calculators/    # Northwestern scoring algorithms
+│       ├── calculators/    # MPD2 scoring algorithms
 │       └── generators/     # Analysis and decision support tools
 │
 ├── agents/                  # Complete solutions
 │   ├── README.md           # Template + catalog
-│   ├── strategist/         # Northwestern strategic agents
+│   ├── strategist/         # MPD2 strategic agents
 │   ├── evaluator/          # Systematic evaluation agents
 │   └── communicator/       # Decision support and briefing agents
 │
@@ -35,14 +35,14 @@ claude-agents/
 │
 ├── skills/                 # Domain knowledge and orchestration
 │   ├── README.md          # Organization guide
-│   ├── northwestern-strategy/    # Portfolio optimization skills
+│   ├── mpd2-strategy/    # Portfolio optimization skills
 │   ├── concept-development/      # Idea-to-prototype skills
 │   ├── decision-making/          # Trade-off analysis skills
 │   ├── backend/
 │   ├── frontend/
 │   └── [other domains]/
 │
-├── workflows/              # Northwestern enhanced processes
+├── workflows/              # MPD2 enhanced processes
 │   ├── README.md          # Template + catalog
 │   ├── evaluation/        # Enhanced evaluation workflows
 │   └── research/          # Strategic research workflows
@@ -55,8 +55,8 @@ claude-agents/
 ├── tools/                  # Executable utilities
 │   └── README.md          # Template + catalog
 │
-├── templates/              # Northwestern project templates
-│   └── northwestern-project-template.yaml
+├── templates/              # MPD2 project templates
+│   └── mpd2-project-template.yaml
 │
 ├── scripts/                # Management and monitoring
 │   ├── README.md          # Script documentation
@@ -65,9 +65,9 @@ claude-agents/
 │   ├── check_model_currency.sh  # Check LLM relevance
 │   └── model_registry.json      # Model tracking
 │
-└── examples/               # Real usage and Northwestern applications
+└── examples/               # Real usage and MPD2 applications
     ├── README.md          # Index of examples
-    └── northwestern-mpd2/ # Northwestern MPD2 integration examples
+    └── mpd2/ # MPD2 integration examples
 ```
 
 ## Finding Things
@@ -76,9 +76,9 @@ claude-agents/
 → `/agents/README.md` - Check the catalog for existing solutions
 → `/orchestration/README.md` - For complex, multi-phase projects
 
-### "I need Northwestern methodology application"
+### "I need MPD2 methodology application"
 → `/design-system/primitives/` - Core calculators and frameworks
-→ `/skills/northwestern-strategy/` - Portfolio optimization
+→ `/skills/mpd2-strategy/` - Portfolio optimization
 → `/skills/concept-development/` - Systematic development
 → `/skills/decision-making/` - Trade-off analysis
 
@@ -93,12 +93,12 @@ claude-agents/
 → `/tools/README.md` - Check available utilities
 
 ### "I need a systematic process"
-→ `/workflows/README.md` - Find Northwestern enhanced workflows
+→ `/workflows/README.md` - Find MPD2 enhanced workflows
 → `/workflows/evaluation/` - Stage-gate and evaluation processes
 
 ### "I want to see how it works in practice"
 → `/examples/README.md` - Browse real usage patterns
-→ `/examples/northwestern-mpd2/` - Northwestern methodology applications
+→ `/examples/mpd2/` - MPD2 methodology applications
 
 ### "I'm stuck and need help"
 → `/subagents/COMMUNITIES.md` - Find where experts hang out
@@ -119,13 +119,13 @@ claude-agents/
 4. Follow cross-references to related files
 5. Check examples for real usage
 
-### Northwestern MPD2 Navigation
+### MPD2 Navigation
 For systematic methodology application:
 1. Start with `/INTEGRATION_MAP.md` for overview
 2. Use `/design-system/primitives/` for basic scoring and analysis
 3. Apply `/skills/` for multi-agent coordination
 4. Scale to `/orchestration/` for complete project management
-5. Reference `/examples/northwestern-mpd2/` for real applications
+5. Reference `/examples/mpd2/` for real applications
 
 ## Conventions
 

@@ -1,5 +1,5 @@
-# Northwestern MPD2 Project Template
-# Complete project definition following Northwestern methodologies
+# MPD2 Project Template
+# Complete project definition following Master of Product Design & Development methodologies
 
 # Project Metadata
 name: ""                          # Project name for tracking and reference
@@ -9,8 +9,8 @@ last_updated: ""                  # YYYY-MM-DD format
 project_manager: ""               # Person responsible for project coordination
 stakeholders: []                  # List of key stakeholders and their roles
 
-# Northwestern Framework Classification
-northwestern_frameworks:
+# MPD2 Framework Classification
+mpd2_frameworks:
   knowledge_funnel_stage: ""      # mystery | heuristic | algorithm
   three_horizons_category: ""     # horizon_1 | horizon_2 | horizon_3
   exploration_exploitation: ""    # exploration | balanced | exploitation
@@ -43,7 +43,7 @@ scope:
   dependencies: []              # External dependencies required for success
   interfaces: []                # Key interfaces with other systems or projects
 
-# Northwestern Stage-Gate Planning
+# MPD2 Stage-Gate Planning
 stage_gate_plan:
   current_stage: 0              # Current stage number (0-4)
   stage_definitions:
@@ -107,7 +107,7 @@ resources:
   technology_requirements: []   # Technology infrastructure needed
   external_services: []         # External contractors or services required
 
-# Risk Assessment (Northwestern Risk Framework)
+# Risk Assessment (MPD2 Risk Framework)
 risk_assessment:
   overall_risk_level: ""        # low | moderate | high | very_high
   knowledge_funnel_risks:       # Risks specific to Knowledge Funnel stage
@@ -182,7 +182,7 @@ communication:
     gate_reviews: []            # Stage-gate review requirements
   escalation_procedures: []     # How to escalate issues and decisions
 
-# Northwestern Learning Framework
+# MPD2 Learning Framework
 learning_framework:
   knowledge_development:
     mystery_stage_learning: []  # Learning objectives for Mystery stage
@@ -225,8 +225,8 @@ change_management:
 # Template Usage Notes
 # 1. Complete all sections appropriate to your project's Knowledge Funnel stage
 # 2. Adjust stage-gate planning based on Three Horizons classification
-# 3. Ensure risk assessment reflects Northwestern uncertainty management
+# 3. Ensure risk assessment reflects MPD2 uncertainty management
 # 4. Include organizational learning objectives in addition to delivery objectives
-# 5. Integrate with existing organizational processes while adding Northwestern rigor
+# 5. Integrate with existing organizational processes while adding MPD2 rigor
 # 6. Use this template as a living document that evolves with the project
-# 7. Leverage Northwestern frameworks for decision-making throughout project lifecycle
+# 7. Leverage MPD2 frameworks for decision-making throughout project lifecycle
