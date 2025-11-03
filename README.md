@@ -41,6 +41,94 @@ The system now includes systematic application of:
 
 See [FILE_ORGANIZATION.md](FILE_ORGANIZATION.md) for detailed file organization best practices optimized for Claude Code.
 
+## Standard `.claude/` Directory Structure
+
+**For other Claude agent repositories:** This project uses a specialized MPD2-enhanced structure, but we recommend a simpler `.claude/` convention for general-purpose agent repositories:
+
+### Recommended Layout
+```
+.claude/
+├── agents/          # Main, runnable agent files
+├── subagents/       # Smaller, specialized agents used by other agents
+├── skills/          # Reusable prompt snippets, patterns, playbooks
+├── workflows/       # Checklists/processes (e.g., Baby Steps, TDD runs)
+├── tools/           # Tool specs/configs (if any)
+├── scripts/         # Helper shell/python scripts agents/workflows call
+└── examples/        # Worked examples, references
+```
+
+### Minimal Frontmatter Examples
+
+**Agent** (`.claude/agents/accessibility-first-ios-developer.md`):
+```markdown
+---
+name: Accessibility-First iOS Developer
+description: Builds iOS features with WCAG/ADA alignment.
+model: claude-3.5-sonnet
+---
+
+See also: ./../skills/swiftui_performance_patterns.md, ./../workflows/baby-steps-tdd.md
+```
+
+**Subagent** (`.claude/subagents/translate_english_to_asl_style.md`):
+```markdown
+---
+name: ASL Style Translator
+kind: subagent
+---
+
+Guidelines...
+```
+
+**Skill** (`.claude/skills/emergency_alert_protocols.md`):
+```markdown
+---
+name: Emergency Alert Protocols
+kind: skill
+---
+
+Reusable rules...
+```
+
+**Workflow** (`.claude/workflows/baby-steps-tdd.md`):
+```markdown
+---
+name: Baby Steps TDD
+kind: workflow
+---
+
+1) Small change → 2) Build/test → 3) Document...
+```
+
+### Migration from `.claude-agents/`
+
+Quick migration script (zsh):
+```bash
+mkdir -p .claude/{agents,subagents,skills,workflows,tools,scripts,examples}
+[[ -d .claude-agents/agents ]] && mv .claude-agents/agents/* .claude/agents/ 2>/dev/null
+[[ -d .claude-agents/subagents ]] && mv .claude-agents/subagents/* .claude/subagents/ 2>/dev/null
+[[ -d .claude-agents/skills ]] && mv .claude-agents/skills/* .claude/skills/ 2>/dev/null
+[[ -d .claude-agents/workflows ]] && mv .claude-agents/workflows/* .claude/workflows/ 2>/dev/null
+[[ -d .claude-agents/examples ]] && mv .claude-agents/examples/* .claude/examples/ 2>/dev/null
+```
+
+### Documentation Tips
+- In each agent, use relative links to `skills/`, `subagents/`, and `workflows/`
+- Add a section in `CLAUDE.md` listing the structure and purpose of each folder
+- Keep frontmatter minimal but consistent across similar file types
+
+### Validation
+```gherkin
+Scenario: Project agent assets are correctly organized
+  Given the repository contains Claude agents and related assets
+  When I inspect the `.claude/` directory
+  Then all runnable agents are under `.claude/agents/`
+  And specialized helpers are under `.claude/subagents/`
+  And reusable prompts are under `.claude/skills/`
+  And process playbooks are under `.claude/workflows/`
+  And no agent assets remain under `.claude-agents/`
+```
+
 ## Quick Start
 
 ### For Immediate Use
