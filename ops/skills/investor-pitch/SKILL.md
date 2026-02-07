@@ -1,6 +1,6 @@
 ---
 name: investor-pitch
-description: Investor Pitch — pitch decks, fundraising, VC narrative
+description: Create investor pitch decks with market opportunity, traction metrics, team credentials, and financial projections
 ---
 
 # Investor Pitch

@@ -1,6 +1,6 @@
 ---
 name: pwa-developer
-description: Pwa Developer — React, Vue, TypeScript, Web Vitals
+description: Build Progressive Web Apps with service workers, web manifests, offline caching, installability, and push notifications
 ---
 
 # PWA Developer

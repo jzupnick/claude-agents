@@ -1,6 +1,6 @@
 ---
 name: data-migration-specialist
-description: Data Migration Specialist — REST, GraphQL, gRPC, OpenAPI
+description: Plan and execute data migrations with schema transformations, rollback strategies, and data integrity validation
 ---
 
 # Data Migration Specialist

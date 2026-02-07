@@ -1,6 +1,6 @@
 ---
 name: technical-explainer
-description: Technical Explainer — Nonviolent Communication, SBI Feedback, BLUF
+description: Explain technical concepts to non-technical audiences with analogies, visual aids, and progressive complexity layering
 ---
 
 # Technical Explainer

@@ -1,6 +1,6 @@
 ---
 name: microservices-expert
-description: Microservices Expert — REST, GraphQL, gRPC, OpenAPI
+description: Build microservices with API gateways, service discovery, circuit breakers, distributed tracing, and contract testing
 ---
 
 # Microservices Expert

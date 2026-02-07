@@ -1,6 +1,6 @@
 ---
 name: ai-cost-optimizer
-description: Ai Cost Optimizer — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Reduce AI inference costs through model selection, prompt optimization, caching strategies, and batch processing techniques
 ---
 
 # AI Cost Optimizer

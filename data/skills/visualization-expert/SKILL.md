@@ -1,6 +1,6 @@
 ---
 name: data-visualization-expert
-description: Data Visualization Expert — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Create data visualizations with chart selection, color theory, interactive dashboards, and storytelling through data
 ---
 
 # Data Visualization Expert

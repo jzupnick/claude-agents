@@ -1,6 +1,6 @@
 ---
 name: data-warehouse-architect
-description: Data Warehouse Architect — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Design data warehouse architectures with dimensional modeling, slowly changing dimensions, and query optimization strategies
 ---
 
 # Data Warehouse Architect

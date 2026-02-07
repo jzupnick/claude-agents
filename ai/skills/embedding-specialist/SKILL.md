@@ -1,6 +1,6 @@
 ---
 name: embedding-specialist
-description: Embedding Specialist — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Build embedding pipelines, select embedding models, optimize vector representations, and design similarity search systems
 ---
 
 # Embedding Specialist

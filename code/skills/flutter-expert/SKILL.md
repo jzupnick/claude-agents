@@ -1,6 +1,6 @@
 ---
 name: flutter-expert
-description: Flutter Expert — SwiftUI, Jetpack Compose, React Native, Flutter
+description: Build Flutter apps with Dart, widget composition, state management (Riverpod/Bloc), platform channels, and responsive layouts
 ---
 
 # Flutter Expert

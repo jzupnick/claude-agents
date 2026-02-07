@@ -1,6 +1,6 @@
 ---
 name: stakeholder-communicator
-description: Stakeholder Communicator — Jobs-to-be-Done, OKRs, RICE
+description: Communicate with stakeholders using tailored messaging, progress updates, and escalation management
 ---
 
 # Stakeholder Communicator

@@ -1,6 +1,6 @@
 ---
 name: message-queue-architect
-description: Message Queue Architect — REST, GraphQL, gRPC, OpenAPI
+description: Design message queue systems with RabbitMQ, Kafka, or SQS for event-driven architectures, pub/sub, and dead letter handling
 ---
 
 # Message Queue Architect

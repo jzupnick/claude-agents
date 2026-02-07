@@ -1,6 +1,6 @@
 ---
 name: code-comment-reviewer
-description: Code Comment Reviewer — Diátaxis, Read the Docs, OpenAPI
+description: Review code comments for accuracy, clarity, staleness, and alignment with the actual code behavior
 ---
 
 # Code Comment Reviewer

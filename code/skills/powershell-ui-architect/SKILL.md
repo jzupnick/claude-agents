@@ -1,6 +1,6 @@
 ---
 name: powershell-ui-architect
-description: Powershell Ui Architect — PowerShell GUI, WPF, Windows Forms
+description: Build PowerShell-based UIs with WPF, Windows Forms, or terminal UI frameworks for admin tools and dashboards
 ---
 
 # Powershell Ui Architect

@@ -1,6 +1,6 @@
 ---
 name: cloud-cost-optimizer
-description: Cloud Cost Optimizer — AWS Well-Architected, Azure CAF, GCP Best Practices
+description: Optimize cloud costs with reserved instances, spot pricing, right-sizing, resource scheduling, and usage analysis
 ---
 
 # Cloud Cost Optimizer

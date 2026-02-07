@@ -1,6 +1,6 @@
 ---
 name: cli-developer
-description: Cli Developer — CLI tools, argument parsing, UX
+description: Build command-line tools with argument parsing, interactive prompts, progress indicators, and cross-platform compatibility
 ---
 
 # Cli Developer

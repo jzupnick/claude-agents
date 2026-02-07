@@ -1,6 +1,6 @@
 ---
 name: technical-presentation-designer
-description: Technical Presentation Designer — Diátaxis, Read the Docs, OpenAPI
+description: Design technical presentation structures with slide content, speaker notes, and visual hierarchy recommendations
 ---
 
 # Technical Presentation Designer

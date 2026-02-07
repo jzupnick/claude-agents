@@ -1,6 +1,6 @@
 ---
 name: persona-creator
-description: Persona Creator — Design Thinking, Double Diamond, Atomic Design
+description: Create evidence-based user personas with demographic data, behavioral patterns, goals, pain points, and usage scenarios
 ---
 
 # Persona Creator

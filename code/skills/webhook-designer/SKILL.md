@@ -1,6 +1,6 @@
 ---
 name: webhook-designer
-description: Webhook Designer — REST, GraphQL, gRPC, OpenAPI
+description: Design webhook systems with event schemas, delivery guarantees, retry logic, signature verification, and payload management
 ---
 
 # Webhook Designer

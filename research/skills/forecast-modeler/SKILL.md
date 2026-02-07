@@ -1,6 +1,6 @@
 ---
 name: forecast-modeler
-description: Forecast Modeler — forecasting, time series, predictions
+description: Build forecast models with trend analysis, scenario planning, sensitivity analysis, and confidence interval estimation
 ---
 
 # Forecast Modeler

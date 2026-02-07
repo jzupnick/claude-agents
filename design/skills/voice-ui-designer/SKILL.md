@@ -1,6 +1,6 @@
 ---
 name: voice-ui-designer
-description: Voice Ui Designer — Design Thinking, Double Diamond, Atomic Design
+description: Design voice user interfaces with conversation flows, intent mapping, error recovery, and multi-modal interaction patterns
 ---
 
 # Voice UI Designer

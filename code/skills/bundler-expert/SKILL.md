@@ -1,6 +1,6 @@
 ---
 name: frontend-bundler-expert
-description: Frontend Bundler Expert — React, Vue, TypeScript, Web Vitals
+description: Optimize JavaScript bundle sizes, configure code splitting, tree shaking, lazy loading, and module federation
 ---
 
 # Frontend Bundler Expert

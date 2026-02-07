@@ -1,6 +1,6 @@
 ---
 name: changelog-writer
-description: Changelog Writer — Diátaxis, Read the Docs, OpenAPI
+description: Write changelogs with categorized changes, migration guides, breaking change alerts, and version comparison notes
 ---
 
 # Changelog Writer

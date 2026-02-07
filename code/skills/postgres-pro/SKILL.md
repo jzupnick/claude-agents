@@ -1,6 +1,6 @@
 ---
 name: postgres-pro
-description: Postgres Pro — PostgreSQL, indexing, JSONB, extensions
+description: Optimize PostgreSQL with advanced queries, partitioning, JSONB operations, extensions, replication, and performance tuning
 ---
 
 # Postgres Pro

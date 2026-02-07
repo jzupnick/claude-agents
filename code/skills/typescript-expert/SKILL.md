@@ -1,6 +1,6 @@
 ---
 name: typescript-expert
-description: Typescript Expert — React, Vue, TypeScript, Web Vitals
+description: Design TypeScript type systems with generics, conditional types, mapped types, discriminated unions, and type inference
 ---
 
 # TypeScript Expert

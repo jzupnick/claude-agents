@@ -1,6 +1,6 @@
 ---
 name: secrets-management-expert
-description: Secrets Management Expert — Kubernetes, Terraform, GitOps
+description: Manage secrets with HashiCorp Vault, AWS Secrets Manager, or Azure Key Vault including rotation, access policies, and encryption
 ---
 
 # Secrets Management Expert

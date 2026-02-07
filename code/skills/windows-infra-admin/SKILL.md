@@ -1,6 +1,6 @@
 ---
 name: windows-infra-admin
-description: Windows Infra Admin — Active Directory, GPO, Windows Server
+description: Manage Windows Server infrastructure with Active Directory, Group Policy, WSUS, IIS, and PowerShell automation
 ---
 
 # Windows Infra Admin

@@ -1,6 +1,6 @@
 ---
 name: sql-pro
-description: Sql Pro — SQL, queries, joins, optimization
+description: Write advanced SQL with window functions, CTEs, recursive queries, JSON operations, and cross-database compatibility
 ---
 
 # Sql Pro

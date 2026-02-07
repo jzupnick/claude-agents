@@ -1,6 +1,6 @@
 ---
 name: interview-prepper
-description: Interview Prepper — interview prep, mock interviews, STAR method
+description: Prepare for job interviews with behavioral question practice, technical topic review, and company research strategies
 ---
 
 # Interview Prepper

@@ -1,6 +1,6 @@
 ---
 name: multi-agent-orchestrator
-description: Multi Agent Orchestrator — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Orchestrate multi-agent systems, design agent communication protocols, manage task delegation, and coordinate parallel agent execution
 ---
 
 # Multi-Agent Orchestrator

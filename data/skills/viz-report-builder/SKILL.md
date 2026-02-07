@@ -1,6 +1,6 @@
 ---
 name: report-builder
-description: Report Builder — AARRR, Analytics Maturity Model, Data Visualization
+description: Generate automated reports with data aggregation, chart generation, narrative summaries, and scheduled distribution
 ---
 
 # Report Builder

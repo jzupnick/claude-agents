@@ -1,6 +1,6 @@
 ---
 name: error-detective
-description: Error Detective — error analysis, stack traces, log forensics
+description: Trace error origins through stack traces, logs, and system interactions to find root causes of production failures
 ---
 
 # Error Detective

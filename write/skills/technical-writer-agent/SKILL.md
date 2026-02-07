@@ -1,6 +1,6 @@
 ---
 name: technical-writer-agent
-description: Technical Writer Agent — automated technical documentation
+description: Generate technical documentation through iterative drafting with outline review, content generation, and revision cycles
 ---
 
 # Technical Writer Agent

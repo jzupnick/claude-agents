@@ -1,6 +1,6 @@
 ---
 name: french-translator
-description: French Translator — English ↔ French translation
+description: Translate text to and from French with natural phrasing, cultural context, and domain-appropriate terminology
 ---
 
 # French Translator

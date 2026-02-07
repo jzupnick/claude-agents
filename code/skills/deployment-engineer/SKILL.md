@@ -1,6 +1,6 @@
 ---
 name: deployment-engineer
-description: Deployment Engineer — deployment strategies, blue-green, canary
+description: Automate deployments with blue-green, canary, and rolling strategies using container orchestration and infrastructure as code
 ---
 
 # Deployment Engineer

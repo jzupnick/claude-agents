@@ -1,6 +1,6 @@
 ---
 name: diagram-creator
-description: Diagram Creator — Diátaxis, Read the Docs, OpenAPI
+description: Create technical diagrams with Mermaid, PlantUML, or draw.io for architecture, flow, sequence, and entity relationships
 ---
 
 # Diagram Creator

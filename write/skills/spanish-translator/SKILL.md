@@ -1,6 +1,6 @@
 ---
 name: spanish-translator
-description: Spanish Translator — English ↔ Spanish translation
+description: Translate text to and from Spanish with regional dialect awareness, formal/informal register, and cultural nuance
 ---
 
 # Spanish Translator

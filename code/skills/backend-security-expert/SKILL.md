@@ -1,6 +1,6 @@
 ---
 name: backend-security-expert
-description: Backend Security Expert — REST, GraphQL, gRPC, OpenAPI
+description: Secure backend services against injection attacks, implement input validation, manage secrets, and enforce least-privilege access
 ---
 
 # Backend Security Expert

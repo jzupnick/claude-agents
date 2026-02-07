@@ -1,6 +1,6 @@
 ---
 name: powershell-7-expert
-description: Powershell 7 Expert — PowerShell 7, cross-platform scripting
+description: Build PowerShell 7 cross-platform scripts with modern cmdlets, parallel execution, and .NET interop capabilities
 ---
 
 # Powershell 7 Expert

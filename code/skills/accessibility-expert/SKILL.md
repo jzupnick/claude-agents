@@ -1,6 +1,6 @@
 ---
 name: mobile-accessibility-expert
-description: Mobile Accessibility Expert — SwiftUI, Jetpack Compose, React Native, Flutter
+description: Audit and fix mobile app accessibility for VoiceOver, TalkBack, dynamic type, and screen reader compatibility
 ---
 
 # Mobile Accessibility Expert

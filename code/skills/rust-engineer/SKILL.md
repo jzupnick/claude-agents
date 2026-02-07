@@ -1,6 +1,6 @@
 ---
 name: rust-engineer
-description: Rust Engineer — Rust, ownership, lifetimes, cargo
+description: Write Rust applications with ownership, lifetimes, traits, async runtime, error handling, and zero-cost abstractions
 ---
 
 # Rust Engineer

@@ -1,6 +1,6 @@
 ---
 name: risk-assessor
-description: Risk Assessor — risk evaluation, scoring, prioritization
+description: Assess project and operational risks with probability analysis, impact evaluation, and mitigation strategy development
 ---
 
 # Risk Assessor

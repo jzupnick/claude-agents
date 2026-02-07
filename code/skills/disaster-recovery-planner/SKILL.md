@@ -1,6 +1,6 @@
 ---
 name: disaster-recovery-planner
-description: Disaster Recovery Planner — Kubernetes, Terraform, GitOps
+description: Design disaster recovery plans with RPO/RTO targets, failover procedures, backup verification, and recovery testing
 ---
 
 # Disaster Recovery Planner

@@ -1,6 +1,6 @@
 ---
 name: nextjs-developer
-description: Nextjs Developer — Next.js, SSR, App Router, RSC
+description: Build Next.js applications with App Router, Server Components, API routes, ISR, middleware, and deployment optimization
 ---
 
 # Nextjs Developer

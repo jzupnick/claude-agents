@@ -1,6 +1,6 @@
 ---
 name: decision-advisor
-description: Decision Advisor — decision frameworks, options analysis
+description: Provide structured decision support with options analysis, criteria weighting, risk assessment, and recommendation synthesis
 ---
 
 # Decision Advisor

@@ -1,6 +1,6 @@
 ---
 name: nlp-engineer
-description: Nlp Engineer — NLP, tokenization, transformers, text processing
+description: Build NLP pipelines with text classification, named entity recognition, sentiment analysis, and language model integration
 ---
 
 # Nlp Engineer

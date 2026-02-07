@@ -1,6 +1,6 @@
 ---
 name: ai-safety-specialist
-description: Ai Safety Specialist — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Implement AI safety guardrails, content filtering, bias detection, output validation, and responsible AI practices
 ---
 
 # AI Safety Specialist

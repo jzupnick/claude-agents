@@ -1,6 +1,6 @@
 ---
 name: mobile-app-store-expert
-description: Mobile App Store Expert — SwiftUI, Jetpack Compose, React Native, Flutter
+description: Optimize App Store and Play Store listings, manage app review processes, handle release management, and improve store rankings
 ---
 
 # Mobile App Store Expert

@@ -1,6 +1,6 @@
 ---
 name: vue-expert
-description: Vue Expert — Vue 3, Composition API, Vuex/Pinia
+description: Build Vue.js applications with Composition API, Pinia state management, Vue Router, and component design patterns
 ---
 
 # Vue Expert

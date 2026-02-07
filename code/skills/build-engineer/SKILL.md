@@ -1,6 +1,6 @@
 ---
 name: build-engineer
-description: Build Engineer — build systems, CI pipelines, artifacts
+description: Configure build systems, optimize CI/CD pipelines, manage build artifacts, and reduce build times across projects
 ---
 
 # Build Engineer

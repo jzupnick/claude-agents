@@ -1,6 +1,6 @@
 ---
 name: serverless-architect
-description: Serverless Architect — AWS Well-Architected, Azure CAF, GCP Best Practices
+description: Design serverless architectures with Lambda/Cloud Functions, event-driven patterns, cold start optimization, and cost modeling
 ---
 
 # Serverless Architect

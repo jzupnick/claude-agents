@@ -1,6 +1,6 @@
 ---
 name: cache-strategist
-description: Cache Strategist — REST, GraphQL, gRPC, OpenAPI
+description: Design caching layers with Redis, Memcached, CDN caching, HTTP cache headers, and cache invalidation strategies
 ---
 
 # Cache Strategist

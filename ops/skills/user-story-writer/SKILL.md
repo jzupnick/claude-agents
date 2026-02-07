@@ -1,6 +1,6 @@
 ---
 name: user-story-writer
-description: User Story Writer — Jobs-to-be-Done, OKRs, RICE
+description: Write user stories with acceptance criteria, persona-driven narratives, edge case coverage, and testable requirements
 ---
 
 # User Story Writer

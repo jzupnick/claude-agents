@@ -1,6 +1,6 @@
 ---
 name: newsletter-writer
-description: Newsletter Writer — newsletters, email campaigns
+description: Write engaging newsletters with compelling subject lines, scannable formatting, and subscriber retention strategies
 ---
 
 # Newsletter Writer

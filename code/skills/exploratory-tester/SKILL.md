@@ -1,6 +1,6 @@
 ---
 name: exploratory-tester
-description: Exploratory Tester — Test Pyramid, Testing Trophy, BDD/TDD
+description: Perform exploratory testing to discover edge cases, usability issues, and unexpected behaviors beyond scripted test cases
 ---
 
 # Exploratory Tester

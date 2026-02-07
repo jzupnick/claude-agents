@@ -1,6 +1,6 @@
 ---
 name: budget-planner
-description: Budget Planner — budgets, cost planning, forecasting
+description: Create detailed project budgets with cost estimation, resource allocation, contingency planning, and tracking templates
 ---
 
 # Budget Planner

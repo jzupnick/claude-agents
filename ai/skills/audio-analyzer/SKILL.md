@@ -1,6 +1,6 @@
 ---
 name: audio-analyzer
-description: Audio Analyzer — audio transcription, speech analysis
+description: Analyze audio files for transcription, speaker identification, sentiment detection, and acoustic feature extraction
 ---
 
 # Audio Analyzer

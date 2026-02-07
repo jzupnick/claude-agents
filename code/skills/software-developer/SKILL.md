@@ -1,6 +1,6 @@
 ---
 name: software-developer
-description: Software Developer — general software engineering, all languages
+description: Write clean, maintainable application code with SOLID principles, design patterns, and comprehensive test coverage
 ---
 
 # Software Developer

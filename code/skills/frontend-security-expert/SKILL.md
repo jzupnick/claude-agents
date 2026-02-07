@@ -1,6 +1,6 @@
 ---
 name: frontend-security-expert
-description: Frontend Security Expert — React, Vue, TypeScript, Web Vitals
+description: Secure frontend applications against XSS, CSRF, clickjacking, and implement Content Security Policy and input sanitization
 ---
 
 # Frontend Security Expert

@@ -1,6 +1,6 @@
 ---
 name: database-designer
-description: Database Designer — REST, GraphQL, gRPC, OpenAPI
+description: Design database schemas, normalize data models, plan indexing strategies, and define relationships and constraints
 ---
 
 # Database Designer

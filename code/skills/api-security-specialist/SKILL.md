@@ -1,6 +1,6 @@
 ---
 name: api-security-specialist
-description: Api Security Specialist — Zero Trust, NIST CSF, ISO 27001
+description: Secure APIs with OAuth 2.0, JWT validation, rate limiting, input sanitization, and OWASP API security best practices
 ---
 
 # API Security Specialist

@@ -1,6 +1,6 @@
 ---
 name: tagline-creator
-description: Tagline Creator — taglines, slogans, brand copy
+description: Generate memorable taglines and slogans with brand alignment, emotional resonance, and competitive differentiation
 ---
 
 # Tagline Creator

@@ -1,6 +1,6 @@
 ---
 name: accessibility-specialist
-description: Accessibility Specialist — React, Vue, TypeScript, Web Vitals
+description: Implement WCAG-compliant web accessibility with ARIA attributes, keyboard navigation, focus management, and screen reader support
 ---
 
 # Accessibility Specialist

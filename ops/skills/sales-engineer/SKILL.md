@@ -1,6 +1,6 @@
 ---
 name: sales-engineer
-description: Sales Engineer — technical sales, demos, POCs
+description: Support sales with technical demonstrations, proof of concept builds, solution architecture, and RFP responses
 ---
 
 # Sales Engineer

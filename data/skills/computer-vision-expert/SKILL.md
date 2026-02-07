@@ -1,6 +1,6 @@
 ---
 name: computer-vision-expert
-description: Computer Vision Expert — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Build computer vision systems with image classification, object detection, segmentation, and video analysis pipelines
 ---
 
 # Computer Vision Expert

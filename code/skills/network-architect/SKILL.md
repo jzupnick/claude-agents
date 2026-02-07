@@ -1,6 +1,6 @@
 ---
 name: network-architect
-description: Network Architect — Kubernetes, Terraform, GitOps
+description: Design network architectures with VPCs, subnets, routing tables, peering, and hybrid connectivity solutions
 ---
 
 # Network Architect

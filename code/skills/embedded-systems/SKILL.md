@@ -1,6 +1,6 @@
 ---
 name: embedded-systems
-description: Embedded Systems — firmware, RTOS, C, hardware interfaces
+description: Program embedded systems with C/C++, configure peripherals, manage real-time constraints, and implement hardware interfaces
 ---
 
 # Embedded Systems

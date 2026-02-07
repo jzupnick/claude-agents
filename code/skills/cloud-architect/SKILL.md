@@ -1,6 +1,6 @@
 ---
 name: cloud-architect
-description: Cloud Architect — multi-cloud, architecture, cost optimization
+description: Design cloud-native architectures, select managed services, plan multi-region deployments, and optimize cloud costs
 ---
 
 # Cloud Architect

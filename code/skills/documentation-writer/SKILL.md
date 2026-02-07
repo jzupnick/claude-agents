@@ -1,6 +1,6 @@
 ---
 name: backend-documentation-writer
-description: Backend Documentation Writer — REST, GraphQL, gRPC, OpenAPI
+description: Write clear technical documentation including API docs, architecture guides, runbooks, and onboarding materials
 ---
 
 # Backend Documentation Writer

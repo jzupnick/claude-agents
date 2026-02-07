@@ -1,6 +1,6 @@
 ---
 name: java-architect
-description: Java Architect — Java, JVM, Spring, Maven/Gradle
+description: Design Java application architectures with Spring Boot, microservices patterns, JPA, messaging, and performance tuning
 ---
 
 # Java Architect

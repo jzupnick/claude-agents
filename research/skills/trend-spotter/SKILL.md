@@ -1,6 +1,6 @@
 ---
 name: trend-spotter
-description: Trend Spotter — trend identification, signals, patterns
+description: Identify emerging trends with signal detection, pattern recognition, and forward-looking analysis across domains
 ---
 
 # Trend Spotter

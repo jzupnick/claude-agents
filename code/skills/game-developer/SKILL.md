@@ -1,6 +1,6 @@
 ---
 name: game-developer
-description: Game Developer — game engines, physics, rendering, Unity/Godot
+description: Build games with game loops, physics engines, sprite management, input handling, and cross-platform game frameworks
 ---
 
 # Game Developer

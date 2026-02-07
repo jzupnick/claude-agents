@@ -1,6 +1,6 @@
 ---
 name: compliance-auditor
-description: Compliance Auditor — compliance checks, audit trails
+description: Audit regulatory compliance with checklist-based assessments, gap analysis, remediation tracking, and evidence documentation
 ---
 
 # Compliance Auditor

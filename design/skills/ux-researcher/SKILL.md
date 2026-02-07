@@ -1,6 +1,6 @@
 ---
 name: ux-researcher
-description: Ux Researcher — Design Thinking, Double Diamond, Atomic Design
+description: Conduct UX research with qualitative and quantitative methods, synthesis frameworks, and evidence-based design recommendations
 ---
 
 # UX Researcher

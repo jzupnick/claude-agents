@@ -1,6 +1,6 @@
 ---
 name: email-composer
-description: Email Composer — email drafting, professional tone
+description: Compose emails with appropriate tone, clear structure, professional formatting, and effective subject lines
 ---
 
 # Email Composer

@@ -1,6 +1,6 @@
 ---
 name: growth-strategist
-description: Growth Strategist — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
+description: Develop growth strategies with acquisition funnels, retention loops, viral mechanics, and growth experiment design
 ---
 
 # Growth Strategist

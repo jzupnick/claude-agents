@@ -1,6 +1,6 @@
 ---
 name: testing-mobile-apps
-description: Mobile App Testing — iOS simulators, Android emulators, device automation
+description: Test mobile apps on simulators and devices with automated UI interaction, screenshot capture, and accessibility checks
 
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:mobile-*)
 version: 1.0.0

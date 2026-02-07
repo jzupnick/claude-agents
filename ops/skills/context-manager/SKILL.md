@@ -1,6 +1,6 @@
 ---
 name: context-manager
-description: Context Manager — context tracking, session management
+description: Manage project context with documentation strategies, knowledge transfer plans, and institutional memory preservation
 ---
 
 # Context Manager

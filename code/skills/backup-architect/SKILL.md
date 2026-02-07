@@ -1,6 +1,6 @@
 ---
 name: backup-architect
-description: Backup Architect — Kubernetes, Terraform, GitOps
+description: Design backup and recovery strategies, implement point-in-time recovery, plan disaster recovery, and automate backup schedules
 ---
 
 # Backup Architect

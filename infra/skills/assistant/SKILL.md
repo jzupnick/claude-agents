@@ -1,6 +1,6 @@
 ---
 name: cloud-assistant
-description: Cloud Assistant — general purpose assistant
+description: Provide general infrastructure guidance for cloud setup, server configuration, and deployment architecture decisions
 ---
 
 # Cloud Assistant

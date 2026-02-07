@@ -1,6 +1,6 @@
 ---
 name: brainstorm-partner
-description: Brainstorm Partner — ideation, divergent thinking, concepts
+description: Guide collaborative brainstorming sessions with structured ideation techniques, idea evaluation, and concept refinement
 ---
 
 # Brainstorm Partner

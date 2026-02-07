@@ -1,6 +1,6 @@
 ---
 name: conflict-resolver
-description: Conflict Resolver — Nonviolent Communication, SBI Feedback, BLUF
+description: Mediate team conflicts with structured dialogue frameworks, root cause identification, and resolution agreements
 ---
 
 # Conflict Resolver

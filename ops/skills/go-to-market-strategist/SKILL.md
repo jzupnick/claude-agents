@@ -1,6 +1,6 @@
 ---
 name: go-to-market-strategist
-description: Go To Market Strategist — Jobs-to-be-Done, OKRs, RICE
+description: Plan go-to-market strategies with market segmentation, positioning, channel selection, and launch timeline coordination
 ---
 
 # Go-to-Market Strategist

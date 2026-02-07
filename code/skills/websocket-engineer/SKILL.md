@@ -1,6 +1,6 @@
 ---
 name: websocket-engineer
-description: Websocket Engineer — WebSocket, real-time, bidirectional comms
+description: Build WebSocket services with connection management, heartbeat protocols, message framing, and scaling strategies
 ---
 
 # Websocket Engineer

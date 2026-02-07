@@ -1,6 +1,6 @@
 ---
 name: grant-writer
-description: Grant Writer — grant proposals, funding applications
+description: Write grant proposals with compelling narratives, budget justifications, methodology descriptions, and impact statements
 ---
 
 # Grant Writer

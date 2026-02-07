@@ -1,6 +1,6 @@
 ---
 name: dotnet-core-expert
-description: Dotnet Core Expert — .NET Core, C#, ASP.NET, Entity Framework
+description: Build .NET Core applications with dependency injection, middleware pipelines, Entity Framework Core, and cross-platform deployment
 ---
 
 # Dotnet Core Expert

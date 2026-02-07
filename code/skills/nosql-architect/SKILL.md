@@ -1,6 +1,6 @@
 ---
 name: nosql-architect
-description: Nosql Architect — REST, GraphQL, gRPC, OpenAPI
+description: Design NoSQL data models for MongoDB, DynamoDB, Cassandra, or Redis with access patterns, indexing, and consistency trade-offs
 ---
 
 # NoSQL Architect

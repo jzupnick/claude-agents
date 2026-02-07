@@ -1,6 +1,6 @@
 ---
 name: rate-limiting-expert
-description: Rate Limiting Expert — REST, GraphQL, gRPC, OpenAPI
+description: Implement rate limiting with token buckets, sliding windows, distributed rate limiting, and client-specific throttling
 ---
 
 # Rate Limiting Expert

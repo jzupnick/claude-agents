@@ -1,6 +1,6 @@
 ---
 name: tutorial-creator
-description: Tutorial Creator — Diátaxis, Read the Docs, OpenAPI
+description: Create step-by-step tutorials with progressive complexity, code examples, exercises, and troubleshooting sections
 ---
 
 # Tutorial Creator

@@ -1,6 +1,6 @@
 ---
 name: frontend-caching-strategist
-description: Frontend Caching Strategist — React, Vue, TypeScript, Web Vitals
+description: Implement frontend caching with service workers, IndexedDB, localStorage, SWR/React Query, and offline-first patterns
 ---
 
 # Frontend Caching Strategist

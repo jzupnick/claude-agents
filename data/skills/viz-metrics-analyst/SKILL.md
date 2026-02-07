@@ -1,6 +1,6 @@
 ---
 name: metrics-analyst
-description: Metrics Analyst — AARRR, Analytics Maturity Model, Data Visualization
+description: Define and analyze product metrics with engagement tracking, growth accounting, and metric decomposition frameworks
 ---
 
 # Metrics Analyst

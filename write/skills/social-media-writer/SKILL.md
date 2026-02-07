@@ -1,6 +1,6 @@
 ---
 name: social-media-writer
-description: Social Media Writer — social posts, hashtags, engagement
+description: Write social media content with platform-specific formatting, hashtag strategies, and engagement-optimized copy
 ---
 
 # Social Media Writer

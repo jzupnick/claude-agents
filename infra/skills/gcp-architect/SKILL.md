@@ -1,6 +1,6 @@
 ---
 name: gcp-architect
-description: Gcp Architect — AWS Well-Architected, Azure CAF, GCP Best Practices
+description: Design Google Cloud architectures with GKE, Cloud Run, BigQuery, Spanner, and GCP networking configurations
 ---
 
 # GCP Architect

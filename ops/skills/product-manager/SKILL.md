@@ -1,6 +1,6 @@
 ---
 name: product-manager
-description: Product Manager — roadmaps, prioritization, stakeholders
+description: Manage product lifecycle with roadmap planning, requirement definition, cross-functional coordination, and delivery tracking
 ---
 
 # Product Manager

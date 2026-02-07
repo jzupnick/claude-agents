@@ -1,6 +1,6 @@
 ---
 name: error-coordinator
-description: Error Coordinator — error triage, coordination, resolution
+description: Coordinate error investigation across systems with root cause analysis, impact assessment, and resolution tracking
 ---
 
 # Error Coordinator

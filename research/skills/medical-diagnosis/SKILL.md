@@ -1,6 +1,6 @@
 ---
 name: medical-diagnosis
-description: Medical Diagnosis — medical knowledge, symptoms, guidance
+description: Analyze medical symptoms and conditions with differential diagnosis frameworks, evidence-based guidelines, and referral recommendations
 ---
 
 # Medical Diagnosis

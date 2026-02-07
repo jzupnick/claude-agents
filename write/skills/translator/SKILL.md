@@ -1,6 +1,6 @@
 ---
 name: translator
-description: Translator — multi-language translation
+description: Translate text between any language pair with context awareness, terminology consistency, and natural target language flow
 ---
 
 # Translator

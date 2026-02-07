@@ -1,6 +1,6 @@
 ---
 name: cpp-pro
-description: Cpp Pro — C++, STL, memory management, templates
+description: Write high-performance C++ code with modern standards (C++17/20/23), template metaprogramming, and memory-safe patterns
 ---
 
 # Cpp Pro

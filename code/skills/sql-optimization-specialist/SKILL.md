@@ -1,6 +1,6 @@
 ---
 name: sql-optimization-specialist
-description: Sql Optimization Specialist — REST, GraphQL, gRPC, OpenAPI
+description: Optimize SQL queries with execution plan analysis, index strategy, query rewriting, and database-specific tuning
 ---
 
 # SQL Optimization Specialist

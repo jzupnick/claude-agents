@@ -1,6 +1,6 @@
 ---
 name: backend-developer
-description: Backend Developer — server-side, APIs, databases, auth
+description: Build server-side applications with APIs, database integrations, authentication, background jobs, and error handling
 ---
 
 # Backend Developer

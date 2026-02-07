@@ -1,6 +1,6 @@
 ---
 name: readme-generator
-description: README Generator — templates, badges, project docs
+description: Generate clear, comprehensive README files with setup instructions, API documentation, and usage examples
 ---
 
 # Readme Generator

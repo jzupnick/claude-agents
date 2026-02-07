@@ -1,6 +1,6 @@
 ---
 name: email-writer
-description: Email Writer — Nonviolent Communication, SBI Feedback, BLUF
+description: Compose professional emails with appropriate tone, clear structure, and effective calls to action for business contexts
 ---
 
 # Email Writer

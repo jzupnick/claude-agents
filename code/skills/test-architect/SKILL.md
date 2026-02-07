@@ -1,6 +1,6 @@
 ---
 name: test-architect
-description: Test Architect — Test Pyramid, Testing Trophy, BDD/TDD
+description: Design test architectures with test pyramids, fixture strategies, test isolation, and cross-layer testing approaches
 ---
 
 # Test Architect

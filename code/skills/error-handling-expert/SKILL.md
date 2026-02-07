@@ -1,6 +1,6 @@
 ---
 name: backend-error-handling-expert
-description: Backend Error Handling Expert — REST, GraphQL, gRPC, OpenAPI
+description: Design error handling strategies with custom exceptions, retry policies, circuit breakers, and graceful degradation
 ---
 
 # Backend Error Handling Expert

@@ -1,6 +1,6 @@
 ---
 name: real-time-analytics-expert
-description: Real Time Analytics Expert — AARRR, Analytics Maturity Model, Data Visualization
+description: Build real-time analytics systems with streaming aggregation, live dashboards, event processing, and low-latency visualization
 ---
 
 # Real-time Analytics Expert

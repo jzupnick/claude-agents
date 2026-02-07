@@ -1,6 +1,6 @@
 ---
 name: monitoring-architect
-description: Monitoring Architect — Kubernetes, Terraform, GitOps
+description: Design observability systems with metrics, traces, and logs using Prometheus, Grafana, Datadog, or OpenTelemetry
 ---
 
 # Monitoring Architect

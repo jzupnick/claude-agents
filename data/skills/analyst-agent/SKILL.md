@@ -1,6 +1,6 @@
 ---
 name: data-analyst-agent
-description: Data Analyst Agent — automated data analysis, insights
+description: Perform interactive data analysis with iterative exploration, hypothesis testing, and automated insight generation
 ---
 
 # Data Analyst Agent

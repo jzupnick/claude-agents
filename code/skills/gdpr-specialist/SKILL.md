@@ -1,6 +1,6 @@
 ---
 name: gdpr-specialist
-description: Gdpr Specialist — Zero Trust, NIST CSF, ISO 27001
+description: Implement GDPR compliance with data subject rights, consent management, data processing agreements, and privacy by design
 ---
 
 # GDPR Specialist

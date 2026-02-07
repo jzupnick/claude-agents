@@ -1,6 +1,6 @@
 ---
 name: german-translator
-description: German Translator — English ↔ German translation
+description: Translate text to and from German with proper grammar, compound word handling, and formal/informal register
 ---
 
 # German Translator

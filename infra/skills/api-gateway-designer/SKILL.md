@@ -1,6 +1,6 @@
 ---
 name: cloud-api-gateway-designer
-description: Cloud Api Gateway Designer — AWS Well-Architected, Azure CAF, GCP Best Practices
+description: Design infrastructure-level API gateways with traffic routing, SSL termination, caching policies, and multi-service ingress
 ---
 
 # Cloud API Gateway Designer

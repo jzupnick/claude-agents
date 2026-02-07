@@ -1,6 +1,6 @@
 ---
 name: typescript-pro
-description: Typescript Pro — TypeScript, type system, generics, decorators
+description: Write TypeScript with strict mode, utility types, module declarations, and framework-specific type patterns
 ---
 
 # Typescript Pro

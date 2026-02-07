@@ -1,6 +1,6 @@
 ---
 name: database-optimizer
-description: Database Optimizer — query tuning, indexing, performance
+description: Optimize database performance with query analysis, index tuning, execution plan review, and connection pool configuration
 ---
 
 # Database Optimizer

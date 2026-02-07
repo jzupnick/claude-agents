@@ -1,6 +1,6 @@
 ---
 name: llm-optimizer
-description: Llm Optimizer — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Optimize LLM inference speed and quality through quantization, distillation, prompt engineering, and serving configuration
 ---
 
 # LLM Optimizer

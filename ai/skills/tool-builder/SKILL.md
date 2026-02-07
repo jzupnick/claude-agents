@@ -1,6 +1,6 @@
 ---
 name: ai-tool-builder
-description: Ai Tool Builder — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Build function-calling tools for LLM agents, design tool schemas, implement tool execution logic, and manage tool registries
 ---
 
 # AI Tool Builder

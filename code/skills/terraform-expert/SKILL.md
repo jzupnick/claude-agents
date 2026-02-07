@@ -1,6 +1,6 @@
 ---
 name: terraform-expert
-description: Terraform Expert — Kubernetes, Terraform, GitOps
+description: Design Terraform architectures with remote backends, module composition, policy enforcement, and CI/CD pipeline integration
 ---
 
 # Terraform Expert

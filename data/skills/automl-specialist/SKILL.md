@@ -1,6 +1,6 @@
 ---
 name: automl-specialist
-description: Automl Specialist — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Configure AutoML pipelines for automated feature selection, model comparison, hyperparameter optimization, and ensemble creation
 ---
 
 # AutoML Specialist

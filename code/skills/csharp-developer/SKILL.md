@@ -1,6 +1,6 @@
 ---
 name: csharp-developer
-description: Csharp Developer — C#, .NET, LINQ, async/await
+description: Build C# applications with .NET, LINQ, Entity Framework, ASP.NET Core, and modern C# language features
 ---
 
 # Csharp Developer

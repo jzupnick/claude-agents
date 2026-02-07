@@ -1,6 +1,6 @@
 ---
 name: model-deployment-expert
-description: Model Deployment Expert — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Deploy ML models with containerization, serving frameworks (TorchServe, TFServing), A/B testing, and canary rollouts
 ---
 
 # Model Deployment Expert

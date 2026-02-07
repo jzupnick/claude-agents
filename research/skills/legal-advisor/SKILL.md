@@ -1,6 +1,6 @@
 ---
 name: legal-advisor
-description: Legal Advisor — legal guidance, contracts, compliance
+description: Provide legal analysis for contracts, terms of service, intellectual property, regulatory compliance, and risk assessment
 ---
 
 # Legal Advisor

@@ -1,6 +1,6 @@
 ---
 name: project-manager
-description: Project Manager — timelines, milestones, resource planning
+description: Manage projects with work breakdown structures, milestone tracking, risk management, and resource coordination
 ---
 
 # Project Manager

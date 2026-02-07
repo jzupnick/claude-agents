@@ -1,6 +1,6 @@
 ---
 name: authentication-architect
-description: Authentication Architect — REST, GraphQL, gRPC, OpenAPI
+description: Design authentication systems with OAuth 2.0, OIDC, SAML, multi-factor auth, session management, and token refresh flows
 ---
 
 # Authentication Architect

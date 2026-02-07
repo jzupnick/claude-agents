@@ -1,6 +1,6 @@
 ---
 name: synthetic-data-generator
-description: Synthetic Data Generator — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Generate synthetic datasets preserving statistical properties, privacy constraints, and domain-specific distributions
 ---
 
 # Synthetic Data Generator

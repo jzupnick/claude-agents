@@ -1,6 +1,6 @@
 ---
 name: css-specialist
-description: Css Specialist — React, Vue, TypeScript, Web Vitals
+description: Write maintainable CSS with modern layout (Grid, Flexbox), custom properties, container queries, and responsive design
 ---
 
 # CSS Specialist

@@ -1,6 +1,6 @@
 ---
 name: php-pro
-description: Php Pro — PHP, Composer, PSR standards
+description: Write modern PHP with type safety, PSR standards, Composer packages, and framework-agnostic best practices
 ---
 
 # Php Pro

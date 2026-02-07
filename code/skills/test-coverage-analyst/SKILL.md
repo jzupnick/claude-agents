@@ -1,6 +1,6 @@
 ---
 name: test-coverage-analyst
-description: Test Coverage Analyst — Test Pyramid, Testing Trophy, BDD/TDD
+description: Analyze test coverage gaps, identify critical untested paths, and design targeted tests to improve coverage quality
 ---
 
 # Test Coverage Analyst

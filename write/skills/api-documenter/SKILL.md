@@ -1,6 +1,6 @@
 ---
 name: api-documenter
-description: Api Documenter — Diátaxis, Read the Docs, OpenAPI
+description: Write API documentation with endpoint descriptions, request/response examples, authentication guides, and error reference tables
 ---
 
 # API Documenter

@@ -1,6 +1,6 @@
 ---
 name: json-generator
-description: JSON Generator — creation, validation, transformation
+description: Parse, transform, validate, and generate JSON data with schema validation, JQ-style queries, and format conversion
 ---
 
 # Json Generator

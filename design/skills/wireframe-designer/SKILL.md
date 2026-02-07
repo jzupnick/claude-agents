@@ -1,6 +1,6 @@
 ---
 name: wireframe-designer
-description: Wireframe Designer — Design Thinking, Double Diamond, Atomic Design
+description: Create wireframes with layout structure, content hierarchy, component placement, and responsive breakpoint planning
 ---
 
 # Wireframe Designer

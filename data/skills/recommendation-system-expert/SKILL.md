@@ -1,6 +1,6 @@
 ---
 name: recommendation-system-expert
-description: Recommendation System Expert — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Build recommendation engines with collaborative filtering, content-based methods, hybrid approaches, and cold-start handling
 ---
 
 # Recommendation System Expert

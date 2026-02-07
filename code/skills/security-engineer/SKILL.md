@@ -1,6 +1,6 @@
 ---
 name: security-engineer
-description: Security Engineer — appsec, vulnerabilities, OWASP
+description: Build secure applications with threat modeling, secure coding practices, dependency scanning, and security testing automation
 ---
 
 # Security Engineer

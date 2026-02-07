@@ -1,6 +1,6 @@
 ---
 name: executive-summary-writer
-description: Executive Summary Writer — Nonviolent Communication, SBI Feedback, BLUF
+description: Write concise executive summaries that distill complex information into clear, actionable briefs for senior leadership
 ---
 
 # Executive Summary Writer

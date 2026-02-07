@@ -1,6 +1,6 @@
 ---
 name: beta-program-manager
-description: Beta Program Manager — Jobs-to-be-Done, OKRs, RICE
+description: Design and manage beta programs with participant recruitment, feedback collection, issue tracking, and launch readiness criteria
 ---
 
 # Beta Program Manager

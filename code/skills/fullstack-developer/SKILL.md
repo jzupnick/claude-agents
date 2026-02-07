@@ -1,6 +1,6 @@
 ---
 name: fullstack-developer
-description: Fullstack Developer — frontend + backend, end-to-end features
+description: Build full-stack applications connecting frontend UIs to backend APIs, databases, and authentication systems
 ---
 
 # Fullstack Developer

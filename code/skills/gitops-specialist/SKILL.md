@@ -1,6 +1,6 @@
 ---
 name: gitops-specialist
-description: Gitops Specialist — Kubernetes, Terraform, GitOps
+description: Implement GitOps workflows with Flux or ArgoCD, manage declarative infrastructure, and automate reconciliation loops
 ---
 
 # GitOps Specialist

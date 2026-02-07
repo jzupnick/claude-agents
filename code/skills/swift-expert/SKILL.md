@@ -1,6 +1,6 @@
 ---
 name: swift-expert
-description: Swift Expert — Swift, SwiftUI, UIKit, Xcode
+description: Write Swift code with protocols, generics, concurrency (async/await), property wrappers, and SwiftUI/UIKit integration
 ---
 
 # Swift Expert

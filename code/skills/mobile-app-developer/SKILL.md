@@ -1,6 +1,6 @@
 ---
 name: mobile-app-developer
-description: Mobile App Developer — iOS, Android, cross-platform apps
+description: Build native mobile apps for iOS and Android with platform-specific UI patterns, navigation, and device APIs
 ---
 
 # Mobile App Developer

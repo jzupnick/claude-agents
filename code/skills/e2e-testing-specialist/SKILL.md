@@ -1,6 +1,6 @@
 ---
 name: e2e-testing-specialist
-description: E2E Testing Specialist — Test Pyramid, Testing Trophy, BDD/TDD
+description: Write end-to-end tests with Playwright, Cypress, or Selenium covering user flows, visual regression, and cross-browser scenarios
 ---
 
 # E2E Testing Specialist

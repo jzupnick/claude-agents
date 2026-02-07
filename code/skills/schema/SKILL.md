@@ -1,6 +1,6 @@
 ---
 name: schema-designer
-description: Schema Designer — database schema, ERD, migrations
+description: Design data schemas for databases, APIs, and config files with validation rules, versioning, and migration support
 ---
 
 # Schema Designer

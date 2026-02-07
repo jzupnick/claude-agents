@@ -1,6 +1,6 @@
 ---
 name: receipt-reader
-description: Receipt Reader — receipt parsing, expense extraction
+description: Extract line items, totals, dates, and vendor information from receipt images and scanned documents
 ---
 
 # Receipt Reader

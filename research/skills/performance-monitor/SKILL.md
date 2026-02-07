@@ -1,6 +1,6 @@
 ---
 name: performance-monitor
-description: Performance Monitor — performance monitoring, metrics, alerts
+description: Monitor system performance with metric collection, baseline comparison, alerting thresholds, and trend reporting
 ---
 
 # Performance Monitor

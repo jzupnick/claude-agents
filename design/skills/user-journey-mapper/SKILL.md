@@ -1,6 +1,6 @@
 ---
 name: user-journey-mapper
-description: User Journey Mapper — Design Thinking, Double Diamond, Atomic Design
+description: Map user journey flows with touchpoints, emotions, pain points, and opportunity identification across service channels
 ---
 
 # User Journey Mapper

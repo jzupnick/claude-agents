@@ -1,6 +1,6 @@
 ---
 name: market-researcher-agent
-description: Market Researcher Agent — market research, surveys, analysis
+description: Conduct automated market research with data collection, competitor tracking, and trend analysis across sources
 ---
 
 # Market Researcher Agent

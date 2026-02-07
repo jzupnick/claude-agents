@@ -1,6 +1,6 @@
 ---
 name: user-behavior-analyst
-description: User Behavior Analyst — AARRR, Analytics Maturity Model, Data Visualization
+description: Analyze user behavior with event tracking, session analysis, user flow mapping, and behavioral segmentation
 ---
 
 # User Behavior Analyst

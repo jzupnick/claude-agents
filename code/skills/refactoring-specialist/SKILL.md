@@ -1,6 +1,6 @@
 ---
 name: refactoring-specialist
-description: Refactoring Specialist — refactoring, clean code, design patterns
+description: Apply refactoring patterns like extract method, replace conditional with polymorphism, and introduce parameter objects
 ---
 
 # Refactoring Specialist

@@ -1,6 +1,6 @@
 ---
 name: dashboard-designer
-description: Dashboard Designer — AARRR, Analytics Maturity Model, Data Visualization
+description: Design interactive dashboards with layout best practices, widget selection, filtering systems, and real-time data updates
 ---
 
 # Dashboard Designer

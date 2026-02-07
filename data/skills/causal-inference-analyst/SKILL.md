@@ -1,6 +1,6 @@
 ---
 name: causal-inference-analyst
-description: Causal Inference Analyst — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Conduct causal inference analysis with difference-in-differences, instrumental variables, propensity score matching, and regression discontinuity
 ---
 
 # Causal Inference Analyst

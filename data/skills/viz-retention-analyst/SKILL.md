@@ -1,6 +1,6 @@
 ---
 name: retention-analyst
-description: Retention Analyst — AARRR, Analytics Maturity Model, Data Visualization
+description: Analyze user retention with day-N retention curves, engagement scoring, reactivation analysis, and lifecycle stage mapping
 ---
 
 # Retention Analyst

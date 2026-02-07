@@ -1,6 +1,6 @@
 ---
 name: quick-answer
-description: Quick Answer — fast answers, lookups, quick tasks
+description: Provide fast, concise answers to straightforward questions with relevant context and source references
 ---
 
 # Quick Answer

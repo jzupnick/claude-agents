@@ -1,6 +1,6 @@
 ---
 name: docker-specialist
-description: Docker Specialist — Kubernetes, Terraform, GitOps
+description: Write Dockerfiles, configure multi-stage builds, optimize image sizes, manage Docker Compose, and troubleshoot containers
 ---
 
 # Docker Specialist

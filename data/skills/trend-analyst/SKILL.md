@@ -1,6 +1,6 @@
 ---
 name: trend-analyst
-description: Trend Analyst — trend analysis, forecasting, signals
+description: Identify and forecast data trends with moving averages, exponential smoothing, change point detection, and growth modeling
 ---
 
 # Trend Analyst

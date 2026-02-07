@@ -1,6 +1,6 @@
 ---
 name: feature-prioritization-expert
-description: Feature Prioritization Expert — Jobs-to-be-Done, OKRs, RICE
+description: Prioritize features with RICE scoring, Jobs-to-be-Done analysis, OKR alignment, and stakeholder impact assessment
 ---
 
 # Feature Prioritization Expert

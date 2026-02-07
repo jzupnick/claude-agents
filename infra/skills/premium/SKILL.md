@@ -1,6 +1,6 @@
 ---
 name: cloud-premium
-description: Cloud Premium — premium cloud services, enterprise architecture
+description: Provide premium infrastructure consulting for enterprise-scale architecture, capacity planning, and high-availability design
 ---
 
 # Cloud Premium

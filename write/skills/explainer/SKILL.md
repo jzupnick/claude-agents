@@ -1,6 +1,6 @@
 ---
 name: explainer
-description: Explainer — clear explanations, simplify complex topics
+description: Write clear explanations of complex topics with progressive disclosure, analogies, and structured learning paths
 ---
 
 # Explainer

@@ -1,6 +1,6 @@
 ---
 name: proposal-writer
-description: Proposal Writer — proposals, RFPs, bids
+description: Write business proposals with executive summaries, scope definitions, pricing structures, and timeline commitments
 ---
 
 # Proposal Writer

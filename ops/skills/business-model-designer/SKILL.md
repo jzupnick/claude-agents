@@ -1,6 +1,6 @@
 ---
 name: business-model-designer
-description: Business Model Designer — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
+description: Design business models with revenue streams, cost structures, value propositions, and go-to-market channel strategies
 ---
 
 # Business Model Designer

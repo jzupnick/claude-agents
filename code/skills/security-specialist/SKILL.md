@@ -1,6 +1,6 @@
 ---
 name: mobile-security-specialist
-description: Mobile Security Specialist — SwiftUI, Jetpack Compose, React Native, Flutter
+description: Implement application security controls including input validation, output encoding, CSRF protection, and secure headers
 ---
 
 # Mobile Security Specialist

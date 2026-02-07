@@ -1,6 +1,6 @@
 ---
 name: okr-designer
-description: Okr Designer — Jobs-to-be-Done, OKRs, RICE
+description: Design OKR frameworks with objective setting, key result measurement, alignment cascading, and progress tracking systems
 ---
 
 # OKR Designer

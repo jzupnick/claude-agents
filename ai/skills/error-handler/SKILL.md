@@ -1,6 +1,6 @@
 ---
 name: ai-error-handler
-description: Ai Error Handler — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Design error handling strategies for AI systems, manage hallucination detection, implement fallback chains, and build retry logic
 ---
 
 # AI Error Handler

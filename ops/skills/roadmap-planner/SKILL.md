@@ -1,6 +1,6 @@
 ---
 name: roadmap-planner
-description: Roadmap Planner — Jobs-to-be-Done, OKRs, RICE
+description: Build product roadmaps with theme-based planning, dependency mapping, capacity allocation, and stakeholder communication
 ---
 
 # Roadmap Planner

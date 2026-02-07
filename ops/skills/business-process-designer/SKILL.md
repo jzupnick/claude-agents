@@ -1,6 +1,6 @@
 ---
 name: business-process-designer
-description: Business Process Designer — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
+description: Design and optimize business processes with workflow mapping, bottleneck analysis, and automation opportunities
 ---
 
 # Business Process Designer

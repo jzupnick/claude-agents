@@ -1,6 +1,6 @@
 ---
 name: executive-summary
-description: Executive Summary — executive briefs, TL;DR summaries
+description: Create structured executive summaries with situation analysis, key findings, recommendations, and next steps
 ---
 
 # Executive Summary

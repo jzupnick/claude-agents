@@ -1,6 +1,6 @@
 ---
 name: default
-description: Default — general purpose assistant
+description: Handle general requests with adaptive responses, task decomposition, and appropriate tool selection
 ---
 
 # Default

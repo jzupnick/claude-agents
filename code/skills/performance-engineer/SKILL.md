@@ -1,6 +1,6 @@
 ---
 name: performance-engineer
-description: Performance Engineer — profiling, benchmarking, optimization
+description: Profile and optimize application performance through benchmarking, bottleneck analysis, caching, and resource tuning
 ---
 
 # Performance Engineer

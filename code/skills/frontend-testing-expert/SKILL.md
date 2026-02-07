@@ -1,6 +1,6 @@
 ---
 name: frontend-testing-expert
-description: Frontend Testing Expert — React, Vue, TypeScript, Web Vitals
+description: Write frontend tests with React Testing Library, Jest, Vitest, component snapshots, and interaction testing
 ---
 
 # Frontend Testing Expert

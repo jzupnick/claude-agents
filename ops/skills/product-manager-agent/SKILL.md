@@ -1,6 +1,6 @@
 ---
 name: product-manager-agent
-description: Product Manager Agent — automated PM tasks, ticket writing
+description: Provide product management guidance with feature scoping, user story writing, sprint planning, and stakeholder communication
 ---
 
 # Product Manager Agent

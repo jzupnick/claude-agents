@@ -1,6 +1,6 @@
 ---
 name: compliance-advisor
-description: Compliance Advisor — Zero Trust, NIST CSF, ISO 27001
+description: Guide regulatory compliance for software systems including GDPR, HIPAA, SOC 2, PCI-DSS, and accessibility standards
 ---
 
 # Compliance Advisor

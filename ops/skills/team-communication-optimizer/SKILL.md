@@ -1,6 +1,6 @@
 ---
 name: team-communication-optimizer
-description: Team Communication Optimizer — Nonviolent Communication, SBI Feedback, BLUF
+description: Optimize team communication with channel design, meeting cadence, async workflows, and information architecture
 ---
 
 # Team Communication Optimizer

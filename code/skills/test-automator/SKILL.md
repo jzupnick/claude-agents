@@ -1,6 +1,6 @@
 ---
 name: test-automator
-description: Test Automator — test automation, CI integration, frameworks
+description: Automate test execution with framework configuration, parallel runners, reporting, and CI/CD pipeline integration
 ---
 
 # Test Automator

@@ -1,6 +1,6 @@
 ---
 name: mcp-developer
-description: Mcp Developer — Model Context Protocol, tool servers
+description: Build Model Context Protocol servers and tools, implement resource providers, and integrate external services with LLM agents
 ---
 
 # Mcp Developer

@@ -1,6 +1,6 @@
 ---
 name: mobile-testing-expert
-description: Mobile Testing Expert — SwiftUI, Jetpack Compose, React Native, Flutter
+description: Test mobile apps with XCTest, Espresso, Detox, or Appium covering device compatibility, gestures, and offline scenarios
 ---
 
 # Mobile Testing Expert

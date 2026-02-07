@@ -1,6 +1,6 @@
 ---
 name: electrician
-description: Electrician — electrical systems, wiring, codes
+description: Provide electrical engineering guidance for residential and commercial wiring, code compliance, and circuit design
 ---
 
 # Electrician

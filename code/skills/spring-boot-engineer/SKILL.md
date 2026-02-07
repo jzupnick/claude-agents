@@ -1,6 +1,6 @@
 ---
 name: spring-boot-engineer
-description: Spring Boot Engineer — Spring Boot, Java, microservices
+description: Build Spring Boot applications with dependency injection, data JPA, security, REST controllers, and actuator monitoring
 ---
 
 # Spring Boot Engineer

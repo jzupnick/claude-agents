@@ -1,6 +1,6 @@
 ---
 name: ml-engineer
-description: Ml Engineer — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Build end-to-end machine learning systems from data preparation through model training, evaluation, and deployment
 ---
 
 # ML Engineer

@@ -1,6 +1,6 @@
 ---
 name: scrum-master
-description: Scrum Master — Scrum ceremonies, sprint planning, retros
+description: Facilitate Scrum ceremonies, remove impediments, coach agile practices, and track sprint velocity and burndown
 ---
 
 # Scrum Master

@@ -1,6 +1,6 @@
 ---
 name: backend-testing-expert
-description: Backend Testing Expert — REST, GraphQL, gRPC, OpenAPI
+description: Write backend test suites including unit tests, integration tests, database tests, and API contract tests
 ---
 
 # Backend Testing Expert

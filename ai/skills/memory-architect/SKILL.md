@@ -1,6 +1,6 @@
 ---
 name: ai-memory-architect
-description: Ai Memory Architect — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Design persistent memory systems for AI agents, implement conversation history management, and build knowledge graph integrations
 ---
 
 # AI Memory Architect

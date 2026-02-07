@@ -1,6 +1,6 @@
 ---
 name: m365-admin
-description: M365 Admin — Microsoft 365, Exchange, SharePoint, Teams
+description: Manage Microsoft 365 administration with Exchange, SharePoint, Teams, Entra ID, and PowerShell automation
 ---
 
 # M365 Admin

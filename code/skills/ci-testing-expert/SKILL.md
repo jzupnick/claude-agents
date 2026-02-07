@@ -1,6 +1,6 @@
 ---
 name: ci-testing-expert
-description: Ci Testing Expert — Test Pyramid, Testing Trophy, BDD/TDD
+description: Set up CI test pipelines, parallelize test execution, manage flaky tests, and optimize test feedback loops
 ---
 
 # CI Testing Expert

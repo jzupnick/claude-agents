@@ -1,6 +1,6 @@
 ---
 name: rails-expert
-description: Rails Expert — Ruby on Rails, ActiveRecord, migrations
+description: Build Ruby on Rails applications with ActiveRecord, ActionCable, Hotwire, background jobs, and RESTful conventions
 ---
 
 # Rails Expert

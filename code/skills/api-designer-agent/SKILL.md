@@ -1,6 +1,6 @@
 ---
 name: api-designer-agent
-description: Api Designer Agent — API contracts, OpenAPI, schema design
+description: Collaboratively design API contracts through iterative refinement, generating OpenAPI specs and schema validation rules
 ---
 
 # Api Designer Agent

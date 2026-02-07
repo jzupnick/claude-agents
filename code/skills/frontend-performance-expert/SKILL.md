@@ -1,6 +1,6 @@
 ---
 name: frontend-performance-expert
-description: Frontend Performance Expert — React, Vue, TypeScript, Web Vitals
+description: Optimize frontend performance with code splitting, lazy loading, image optimization, Core Web Vitals, and rendering strategies
 ---
 
 # Frontend Performance Expert

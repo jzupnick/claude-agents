@@ -1,6 +1,6 @@
 ---
 name: pricing-strategist
-description: Pricing Strategist — Jobs-to-be-Done, OKRs, RICE
+description: Design pricing strategies with value-based pricing, competitive analysis, price elasticity modeling, and packaging optimization
 ---
 
 # Pricing Strategist

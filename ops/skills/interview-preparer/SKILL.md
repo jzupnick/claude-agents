@@ -1,6 +1,6 @@
 ---
 name: interview-preparer
-description: Interview Preparer — Nonviolent Communication, SBI Feedback, BLUF
+description: Design interview processes with question banks, evaluation rubrics, candidate assessment frameworks, and debrief templates
 ---
 
 # Interview Preparer

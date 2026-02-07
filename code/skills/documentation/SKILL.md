@@ -1,6 +1,6 @@
 ---
 name: documentation-engineer
-description: Documentation Engineer — API docs, READMEs, technical writing
+description: Generate and maintain code documentation with JSDoc, docstrings, README files, and inline comments
 ---
 
 # Documentation Engineer

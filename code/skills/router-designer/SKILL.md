@@ -1,6 +1,6 @@
 ---
 name: frontend-router-designer
-description: Frontend Router Designer — React, Vue, TypeScript, Web Vitals
+description: Design client-side routing with nested routes, lazy loading, route guards, URL parameters, and navigation state management
 ---
 
 # Frontend Router Designer

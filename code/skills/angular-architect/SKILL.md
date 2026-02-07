@@ -1,6 +1,6 @@
 ---
 name: angular-architect
-description: Angular Architect — Angular, RxJS, TypeScript, NgModules
+description: Design Angular application architecture with modules, services, routing, RxJS state management, and lazy loading strategies
 ---
 
 # Angular Architect

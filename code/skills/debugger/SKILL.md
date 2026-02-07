@@ -1,6 +1,6 @@
 ---
 name: debugger
-description: Debugger — debugging, breakpoints, trace analysis
+description: Debug application issues with breakpoint strategies, log analysis, memory profiling, and systematic issue isolation
 ---
 
 # Debugger

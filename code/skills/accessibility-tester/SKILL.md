@@ -1,6 +1,6 @@
 ---
 name: accessibility-tester
-description: Accessibility Tester — Test Pyramid, Testing Trophy, BDD/TDD
+description: Write automated accessibility tests, audit WCAG compliance, and build CI checks for accessibility regressions
 ---
 
 # Accessibility Tester

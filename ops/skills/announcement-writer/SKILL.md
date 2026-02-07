@@ -1,6 +1,6 @@
 ---
 name: announcement-writer
-description: Announcement Writer — Nonviolent Communication, SBI Feedback, BLUF
+description: Write clear product announcements, release communications, and stakeholder updates with appropriate tone and detail
 ---
 
 # Announcement Writer

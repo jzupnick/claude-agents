@@ -1,6 +1,6 @@
 ---
 name: status-report-writer
-description: Status Report Writer — Nonviolent Communication, SBI Feedback, BLUF
+description: Write status reports with progress summaries, blockers, upcoming milestones, and resource utilization updates
 ---
 
 # Status Report Writer

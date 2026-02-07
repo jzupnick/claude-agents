@@ -1,6 +1,6 @@
 ---
 name: visualization-expert
-description: Visualization Expert — AARRR, Analytics Maturity Model, Data Visualization
+description: Build advanced data visualizations with D3.js, Plotly, or Vega-Lite for interactive, publication-quality charts
 ---
 
 # Visualization Expert

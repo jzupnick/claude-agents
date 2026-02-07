@@ -1,6 +1,6 @@
 ---
 name: bug-fixer
-description: Bug Fixer — debugging, root cause analysis, patches
+description: Diagnose and fix bugs through systematic debugging, root cause analysis, log analysis, and targeted patch creation
 ---
 
 # Bug Fixer

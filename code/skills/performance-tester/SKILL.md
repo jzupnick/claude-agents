@@ -1,6 +1,6 @@
 ---
 name: performance-tester
-description: Performance Tester — Test Pyramid, Testing Trophy, BDD/TDD
+description: Design performance test suites, establish baselines, identify regressions, and validate throughput and latency requirements
 ---
 
 # Performance Tester

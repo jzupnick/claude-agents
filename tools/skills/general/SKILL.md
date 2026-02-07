@@ -1,6 +1,6 @@
 ---
 name: assistant
-description: General Assistant — broad knowledge, multi-domain support
+description: Provide versatile assistance for miscellaneous tasks with clear explanations and structured output
 ---
 
 # Assistant

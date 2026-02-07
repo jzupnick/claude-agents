@@ -1,6 +1,6 @@
 ---
 name: chaos-engineer
-description: Chaos Engineer — chaos engineering, fault injection, resilience
+description: Design chaos experiments, implement fault injection, test system resilience, and build automated recovery validation
 ---
 
 # Chaos Engineer

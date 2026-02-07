@@ -1,6 +1,6 @@
 ---
 name: frontend-monitoring-specialist
-description: Frontend Monitoring Specialist — React, Vue, TypeScript, Web Vitals
+description: Configure infrastructure monitoring with uptime checks, resource utilization alerts, and capacity trend analysis
 ---
 
 # Frontend Monitoring Specialist

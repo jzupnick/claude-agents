@@ -1,6 +1,6 @@
 ---
 name: mobile-ux-designer
-description: Mobile Ux Designer — Design Thinking, Double Diamond, Atomic Design
+description: Design mobile user experiences with touch interactions, navigation patterns, gesture shortcuts, and platform-appropriate conventions
 ---
 
 # Mobile UX Designer

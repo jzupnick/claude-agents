@@ -1,6 +1,6 @@
 ---
 name: threat-modeling-expert
-description: Threat Modeling Expert — Zero Trust, NIST CSF, ISO 27001
+description: Conduct threat modeling with STRIDE, attack trees, data flow diagrams, and security control recommendations
 ---
 
 # Threat Modeling Expert

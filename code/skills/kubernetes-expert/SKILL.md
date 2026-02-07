@@ -1,6 +1,6 @@
 ---
 name: kubernetes-expert
-description: Kubernetes Expert — Kubernetes, Terraform, GitOps
+description: Deploy and manage Kubernetes clusters with Helm charts, operators, networking policies, and resource management
 ---
 
 # Kubernetes Expert

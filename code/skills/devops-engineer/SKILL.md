@@ -1,6 +1,6 @@
 ---
 name: devops-engineer
-description: Devops Engineer — CI/CD, pipelines, automation, containers
+description: Build DevOps infrastructure with CI/CD pipelines, container orchestration, monitoring, and infrastructure as code
 ---
 
 # Devops Engineer

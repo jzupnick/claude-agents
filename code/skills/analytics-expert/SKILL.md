@@ -1,6 +1,6 @@
 ---
 name: mobile-analytics-expert
-description: Mobile Analytics Expert — SwiftUI, Jetpack Compose, React Native, Flutter
+description: Implement mobile analytics tracking, event instrumentation, user flow analysis, and crash reporting integration
 ---
 
 # Mobile Analytics Expert

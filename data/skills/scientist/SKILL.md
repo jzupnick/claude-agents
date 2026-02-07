@@ -1,6 +1,6 @@
 ---
 name: data-scientist
-description: Data Scientist — statistics, experiments, modeling, Python
+description: Apply data science methodology with exploratory analysis, feature engineering, model selection, and results communication
 ---
 
 # Data Scientist

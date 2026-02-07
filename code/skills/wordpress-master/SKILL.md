@@ -1,6 +1,6 @@
 ---
 name: wordpress-master
-description: Wordpress Master — WordPress, themes, plugins, WP-CLI
+description: Build and customize WordPress sites with themes, plugins, custom post types, Gutenberg blocks, and WP-CLI management
 ---
 
 # Wordpress Master

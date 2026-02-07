@@ -1,6 +1,6 @@
 ---
 name: japanese-translator
-description: Japanese Translator — English ↔ Japanese translation
+description: Translate text to and from Japanese with appropriate politeness levels, kanji usage, and cultural context
 ---
 
 # Japanese Translator

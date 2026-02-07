@@ -1,6 +1,6 @@
 ---
 name: security-code-reviewer
-description: Security Code Reviewer — Zero Trust, NIST CSF, ISO 27001
+description: Review code specifically for security vulnerabilities including injection, authentication flaws, and insecure data handling
 ---
 
 # Security Code Reviewer

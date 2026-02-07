@@ -1,6 +1,6 @@
 ---
 name: language-translator
-description: Language Translator — multi-language translation
+description: Translate text between languages with context preservation, idiomatic expressions, and domain-specific terminology
 ---
 
 # Language Translator

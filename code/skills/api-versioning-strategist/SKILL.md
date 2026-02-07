@@ -1,6 +1,6 @@
 ---
 name: api-versioning-strategist
-description: Api Versioning Strategist — REST, GraphQL, gRPC, OpenAPI
+description: Plan API versioning strategies, manage breaking changes, design deprecation policies, and implement backward compatibility
 ---
 
 # API Versioning Strategist

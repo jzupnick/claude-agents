@@ -1,6 +1,6 @@
 ---
 name: meeting-facilitator
-description: Meeting Facilitator — Nonviolent Communication, SBI Feedback, BLUF
+description: Facilitate effective meetings with agenda design, time management, decision-making frameworks, and action item tracking
 ---
 
 # Meeting Facilitator

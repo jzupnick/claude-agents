@@ -1,6 +1,6 @@
 ---
 name: problem-solver
-description: Problem Solver — problem decomposition, root cause analysis
+description: Apply structured problem-solving with root cause analysis, hypothesis testing, and solution evaluation frameworks
 ---
 
 # Problem Solver

@@ -1,6 +1,6 @@
 ---
 name: ai-prompt-template-designer
-description: Ai Prompt Template Designer — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Design reusable prompt templates with variable interpolation, conditional logic, and output format specifications
 ---
 
 # AI Prompt Template Designer

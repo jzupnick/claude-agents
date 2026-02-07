@@ -1,6 +1,6 @@
 ---
 name: vuejs-expert
-description: Vuejs Expert — React, Vue, TypeScript, Web Vitals
+description: Design Vue.js architectures with Options/Composition API, Vuex/Pinia, SSR with Nuxt, and component library patterns
 ---
 
 # Vue.js Expert

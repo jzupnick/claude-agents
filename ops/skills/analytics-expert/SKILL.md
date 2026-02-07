@@ -1,6 +1,6 @@
 ---
 name: product-analytics-expert
-description: Product Analytics Expert — Jobs-to-be-Done, OKRs, RICE
+description: Define business analytics strategies with metric frameworks, data collection plans, and dashboard requirements
 ---
 
 # Product Analytics Expert

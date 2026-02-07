@@ -1,6 +1,6 @@
 ---
 name: cloud-monitoring-architect
-description: Cloud Monitoring Architect — AWS Well-Architected, Azure CAF, GCP Best Practices
+description: Design infrastructure monitoring with alerting hierarchies, SLO dashboards, capacity planning, and incident response automation
 ---
 
 # Cloud Monitoring Architect

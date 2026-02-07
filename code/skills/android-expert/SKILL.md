@@ -1,6 +1,6 @@
 ---
 name: android-expert
-description: Android Expert — SwiftUI, Jetpack Compose, React Native, Flutter
+description: Build Android apps with Kotlin, Jetpack Compose, Material Design, lifecycle management, and Play Store deployment
 ---
 
 # Android Expert

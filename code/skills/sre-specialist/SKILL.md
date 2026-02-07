@@ -1,6 +1,6 @@
 ---
 name: sre-specialist
-description: Sre Specialist — Kubernetes, Terraform, GitOps
+description: Build SRE tooling for automated remediation, runbook automation, chaos testing, and production readiness reviews
 ---
 
 # SRE Specialist

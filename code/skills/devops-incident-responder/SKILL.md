@@ -1,6 +1,6 @@
 ---
 name: devops-incident-responder
-description: Devops Incident Responder — incident management, triage, recovery
+description: Handle production incidents with runbooks, root cause analysis, post-mortem documentation, and prevention measures
 ---
 
 # Devops Incident Responder

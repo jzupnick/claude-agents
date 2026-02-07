@@ -1,6 +1,6 @@
 ---
 name: code-explainer
-description: Code Explainer — code walkthroughs, documentation, teaching
+description: Explain complex code logic, trace execution flow, document algorithms, and create educational breakdowns of codebases
 ---
 
 # Code Explainer

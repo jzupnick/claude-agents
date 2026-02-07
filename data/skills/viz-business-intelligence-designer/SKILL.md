@@ -1,6 +1,6 @@
 ---
 name: business-intelligence-designer
-description: Business Intelligence Designer — AARRR, Analytics Maturity Model, Data Visualization
+description: Design BI dashboards with KPI selection, drill-down navigation, self-service analytics, and executive reporting views
 ---
 
 # Business Intelligence Designer

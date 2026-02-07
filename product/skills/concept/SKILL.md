@@ -1,6 +1,6 @@
 ---
 name: concept-developer
-description: Concept Developer — concept development, validation, MVPs
+description: Develop product concepts from initial ideas through validation, specification, and development-ready documentation
 ---
 
 # Concept Developer

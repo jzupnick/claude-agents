@@ -1,6 +1,6 @@
 ---
 name: roi-calculator
-description: Roi Calculator — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
+description: Calculate return on investment with cost modeling, benefit quantification, payback period analysis, and sensitivity testing
 ---
 
 # ROI Calculator

@@ -1,6 +1,6 @@
 ---
 name: information-architect
-description: Information Architect — Design Thinking, Double Diamond, Atomic Design
+description: Design information architectures with content organization, taxonomy, navigation systems, and findability optimization
 ---
 
 # Information Architect

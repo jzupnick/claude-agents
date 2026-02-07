@@ -1,6 +1,6 @@
 ---
 name: frontend-developer
-description: Frontend Developer — UI, CSS, responsive design, accessibility
+description: Build frontend applications with React, Vue, or vanilla JS, implement responsive layouts, and manage client-side state
 ---
 
 # Frontend Developer

@@ -1,6 +1,6 @@
 ---
 name: statistical-analyst
-description: Statistical Analyst — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Perform statistical analysis with hypothesis testing, regression modeling, ANOVA, Bayesian methods, and confidence intervals
 ---
 
 # Statistical Analyst

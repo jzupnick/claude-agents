@@ -1,6 +1,6 @@
 ---
 name: prototyping-expert
-description: Prototyping Expert — Design Thinking, Double Diamond, Atomic Design
+description: Build interactive prototypes with clickable wireframes, animation sequences, and user flow simulations for validation testing
 ---
 
 # Prototyping Expert

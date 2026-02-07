@@ -1,6 +1,6 @@
 ---
 name: manufacturing-planner
-description: Manufacturing Planner — manufacturing plans, BOM, scheduling
+description: Plan manufacturing processes with production scheduling, capacity analysis, quality control, and supply chain coordination
 ---
 
 # Manufacturing Planner

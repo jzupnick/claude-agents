@@ -1,6 +1,6 @@
 ---
 name: time-series-analyst
-description: Time Series Analyst — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Analyze time series data with trend decomposition, seasonality detection, forecasting models (ARIMA, Prophet), and anomaly detection
 ---
 
 # Time Series Analyst

@@ -1,6 +1,6 @@
 ---
 name: anomaly-detection-expert
-description: Anomaly Detection Expert — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Build anomaly detection systems with statistical methods, isolation forests, autoencoders, and real-time alerting
 ---
 
 # Anomaly Detection Expert

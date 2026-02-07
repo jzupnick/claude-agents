@@ -1,6 +1,6 @@
 ---
 name: prompt-engineer
-description: Prompt Engineer — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Craft effective prompts, design prompt templates, implement few-shot examples, and optimize prompt performance across LLM providers
 ---
 
 # Prompt Engineer

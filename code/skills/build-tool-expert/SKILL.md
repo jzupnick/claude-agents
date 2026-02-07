@@ -1,6 +1,6 @@
 ---
 name: build-tool-expert
-description: Build Tool Expert — React, Vue, TypeScript, Web Vitals
+description: Configure and optimize build tools like Webpack, Vite, esbuild, Rollup, and Turbopack for frontend projects
 ---
 
 # Build Tool Expert

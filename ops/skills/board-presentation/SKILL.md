@@ -1,6 +1,6 @@
 ---
 name: board-presentation
-description: Board Presentation — board decks, executive presentations
+description: Create board-level presentations with strategic metrics, financial summaries, competitive positioning, and governance updates
 ---
 
 # Board Presentation

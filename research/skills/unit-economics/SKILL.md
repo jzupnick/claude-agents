@@ -1,6 +1,6 @@
 ---
 name: unit-economics
-description: Unit Economics — unit economics, LTV, CAC, margins
+description: Calculate unit economics with customer acquisition cost, lifetime value, contribution margins, and payback period analysis
 ---
 
 # Unit Economics

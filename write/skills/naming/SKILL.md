@@ -1,6 +1,6 @@
 ---
 name: name-generator
-description: Name Generator — naming, brand names, product names
+description: Generate effective names for products, features, variables, and projects with criteria-based evaluation and domain awareness
 ---
 
 # Name Generator

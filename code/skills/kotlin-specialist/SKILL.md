@@ -1,6 +1,6 @@
 ---
 name: kotlin-specialist
-description: Kotlin Specialist — Kotlin, coroutines, Android, JVM
+description: Build Kotlin applications with coroutines, sealed classes, DSL builders, multiplatform projects, and Jetpack integration
 ---
 
 # Kotlin Specialist

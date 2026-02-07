@@ -1,6 +1,6 @@
 ---
 name: design-metrics-analyst
-description: Design Metrics Analyst — Design Thinking, Double Diamond, Atomic Design
+description: Measure design effectiveness with usability metrics, task completion rates, satisfaction scores, and design system adoption tracking
 ---
 
 # Design Metrics Analyst

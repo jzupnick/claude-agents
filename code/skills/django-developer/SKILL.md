@@ -1,6 +1,6 @@
 ---
 name: django-developer
-description: Django Developer — Django, ORM, REST framework
+description: Build Django applications with models, views, templates, REST framework, admin customization, and ORM optimization
 ---
 
 # Django Developer

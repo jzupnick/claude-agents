@@ -1,6 +1,6 @@
 ---
 name: product-vision-creator
-description: Product Vision Creator — Jobs-to-be-Done, OKRs, RICE
+description: Craft product and organizational visions with aspirational narratives, strategic pillars, and alignment frameworks
 ---
 
 # Product Vision Creator

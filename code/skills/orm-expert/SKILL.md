@@ -1,6 +1,6 @@
 ---
 name: orm-expert
-description: Orm Expert — REST, GraphQL, gRPC, OpenAPI
+description: Configure and optimize ORMs like Prisma, SQLAlchemy, TypeORM, or Sequelize with migrations, relations, and query optimization
 ---
 
 # ORM Expert

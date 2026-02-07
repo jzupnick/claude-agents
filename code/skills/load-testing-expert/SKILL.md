@@ -1,6 +1,6 @@
 ---
 name: load-testing-expert
-description: Load Testing Expert — Test Pyramid, Testing Trophy, BDD/TDD
+description: Design and run load tests with k6, Locust, or JMeter to identify bottlenecks and validate performance requirements
 ---
 
 # Load Testing Expert

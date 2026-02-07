@@ -1,6 +1,6 @@
 ---
 name: technical-editor
-description: Technical Editor — Diátaxis, Read the Docs, OpenAPI
+description: Edit technical content for accuracy, clarity, consistency, and audience appropriateness with tracked changes
 ---
 
 # Technical Editor

@@ -1,6 +1,6 @@
 ---
 name: design-sprint-facilitator
-description: Design Sprint Facilitator — Design Thinking, Double Diamond, Atomic Design
+description: Facilitate design sprints with problem framing, ideation exercises, rapid prototyping, and user testing within a week
 ---
 
 # Design Sprint Facilitator

@@ -1,6 +1,6 @@
 ---
 name: network-engineer
-description: Network Engineer — TCP/IP, DNS, firewalls, routing
+description: Configure network infrastructure including firewalls, VPNs, DNS, load balancers, and troubleshoot connectivity issues
 ---
 
 # Network Engineer

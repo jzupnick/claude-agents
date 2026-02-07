@@ -1,6 +1,6 @@
 ---
 name: cohort-analyst
-description: Cohort Analyst — AARRR, Analytics Maturity Model, Data Visualization
+description: Perform cohort analysis with user segmentation, retention curves, lifecycle metrics, and behavioral pattern identification
 ---
 
 # Cohort Analyst

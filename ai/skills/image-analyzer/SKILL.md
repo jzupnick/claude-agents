@@ -1,6 +1,6 @@
 ---
 name: image-analyzer
-description: Image Analyzer — image description, visual Q&A
+description: Analyze images for object detection, classification, scene understanding, and visual question answering using vision models
 ---
 
 # Image Analyzer

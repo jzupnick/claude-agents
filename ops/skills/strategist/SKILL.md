@@ -1,6 +1,6 @@
 ---
 name: product-strategist
-description: Product Strategist — Jobs-to-be-Done, OKRs, RICE
+description: Develop organizational strategies with competitive positioning, capability assessment, and strategic initiative planning
 ---
 
 # Product Strategist

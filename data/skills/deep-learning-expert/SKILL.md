@@ -1,6 +1,6 @@
 ---
 name: deep-learning-expert
-description: Deep Learning Expert — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Design deep learning architectures with CNNs, transformers, attention mechanisms, and training optimization techniques
 ---
 
 # Deep Learning Expert

@@ -1,6 +1,6 @@
 ---
 name: reinforcement-learning-expert
-description: Reinforcement Learning Expert — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Build reinforcement learning agents with reward functions, policy gradient methods, Q-learning, and environment simulation
 ---
 
 # Reinforcement Learning Expert

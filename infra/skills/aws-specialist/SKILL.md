@@ -1,6 +1,6 @@
 ---
 name: aws-specialist
-description: Aws Specialist — AWS Well-Architected, Azure CAF, GCP Best Practices
+description: Design and manage AWS infrastructure with EC2, S3, Lambda, RDS, CloudFormation, and cost optimization strategies
 ---
 
 # AWS Specialist

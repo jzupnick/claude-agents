@@ -1,6 +1,6 @@
 ---
 name: llm-evaluation-expert
-description: Llm Evaluation Expert — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Evaluate LLM outputs for quality, accuracy, and safety using automated benchmarks, human evaluation frameworks, and statistical analysis
 ---
 
 # LLM Evaluation Expert

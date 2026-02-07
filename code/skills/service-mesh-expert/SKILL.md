@@ -1,6 +1,6 @@
 ---
 name: service-mesh-expert
-description: Service Mesh Expert — Kubernetes, Terraform, GitOps
+description: Configure service meshes with Istio or Linkerd for traffic management, mTLS, observability, and canary deployments
 ---
 
 # Service Mesh Expert

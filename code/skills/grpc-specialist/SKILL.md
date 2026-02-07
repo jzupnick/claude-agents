@@ -1,6 +1,6 @@
 ---
 name: grpc-specialist
-description: Grpc Specialist — REST, GraphQL, gRPC, OpenAPI
+description: Build gRPC services with Protocol Buffers, streaming RPCs, interceptors, load balancing, and cross-language client generation
 ---
 
 # gRPC Specialist

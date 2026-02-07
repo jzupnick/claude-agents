@@ -1,6 +1,6 @@
 ---
 name: data-quality-expert
-description: Data Quality Expert — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Build data quality frameworks with validation rules, profiling, anomaly detection, and automated data quality monitoring
 ---
 
 # Data Quality Expert

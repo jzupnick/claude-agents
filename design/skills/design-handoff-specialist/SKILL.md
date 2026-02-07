@@ -1,6 +1,6 @@
 ---
 name: design-handoff-specialist
-description: Design Handoff Specialist — Design Thinking, Double Diamond, Atomic Design
+description: Prepare design-to-development handoffs with specifications, component inventories, interaction annotations, and asset export
 ---
 
 # Design Handoff Specialist

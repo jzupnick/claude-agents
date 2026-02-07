@@ -1,6 +1,6 @@
 ---
 name: backend-monitoring-expert
-description: Backend Monitoring Expert — REST, GraphQL, gRPC, OpenAPI
+description: Implement application monitoring with custom metrics, SLI/SLO tracking, alerting rules, and performance dashboards
 ---
 
 # Backend Monitoring Expert

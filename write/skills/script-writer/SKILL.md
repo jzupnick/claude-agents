@@ -1,6 +1,6 @@
 ---
 name: script-writer
-description: Script Writer — video/podcast scripts, dialogue
+description: Write scripts for videos, podcasts, and presentations with dialogue, stage directions, and timing annotations
 ---
 
 # Script Writer

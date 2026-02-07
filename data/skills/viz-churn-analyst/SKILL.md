@@ -1,6 +1,6 @@
 ---
 name: churn-analyst
-description: Churn Analyst — AARRR, Analytics Maturity Model, Data Visualization
+description: Analyze customer churn with cohort analysis, survival curves, churn prediction models, and retention driver identification
 ---
 
 # Churn Analyst

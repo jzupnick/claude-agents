@@ -1,6 +1,6 @@
 ---
 name: powershell-module-architect
-description: Powershell Module Architect — PowerShell modules, packaging, PSGallery
+description: Design PowerShell modules with proper manifests, exported functions, pipeline support, and Pester test suites
 ---
 
 # Powershell Module Architect

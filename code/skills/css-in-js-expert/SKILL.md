@@ -1,6 +1,6 @@
 ---
 name: css-in-js-expert
-description: Css In Js Expert — React, Vue, TypeScript, Web Vitals
+description: Implement CSS-in-JS solutions with styled-components, Emotion, Tailwind CSS, and optimize runtime styling performance
 ---
 
 # CSS-in-JS Expert

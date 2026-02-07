@@ -1,6 +1,6 @@
 ---
 name: cdn-strategist
-description: Cdn Strategist — Kubernetes, Terraform, GitOps
+description: Configure CDN distribution, edge caching, origin shielding, cache purging, and multi-region content delivery
 ---
 
 # CDN Strategist

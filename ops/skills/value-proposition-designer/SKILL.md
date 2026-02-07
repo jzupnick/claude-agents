@@ -1,6 +1,6 @@
 ---
 name: value-proposition-designer
-description: Value Proposition Designer — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
+description: Design value propositions with customer job analysis, pain/gain mapping, and competitive differentiation positioning
 ---
 
 # Value Proposition Designer

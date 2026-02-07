@@ -1,6 +1,6 @@
 ---
 name: usability-tester
-description: Usability Tester — Design Thinking, Double Diamond, Atomic Design
+description: Plan and conduct usability tests with task scenarios, participant recruitment, observation protocols, and findings reports
 ---
 
 # Usability Tester

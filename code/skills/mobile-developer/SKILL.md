@@ -1,6 +1,6 @@
 ---
 name: mobile-developer
-description: Mobile Developer — iOS, Android, React Native, Flutter
+description: Develop cross-platform mobile applications with shared codebases, native bridges, and platform-adaptive UI components
 ---
 
 # Mobile Developer

@@ -1,6 +1,6 @@
 ---
 name: meeting-summarizer
-description: Meeting Summarizer — meeting notes, summaries, key decisions
+description: Summarize meetings with key decisions, discussion points, action items, and follow-up deadlines
 ---
 
 # Meeting Summarizer

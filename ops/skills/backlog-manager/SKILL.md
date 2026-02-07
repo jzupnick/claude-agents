@@ -1,6 +1,6 @@
 ---
 name: product-backlog-manager
-description: Product Backlog Manager — Jobs-to-be-Done, OKRs, RICE
+description: Manage product backlogs with prioritization frameworks, story refinement, sprint planning, and technical debt tracking
 ---
 
 # Product Backlog Manager

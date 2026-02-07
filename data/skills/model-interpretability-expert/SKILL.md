@@ -1,6 +1,6 @@
 ---
 name: model-interpretability-expert
-description: Model Interpretability Expert — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Explain ML model predictions with SHAP values, LIME, feature importance, partial dependence plots, and attention visualization
 ---
 
 # Model Interpretability Expert

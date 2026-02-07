@@ -1,6 +1,6 @@
 ---
 name: search-specialist
-description: Search Specialist — Elasticsearch, Algolia, full-text search
+description: Implement search functionality with full-text search, faceted filtering, autocomplete, relevance tuning, and search analytics
 ---
 
 # Search Specialist

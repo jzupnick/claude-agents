@@ -1,6 +1,6 @@
 ---
 name: cloud-backup-strategist
-description: Cloud Backup Strategist — AWS Well-Architected, Azure CAF, GCP Best Practices
+description: Design backup strategies with 3-2-1 rules, incremental backups, retention policies, and cross-region disaster recovery
 ---
 
 # Cloud Backup Strategist

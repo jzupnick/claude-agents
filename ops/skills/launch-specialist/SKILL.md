@@ -1,6 +1,6 @@
 ---
 name: product-launch-specialist
-description: Product Launch Specialist — Jobs-to-be-Done, OKRs, RICE
+description: Coordinate product launches with timeline management, checklist execution, stakeholder alignment, and launch day operations
 ---
 
 # Product Launch Specialist

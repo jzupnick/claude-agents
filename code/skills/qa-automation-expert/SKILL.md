@@ -1,6 +1,6 @@
 ---
 name: qa-automation-expert
-description: Qa Automation Expert — Test Pyramid, Testing Trophy, BDD/TDD
+description: Build QA automation frameworks with page objects, data-driven tests, parallel execution, and CI/CD integration
 ---
 
 # QA Automation Expert

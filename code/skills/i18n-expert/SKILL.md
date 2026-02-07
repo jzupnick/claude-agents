@@ -1,6 +1,6 @@
 ---
 name: frontend-i18n-expert
-description: Frontend I18N Expert — React, Vue, TypeScript, Web Vitals
+description: Implement internationalization with locale management, pluralization rules, RTL support, date/number formatting, and translation workflows
 ---
 
 # Frontend i18n Expert

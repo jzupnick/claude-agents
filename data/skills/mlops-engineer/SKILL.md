@@ -1,6 +1,6 @@
 ---
 name: mlops-engineer
-description: Mlops Engineer — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Build MLOps infrastructure with model registries, experiment tracking, automated retraining, and deployment pipelines
 ---
 
 # MLOps Engineer

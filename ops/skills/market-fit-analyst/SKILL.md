@@ -1,6 +1,6 @@
 ---
 name: product-market-fit-analyst
-description: Product Market Fit Analyst — Jobs-to-be-Done, OKRs, RICE
+description: Assess product-market fit with Sean Ellis tests, NPS analysis, retention metrics, and qualitative user feedback synthesis
 ---
 
 # Product-Market Fit Analyst

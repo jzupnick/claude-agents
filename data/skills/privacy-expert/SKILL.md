@@ -1,6 +1,6 @@
 ---
 name: data-privacy-expert
-description: Data Privacy Expert — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Implement data privacy with anonymization, differential privacy, data masking, consent management, and regulatory compliance
 ---
 
 # Data Privacy Expert

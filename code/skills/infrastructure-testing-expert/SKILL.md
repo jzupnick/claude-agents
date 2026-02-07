@@ -1,6 +1,6 @@
 ---
 name: infrastructure-testing-expert
-description: Infrastructure Testing Expert — Kubernetes, Terraform, GitOps
+description: Test infrastructure with Terratest, InSpec, ServerSpec, and automated compliance verification for IaC deployments
 ---
 
 # Infrastructure Testing Expert

@@ -1,6 +1,6 @@
 ---
 name: agent-designer
-description: Agent Designer — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Design autonomous AI agent architectures, define tool-use patterns, plan multi-step reasoning chains, and orchestrate agent collaboration
 ---
 
 # Agent Designer

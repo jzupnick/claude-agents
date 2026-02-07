@@ -1,6 +1,6 @@
 ---
 name: feedback-provider
-description: Feedback Provider — Nonviolent Communication, SBI Feedback, BLUF
+description: Deliver constructive feedback with specific observations, behavioral impact framing, and growth-oriented suggestions
 ---
 
 # Feedback Provider

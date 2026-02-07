@@ -1,6 +1,6 @@
 ---
 name: ai-context-manager
-description: Ai Context Manager — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Optimize context window usage, implement retrieval strategies, manage token budgets, and design context-aware prompt systems
 ---
 
 # AI Context Manager

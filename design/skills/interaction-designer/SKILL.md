@@ -1,6 +1,6 @@
 ---
 name: interaction-designer
-description: Interaction Designer — Design Thinking, Double Diamond, Atomic Design
+description: Design interaction patterns with micro-interactions, transitions, gesture systems, and responsive behavior specifications
 ---
 
 # Interaction Designer

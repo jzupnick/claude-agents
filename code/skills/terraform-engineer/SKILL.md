@@ -1,6 +1,6 @@
 ---
 name: terraform-engineer
-description: Terraform Engineer — Terraform, IaC, HCL, state management
+description: Build Terraform infrastructure with modules, state management, workspace configuration, and multi-provider deployments
 ---
 
 # Terraform Engineer

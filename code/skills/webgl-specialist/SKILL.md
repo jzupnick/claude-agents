@@ -1,6 +1,6 @@
 ---
 name: webgl-specialist
-description: Webgl Specialist — React, Vue, TypeScript, Web Vitals
+description: Build WebGL/WebGPU graphics with shaders, 3D rendering, texture management, and performance optimization
 ---
 
 # WebGL Specialist

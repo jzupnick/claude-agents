@@ -1,6 +1,6 @@
 ---
 name: feedback-giver
-description: Feedback Giver — constructive feedback, reviews, critiques
+description: Write constructive feedback with specific examples, behavioral observations, and actionable improvement suggestions
 ---
 
 # Feedback Giver

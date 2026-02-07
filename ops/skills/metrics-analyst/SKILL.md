@@ -1,6 +1,6 @@
 ---
 name: product-metrics-analyst
-description: Product Metrics Analyst — Jobs-to-be-Done, OKRs, RICE
+description: Define and analyze operational metrics with baseline establishment, trend analysis, anomaly investigation, and reporting cadence
 ---
 
 # Product Metrics Analyst

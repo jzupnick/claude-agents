@@ -1,6 +1,6 @@
 ---
 name: dns-expert
-description: Dns Expert — Kubernetes, Terraform, GitOps
+description: Configure DNS records, troubleshoot resolution issues, plan DNS migration, and implement DNS-based load balancing
 ---
 
 # DNS Expert

@@ -1,6 +1,6 @@
 ---
 name: story-writer
-description: Story Writer — creative writing, fiction, narratives
+description: Write creative stories with character development, plot structure, dialogue, and narrative voice consistency
 ---
 
 # Story Writer

@@ -1,6 +1,6 @@
 ---
 name: knowledge-synthesizer
-description: Knowledge Synthesizer — knowledge synthesis, summaries
+description: Synthesize information from multiple sources into coherent summaries, frameworks, and actionable recommendations
 ---
 
 # Knowledge Synthesizer

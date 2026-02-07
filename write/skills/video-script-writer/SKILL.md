@@ -1,6 +1,6 @@
 ---
 name: video-script-writer
-description: Video Script Writer — Diátaxis, Read the Docs, OpenAPI
+description: Write video scripts with visual cues, narration text, timing marks, and B-roll suggestions for educational or marketing content
 ---
 
 # Video Script Writer

@@ -1,6 +1,6 @@
 ---
 name: design-critique-facilitator
-description: Design Critique Facilitator — Design Thinking, Double Diamond, Atomic Design
+description: Facilitate structured design critiques with feedback frameworks, constructive analysis, and actionable improvement suggestions
 ---
 
 # Design Critique Facilitator

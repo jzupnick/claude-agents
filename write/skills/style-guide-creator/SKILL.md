@@ -1,6 +1,6 @@
 ---
 name: style-guide-creator
-description: Style Guide Creator — Diátaxis, Read the Docs, OpenAPI
+description: Create writing style guides with tone definitions, terminology standards, formatting rules, and usage examples
 ---
 
 # Style Guide Creator

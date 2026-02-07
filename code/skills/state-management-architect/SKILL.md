@@ -1,6 +1,6 @@
 ---
 name: state-management-architect
-description: State Management Architect — React, Vue, TypeScript, Web Vitals
+description: Design frontend state management with Redux, Zustand, Jotai, or XState including normalized stores and side effect handling
 ---
 
 # State Management Architect

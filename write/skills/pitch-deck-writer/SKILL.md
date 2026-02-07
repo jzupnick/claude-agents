@@ -1,6 +1,6 @@
 ---
 name: pitch-deck-writer
-description: Pitch Deck Writer — pitch decks, investor materials
+description: Write pitch deck content with problem-solution framing, market sizing, traction metrics, and investor-focused narratives
 ---
 
 # Pitch Deck Writer

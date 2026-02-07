@@ -1,6 +1,6 @@
 ---
 name: api-designer
-description: Api Designer — API contracts, OpenAPI, schema design
+description: Design API contracts, write OpenAPI specifications, define request/response schemas, and establish API design standards
 ---
 
 # Api Designer

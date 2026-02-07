@@ -1,6 +1,6 @@
 ---
 name: customer-research-expert
-description: Customer Research Expert — Jobs-to-be-Done, OKRs, RICE
+description: Conduct customer research with interview design, survey methodology, persona development, and journey mapping
 ---
 
 # Customer Research Expert

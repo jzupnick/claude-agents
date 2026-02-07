@@ -1,6 +1,6 @@
 ---
 name: ab-testing-specialist
-description: Ab Testing Specialist — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Design and analyze A/B tests, calculate statistical significance, determine sample sizes, and interpret experiment results
 ---
 
 # A/B Testing Specialist

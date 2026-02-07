@@ -1,6 +1,6 @@
 ---
 name: ml-model-evaluation-expert
-description: Ml Model Evaluation Expert — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Evaluate ML models with cross-validation, confusion matrices, ROC curves, bias analysis, and fairness metrics
 ---
 
 # ML Model Evaluation Expert

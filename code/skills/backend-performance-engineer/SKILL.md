@@ -1,6 +1,6 @@
 ---
 name: backend-performance-engineer
-description: Backend Performance Engineer — REST, GraphQL, gRPC, OpenAPI
+description: Optimize backend performance through query tuning, caching, connection pooling, async processing, and profiling
 ---
 
 # Backend Performance Engineer

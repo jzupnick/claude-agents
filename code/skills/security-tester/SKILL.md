@@ -1,6 +1,6 @@
 ---
 name: security-tester
-description: Security Tester — Test Pyramid, Testing Trophy, BDD/TDD
+description: Write security tests for authentication bypasses, authorization flaws, injection vectors, and data exposure vulnerabilities
 ---
 
 # Security Tester

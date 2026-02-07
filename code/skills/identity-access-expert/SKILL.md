@@ -1,6 +1,6 @@
 ---
 name: identity-access-expert
-description: Identity Access Expert — Zero Trust, NIST CSF, ISO 27001
+description: Design identity and access management with RBAC, ABAC, SCIM provisioning, directory integration, and SSO federation
 ---
 
 # Identity & Access Expert

@@ -1,6 +1,6 @@
 ---
 name: documentation-writer
-description: Documentation Writer — technical docs, guides, READMEs
+description: Write technical documentation with user guides, installation instructions, troubleshooting sections, and reference materials
 ---
 
 # Documentation Writer

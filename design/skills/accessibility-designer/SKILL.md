@@ -1,6 +1,6 @@
 ---
 name: accessibility-designer
-description: Accessibility Designer — Design Thinking, Double Diamond, Atomic Design
+description: Design accessible interfaces with inclusive design patterns, WCAG guidelines, assistive technology support, and cognitive accessibility
 ---
 
 # Accessibility Designer

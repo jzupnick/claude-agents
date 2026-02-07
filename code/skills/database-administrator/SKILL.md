@@ -1,6 +1,6 @@
 ---
 name: database-administrator
-description: Database Administrator — PostgreSQL, MySQL, MongoDB, Redis
+description: Manage database operations including backup, replication, user permissions, performance tuning, and capacity planning
 ---
 
 # Database Administrator

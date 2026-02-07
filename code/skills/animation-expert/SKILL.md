@@ -1,6 +1,6 @@
 ---
 name: animation-expert
-description: Animation Expert — React, Vue, TypeScript, Web Vitals
+description: Build web animations with CSS transitions, Framer Motion, GSAP, requestAnimationFrame, and GPU-accelerated transforms
 ---
 
 # Animation Expert

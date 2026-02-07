@@ -1,6 +1,6 @@
 ---
 name: fine-tuning-expert
-description: Fine Tuning Expert — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Fine-tune language models with custom datasets, configure training parameters, evaluate model performance, and manage training pipelines
 ---
 
 # Fine-tuning Expert

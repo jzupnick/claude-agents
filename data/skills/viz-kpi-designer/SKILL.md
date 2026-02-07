@@ -1,6 +1,6 @@
 ---
 name: kpi-designer
-description: Kpi Designer — AARRR, Analytics Maturity Model, Data Visualization
+description: Design KPI frameworks with metric hierarchies, target setting, tracking dashboards, and performance alerting systems
 ---
 
 # KPI Designer

@@ -1,6 +1,6 @@
 ---
 name: platform-engineer
-description: Platform Engineer — internal platforms, developer tooling
+description: Build internal developer platforms with self-service infrastructure, golden paths, and standardized deployment workflows
 ---
 
 # Platform Engineer

@@ -1,6 +1,6 @@
 ---
 name: infrastructure-compliance-expert
-description: Infrastructure Compliance Expert — Kubernetes, Terraform, GitOps
+description: Ensure infrastructure compliance with CIS benchmarks, SOC 2 controls, audit logging, and automated policy enforcement
 ---
 
 # Infrastructure Compliance Expert

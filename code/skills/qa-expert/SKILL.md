@@ -1,6 +1,6 @@
 ---
 name: qa-expert
-description: Qa Expert — QA strategy, test plans, quality gates
+description: Design QA strategies with test plans, risk-based testing, defect triage, and quality metrics tracking
 ---
 
 # Qa Expert

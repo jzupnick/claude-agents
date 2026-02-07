@@ -1,6 +1,6 @@
 ---
 name: web-vitals-expert
-description: Web Vitals Expert — React, Vue, TypeScript, Web Vitals
+description: Optimize Core Web Vitals (LCP, FID, CLS) with performance budgets, measurement tools, and targeted improvements
 ---
 
 # Web Vitals Expert

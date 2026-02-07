@@ -1,6 +1,6 @@
 ---
 name: sdk-documentation-expert
-description: Sdk Documentation Expert — Diátaxis, Read the Docs, OpenAPI
+description: Write SDK documentation with quickstart guides, API references, code examples, and migration guides for developers
 ---
 
 # SDK Documentation Expert

@@ -1,6 +1,6 @@
 ---
 name: stakeholder-analyst
-description: Stakeholder Analyst — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
+description: Map stakeholders with influence-interest analysis, engagement strategies, and communication frequency planning
 ---
 
 # Stakeholder Analyst

@@ -1,6 +1,6 @@
 ---
 name: mobile-devops-engineer
-description: Mobile Devops Engineer — SwiftUI, Jetpack Compose, React Native, Flutter
+description: Set up mobile CI/CD with automated builds, code signing, beta distribution, app store deployment, and crash monitoring
 ---
 
 # Mobile DevOps Engineer

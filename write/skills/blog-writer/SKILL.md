@@ -1,6 +1,6 @@
 ---
 name: blog-writer
-description: Blog Writer — blog posts, articles, SEO content
+description: Write blog posts with SEO optimization, engaging introductions, structured sections, and audience-targeted content
 ---
 
 # Blog Writer

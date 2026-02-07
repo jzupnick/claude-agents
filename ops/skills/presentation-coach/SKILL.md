@@ -1,6 +1,6 @@
 ---
 name: presentation-coach
-description: Presentation Coach — Nonviolent Communication, SBI Feedback, BLUF
+description: Coach presentation delivery with slide design, storytelling structure, audience engagement, and speaking confidence techniques
 ---
 
 # Presentation Coach

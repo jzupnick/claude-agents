@@ -1,6 +1,6 @@
 ---
 name: frontend-forms-expert
-description: Frontend Forms Expert — React, Vue, TypeScript, Web Vitals
+description: Build complex forms with validation, multi-step flows, dynamic fields, file uploads, and accessible error handling
 ---
 
 # Frontend Forms Expert

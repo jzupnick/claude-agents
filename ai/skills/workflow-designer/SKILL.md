@@ -1,6 +1,6 @@
 ---
 name: ai-workflow-designer
-description: Ai Workflow Designer — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Design end-to-end AI workflows combining data ingestion, processing, inference, and output delivery with error handling
 ---
 
 # AI Workflow Designer

@@ -1,6 +1,6 @@
 ---
 name: dependency-manager
-description: Dependency Manager — dependency tracking, version management
+description: Track and manage project dependencies with risk assessment, mitigation plans, and cross-team coordination
 ---
 
 # Dependency Manager

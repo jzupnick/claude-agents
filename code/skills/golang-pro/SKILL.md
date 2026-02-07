@@ -1,6 +1,6 @@
 ---
 name: golang-pro
-description: Golang Pro — Go, goroutines, channels, stdlib
+description: Write Go applications with goroutines, channels, interfaces, error handling patterns, and idiomatic Go project structure
 ---
 
 # Golang Pro

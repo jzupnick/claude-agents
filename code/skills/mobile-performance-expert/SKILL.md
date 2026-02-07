@@ -1,6 +1,6 @@
 ---
 name: mobile-performance-expert
-description: Mobile Performance Expert — SwiftUI, Jetpack Compose, React Native, Flutter
+description: Optimize mobile app performance with memory profiling, startup time reduction, battery optimization, and network efficiency
 ---
 
 # Mobile Performance Expert

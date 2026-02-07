@@ -1,6 +1,6 @@
 ---
 name: business-plan
-description: Business Plan — business plans, market sizing, financials
+description: Write comprehensive business plans with market analysis, financial projections, competitive positioning, and growth strategies
 ---
 
 # Business Plan

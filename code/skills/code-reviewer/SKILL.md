@@ -1,6 +1,6 @@
 ---
 name: code-reviewer
-description: Code Reviewer — code review, best practices, PR feedback
+description: Review code for correctness, performance, security, readability, and adherence to project conventions
 ---
 
 # Code Reviewer

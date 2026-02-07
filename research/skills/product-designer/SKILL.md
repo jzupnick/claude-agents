@@ -1,6 +1,6 @@
 ---
 name: product-designer
-description: Product Designer — product design, prototyping, user research
+description: Design physical and digital products with user needs analysis, concept development, and prototyping recommendations
 ---
 
 # Product Designer

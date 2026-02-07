@@ -1,6 +1,6 @@
 ---
 name: security-incident-responder
-description: Security Incident Responder — Zero Trust, NIST CSF, ISO 27001
+description: Handle security incidents with forensic analysis, containment procedures, evidence preservation, and breach notification
 ---
 
 # Security Incident Responder

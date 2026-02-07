@@ -1,6 +1,6 @@
 ---
 name: technical-blog-writer
-description: Technical Blog Writer — Diátaxis, Read the Docs, OpenAPI
+description: Write technical blog posts with code examples, architecture explanations, and developer-audience-appropriate depth
 ---
 
 # Technical Blog Writer

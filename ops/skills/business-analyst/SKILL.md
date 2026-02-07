@@ -1,6 +1,6 @@
 ---
 name: business-analyst
-description: Business Analyst — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
+description: Analyze business processes, gather requirements, model workflows, and translate business needs into technical specifications
 ---
 
 # Business Analyst

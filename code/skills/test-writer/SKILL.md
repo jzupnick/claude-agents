@@ -1,6 +1,6 @@
 ---
 name: test-writer
-description: Test Writer — unit tests, integration tests, mocks
+description: Write unit tests, integration tests, and snapshot tests with proper assertions, mocking, and test organization
 ---
 
 # Test Writer

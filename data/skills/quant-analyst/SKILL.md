@@ -1,6 +1,6 @@
 ---
 name: quant-analyst
-description: Quant Analyst — quantitative analysis, financial modeling
+description: Perform quantitative analysis with financial modeling, risk metrics, portfolio optimization, and time series forecasting
 ---
 
 # Quant Analyst

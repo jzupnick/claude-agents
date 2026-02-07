@@ -1,6 +1,6 @@
 ---
 name: knowledge-base-architect
-description: Knowledge Base Architect — Diátaxis, Read the Docs, OpenAPI
+description: Design knowledge base structures with taxonomy, article templates, search optimization, and content governance policies
 ---
 
 # Knowledge Base Architect

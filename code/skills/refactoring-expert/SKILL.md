@@ -1,6 +1,6 @@
 ---
 name: backend-refactoring-expert
-description: Backend Refactoring Expert — REST, GraphQL, gRPC, OpenAPI
+description: Plan and execute large-scale refactoring with safe incremental steps, test coverage verification, and rollback strategies
 ---
 
 # Backend Refactoring Expert

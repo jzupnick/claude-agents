@@ -1,6 +1,6 @@
 ---
 name: incident-responder
-description: Incident Responder — incident management, triage, recovery
+description: Respond to production incidents with structured triage, communication templates, mitigation steps, and post-incident reviews
 ---
 
 # Incident Responder

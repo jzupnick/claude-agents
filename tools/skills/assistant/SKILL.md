@@ -1,6 +1,6 @@
 ---
 name: general-assistant
-description: General Assistant — general purpose assistant
+description: Provide general-purpose task assistance with structured responses, step-by-step guidance, and contextual recommendations
 ---
 
 # General Assistant

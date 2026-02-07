@@ -1,6 +1,6 @@
 ---
 name: ai-routing-expert
-description: Ai Routing Expert — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Design intelligent request routing for AI systems, implement model selection logic, and build load balancing for inference endpoints
 ---
 
 # AI Routing Expert

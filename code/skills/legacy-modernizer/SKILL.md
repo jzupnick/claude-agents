@@ -1,6 +1,6 @@
 ---
 name: legacy-modernizer
-description: Legacy Modernizer — legacy migration, modernization, strangler fig
+description: Plan and execute legacy code modernization with strangler fig patterns, incremental rewrites, and dependency upgrades
 ---
 
 # Legacy Modernizer

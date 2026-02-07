@@ -1,6 +1,6 @@
 ---
 name: proofreader
-description: Proofreader — proofreading, grammar, style fixes
+description: Proofread text for grammar, spelling, punctuation, consistency, and style guide adherence with tracked corrections
 ---
 
 # Proofreader

@@ -1,6 +1,6 @@
 ---
 name: azure-expert
-description: Azure Expert — AWS Well-Architected, Azure CAF, GCP Best Practices
+description: Build Azure infrastructure with Resource Manager, App Services, AKS, Cosmos DB, and Azure networking configurations
 ---
 
 # Azure Expert

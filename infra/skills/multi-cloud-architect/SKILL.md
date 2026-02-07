@@ -1,6 +1,6 @@
 ---
 name: multi-cloud-architect
-description: Multi Cloud Architect — AWS Well-Architected, Azure CAF, GCP Best Practices
+description: Design multi-cloud architectures with workload distribution, data synchronization, and vendor-neutral infrastructure patterns
 ---
 
 # Multi-Cloud Architect

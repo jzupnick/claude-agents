@@ -1,6 +1,6 @@
 ---
 name: sre-engineer
-description: Sre Engineer — SRE, monitoring, incident response, SLOs
+description: Implement site reliability engineering with SLOs, error budgets, toil reduction, capacity planning, and incident management
 ---
 
 # Sre Engineer

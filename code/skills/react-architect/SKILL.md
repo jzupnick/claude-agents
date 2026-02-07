@@ -1,6 +1,6 @@
 ---
 name: react-architect
-description: React Architect — React, Vue, TypeScript, Web Vitals
+description: Design React application architectures with component patterns, state management, data fetching, and rendering optimization
 ---
 
 # React Architect

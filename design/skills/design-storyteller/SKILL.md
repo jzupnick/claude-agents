@@ -1,6 +1,6 @@
 ---
 name: design-storyteller
-description: Design Storyteller — Design Thinking, Double Diamond, Atomic Design
+description: Craft design narratives that communicate vision, rationale, and user impact for stakeholder presentations and case studies
 ---
 
 # Design Storyteller

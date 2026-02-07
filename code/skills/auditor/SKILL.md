@@ -1,6 +1,6 @@
 ---
 name: security-auditor
-description: Security Auditor — Zero Trust, NIST CSF, ISO 27001
+description: Audit codebases for security vulnerabilities, compliance violations, code quality issues, and technical debt
 ---
 
 # Security Auditor

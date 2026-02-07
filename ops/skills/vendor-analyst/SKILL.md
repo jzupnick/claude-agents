@@ -1,6 +1,6 @@
 ---
 name: vendor-analyst
-description: Vendor Analyst — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
+description: Evaluate vendors with scoring matrices, capability assessments, pricing analysis, and contract term recommendations
 ---
 
 # Vendor Analyst

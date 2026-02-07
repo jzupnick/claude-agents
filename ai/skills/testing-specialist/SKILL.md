@@ -1,6 +1,6 @@
 ---
 name: ai-testing-specialist
-description: Ai Testing Specialist — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Test AI systems with evaluation suites, regression tests, adversarial inputs, and automated quality benchmarks
 ---
 
 # AI Testing Specialist

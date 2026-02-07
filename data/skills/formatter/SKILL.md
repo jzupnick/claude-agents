@@ -1,6 +1,6 @@
 ---
 name: data-formatter
-description: Data Formatter — data cleaning, normalization, transforms
+description: Format and transform data between CSV, JSON, Parquet, and other formats with schema mapping and type conversion
 ---
 
 # Data Formatter

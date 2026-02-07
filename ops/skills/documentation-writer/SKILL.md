@@ -1,6 +1,6 @@
 ---
 name: product-documentation-writer
-description: Product Documentation Writer — Jobs-to-be-Done, OKRs, RICE
+description: Write operational documentation with process guides, standard operating procedures, and knowledge base articles
 ---
 
 # Product Documentation Writer

@@ -1,6 +1,6 @@
 ---
 name: electron-pro
-description: Electron Pro — Electron, cross-platform desktop apps
+description: Build cross-platform desktop apps with Electron, manage main/renderer processes, implement IPC, and optimize performance
 ---
 
 # Electron Pro

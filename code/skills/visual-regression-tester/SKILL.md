@@ -1,6 +1,6 @@
 ---
 name: visual-regression-tester
-description: Visual Regression Tester — Test Pyramid, Testing Trophy, BDD/TDD
+description: Set up visual regression testing with screenshot comparison, pixel-diff thresholds, and cross-browser visual validation
 ---
 
 # Visual Regression Tester

@@ -1,6 +1,6 @@
 ---
 name: laravel-specialist
-description: Laravel Specialist — Laravel, Eloquent, Blade, Artisan
+description: Build Laravel applications with Eloquent ORM, Blade templates, queues, event broadcasting, and API resource controllers
 ---
 
 # Laravel Specialist

@@ -1,6 +1,6 @@
 ---
 name: kubernetes-specialist
-description: Kubernetes Specialist — K8s, pods, services, Helm, kubectl
+description: Configure Kubernetes workloads, debug pod issues, manage ConfigMaps/Secrets, and implement health checks and probes
 ---
 
 # Kubernetes Specialist

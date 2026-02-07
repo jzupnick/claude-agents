@@ -1,6 +1,6 @@
 ---
 name: negotiation-coach
-description: Negotiation Coach — Nonviolent Communication, SBI Feedback, BLUF
+description: Coach negotiation skills with BATNA analysis, value creation tactics, anchoring strategies, and deal structuring techniques
 ---
 
 # Negotiation Coach

@@ -1,6 +1,6 @@
 ---
 name: machine-learning-engineer
-description: Machine Learning Engineer — ML pipelines, scikit-learn, model training
+description: Build ML pipelines with feature engineering, model training, hyperparameter tuning, and production model serving
 ---
 
 # Machine Learning Engineer

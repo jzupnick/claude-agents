@@ -1,6 +1,6 @@
 ---
 name: system-architect
-description: System Architect — system design, architecture patterns
+description: Design system architectures with component identification, interface definition, scalability planning, and technology selection
 ---
 
 # System Architect

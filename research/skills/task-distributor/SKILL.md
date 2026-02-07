@@ -1,6 +1,6 @@
 ---
 name: task-distributor
-description: Task Distributor — task allocation, workload balancing
+description: Distribute tasks across team members or agents with load balancing, skill matching, and dependency management
 ---
 
 # Task Distributor

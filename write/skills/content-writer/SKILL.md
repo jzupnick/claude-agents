@@ -1,6 +1,6 @@
 ---
 name: content-writer
-description: Content Writer — web copy, landing pages, articles
+description: Write web copy, landing pages, and articles with clear messaging, audience awareness, and call-to-action optimization
 ---
 
 # Content Writer

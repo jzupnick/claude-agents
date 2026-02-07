@@ -1,6 +1,6 @@
 ---
 name: cross-browser-tester
-description: Cross Browser Tester — Test Pyramid, Testing Trophy, BDD/TDD
+description: Test and fix cross-browser compatibility issues across Chrome, Firefox, Safari, and Edge with polyfills and feature detection
 ---
 
 # Cross-Browser Tester

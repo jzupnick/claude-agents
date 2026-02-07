@@ -1,6 +1,6 @@
 ---
 name: seo-specialist
-description: Seo Specialist — React, Vue, TypeScript, Web Vitals
+description: Optimize web applications for search engines with meta tags, structured data, sitemap generation, and Core Web Vitals
 ---
 
 # SEO Specialist

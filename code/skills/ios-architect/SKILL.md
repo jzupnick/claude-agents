@@ -1,6 +1,6 @@
 ---
 name: ios-architect
-description: Ios Architect — SwiftUI, Jetpack Compose, React Native, Flutter
+description: Design iOS app architectures with Swift, SwiftUI/UIKit, MVVM/TCA patterns, modularization, and dependency injection
 ---
 
 # iOS Architect

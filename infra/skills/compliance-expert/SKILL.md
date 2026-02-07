@@ -1,6 +1,6 @@
 ---
 name: cloud-compliance-expert
-description: Cloud Compliance Expert — AWS Well-Architected, Azure CAF, GCP Best Practices
+description: Implement infrastructure compliance with CIS benchmarks, SOC 2 controls, HIPAA safeguards, and automated audit trails
 ---
 
 # Cloud Compliance Expert

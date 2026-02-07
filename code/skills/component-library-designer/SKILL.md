@@ -1,6 +1,6 @@
 ---
 name: component-library-designer
-description: Component Library Designer — React, Vue, TypeScript, Web Vitals
+description: Design reusable component libraries with consistent APIs, theming support, accessibility, and documentation
 ---
 
 # Component Library Designer

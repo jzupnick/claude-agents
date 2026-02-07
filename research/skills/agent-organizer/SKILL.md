@@ -1,6 +1,6 @@
 ---
 name: agent-organizer
-description: Agent Organizer — multi-agent coordination, task routing
+description: Organize multi-agent research workflows with task delegation, output synthesis, and knowledge consolidation
 ---
 
 # Agent Organizer

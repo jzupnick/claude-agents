@@ -1,6 +1,6 @@
 ---
 name: payment-integration
-description: Payment Integration — Stripe, payment flows, PCI compliance
+description: Integrate payment processors (Stripe, PayPal, Square), handle webhooks, manage subscriptions, and ensure PCI compliance
 ---
 
 # Payment Integration

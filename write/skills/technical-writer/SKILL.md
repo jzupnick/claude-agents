@@ -1,6 +1,6 @@
 ---
 name: technical-writer
-description: Technical Writer — technical writing, API docs, guides
+description: Write technical documents with clear structure, precise language, consistent terminology, and audience-appropriate detail
 ---
 
 # Technical Writer

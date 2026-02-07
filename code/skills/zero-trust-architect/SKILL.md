@@ -1,6 +1,6 @@
 ---
 name: zero-trust-architect
-description: Zero Trust Architect — Zero Trust, NIST CSF, ISO 27001
+description: Design zero-trust security architectures with identity verification, micro-segmentation, continuous authentication, and least-privilege access
 ---
 
 # Zero Trust Architect

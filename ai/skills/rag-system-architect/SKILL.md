@@ -1,6 +1,6 @@
 ---
 name: rag-system-architect
-description: Rag System Architect — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Build retrieval-augmented generation systems, design document ingestion pipelines, implement hybrid search, and optimize retrieval quality
 ---
 
 # RAG System Architect

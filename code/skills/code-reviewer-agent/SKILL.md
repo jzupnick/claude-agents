@@ -1,6 +1,6 @@
 ---
 name: code-reviewer-agent
-description: Code Reviewer Agent — code review, best practices, PR feedback
+description: Perform automated code reviews with structured feedback on style, logic, performance, and security concerns
 ---
 
 # Code Reviewer Agent

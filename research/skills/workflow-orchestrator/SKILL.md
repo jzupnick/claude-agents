@@ -1,6 +1,6 @@
 ---
 name: workflow-orchestrator
-description: Workflow Orchestrator — workflow design, automation, routing
+description: Design and manage complex workflows with task sequencing, parallel execution, error handling, and progress monitoring
 ---
 
 # Workflow Orchestrator

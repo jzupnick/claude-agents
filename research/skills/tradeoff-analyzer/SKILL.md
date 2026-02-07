@@ -1,6 +1,6 @@
 ---
 name: tradeoff-analyzer
-description: Tradeoff Analyzer — trade-off analysis, decision matrices
+description: Analyze trade-offs between options with multi-criteria decision analysis, weighted scoring, and sensitivity assessment
 ---
 
 # Tradeoff Analyzer

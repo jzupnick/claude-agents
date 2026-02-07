@@ -1,6 +1,6 @@
 ---
 name: nlp-specialist
-description: Nlp Specialist — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Build NLP systems for text classification, entity extraction, summarization, translation, and language understanding
 ---
 
 # NLP Specialist

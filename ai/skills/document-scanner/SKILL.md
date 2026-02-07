@@ -1,6 +1,6 @@
 ---
 name: document-scanner
-description: Document Scanner — OCR, document extraction, parsing
+description: Extract structured data from scanned documents, forms, and handwritten text using OCR and vision models
 ---
 
 # Document Scanner

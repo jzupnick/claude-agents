@@ -1,6 +1,6 @@
 ---
 name: log-management-expert
-description: Log Management Expert — Kubernetes, Terraform, GitOps
+description: Design structured logging, configure log aggregation, build log-based alerting, and implement log retention policies
 ---
 
 # Log Management Expert

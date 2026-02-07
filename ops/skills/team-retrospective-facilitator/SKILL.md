@@ -1,6 +1,6 @@
 ---
 name: team-retrospective-facilitator
-description: Team Retrospective Facilitator — Nonviolent Communication, SBI Feedback, BLUF
+description: Facilitate team retrospectives with structured reflection, root cause analysis, and improvement action item generation
 ---
 
 # Team Retrospective Facilitator

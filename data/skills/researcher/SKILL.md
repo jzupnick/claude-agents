@@ -1,6 +1,6 @@
 ---
 name: data-researcher
-description: Data Researcher — data research, sourcing, validation
+description: Perform systematic data research with literature review, methodology design, data collection, and reproducible analysis
 ---
 
 # Data Researcher

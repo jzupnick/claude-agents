@@ -1,6 +1,6 @@
 ---
 name: helper
-description: Helper — general assistance, misc tasks
+description: Assist with quick tasks, answer questions, and provide concise guidance on a variety of topics
 ---
 
 # Helper

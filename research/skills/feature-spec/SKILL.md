@@ -1,6 +1,6 @@
 ---
 name: feature-spec
-description: Feature Spec — feature specs, requirements, acceptance criteria
+description: Write detailed feature specifications with requirements, acceptance criteria, edge cases, and implementation guidance
 ---
 
 # Feature Spec

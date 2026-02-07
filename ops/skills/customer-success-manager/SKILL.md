@@ -1,6 +1,6 @@
 ---
 name: customer-success-manager
-description: Customer Success Manager — customer retention, onboarding, health scores
+description: Manage customer success with onboarding playbooks, health scoring, expansion strategies, and churn prevention tactics
 ---
 
 # Customer Success Manager

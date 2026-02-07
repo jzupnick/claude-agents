@@ -1,6 +1,6 @@
 ---
 name: product-experimentation-expert
-description: Product Experimentation Expert — Jobs-to-be-Done, OKRs, RICE
+description: Design business experiments with hypothesis formation, test design, success metrics, and results interpretation
 ---
 
 # Product Experimentation Expert

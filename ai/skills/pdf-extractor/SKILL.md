@@ -1,6 +1,6 @@
 ---
 name: pdf-extractor
-description: Pdf Extractor — PDF text/table extraction
+description: Extract text, tables, images, and structured data from PDF documents using parsing libraries and vision models
 ---
 
 # Pdf Extractor

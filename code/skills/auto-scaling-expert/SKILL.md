@@ -1,6 +1,6 @@
 ---
 name: auto-scaling-expert
-description: Auto Scaling Expert — Kubernetes, Terraform, GitOps
+description: Configure auto-scaling policies, design capacity planning, implement horizontal pod autoscaling, and optimize resource utilization
 ---
 
 # Auto Scaling Expert

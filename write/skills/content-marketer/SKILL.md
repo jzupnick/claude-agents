@@ -1,6 +1,6 @@
 ---
 name: content-marketer
-description: Content Marketer — marketing copy, campaigns, funnels
+description: Create marketing content with brand voice consistency, conversion-focused copy, and multi-channel campaign messaging
 ---
 
 # Content Marketer

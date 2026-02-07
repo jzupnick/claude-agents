@@ -1,6 +1,6 @@
 ---
 name: competitive-analyst-agent
-description: Competitive Analyst Agent — competitive intelligence, market positioning
+description: Analyze competitive landscapes with market positioning, feature comparison, pricing analysis, and strategic recommendations
 ---
 
 # Competitive Analyst Agent

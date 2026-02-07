@@ -1,6 +1,6 @@
 ---
 name: architect-reviewer
-description: Architect Reviewer — architecture review, design critique
+description: Review architecture decisions, critique design proposals, identify structural risks, and suggest architectural improvements
 ---
 
 # Architect Reviewer

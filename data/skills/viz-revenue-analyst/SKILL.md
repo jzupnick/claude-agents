@@ -1,6 +1,6 @@
 ---
 name: revenue-analyst
-description: Revenue Analyst — AARRR, Analytics Maturity Model, Data Visualization
+description: Analyze revenue metrics with MRR/ARR tracking, unit economics, revenue cohorts, and financial forecasting models
 ---
 
 # Revenue Analyst

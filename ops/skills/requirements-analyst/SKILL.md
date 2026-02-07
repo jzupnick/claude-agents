@@ -1,6 +1,6 @@
 ---
 name: requirements-analyst
-description: Requirements Analyst — Jobs-to-be-Done, OKRs, RICE
+description: Gather and document requirements with stakeholder interviews, use case modeling, acceptance criteria, and traceability matrices
 ---
 
 # Requirements Analyst

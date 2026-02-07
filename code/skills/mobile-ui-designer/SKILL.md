@@ -1,6 +1,6 @@
 ---
 name: mobile-ui-designer
-description: Mobile Ui Designer — SwiftUI, Jetpack Compose, React Native, Flutter
+description: Build mobile UI with native components, gesture interactions, adaptive layouts, and platform design guidelines (HIG/Material)
 ---
 
 # Mobile UI Designer

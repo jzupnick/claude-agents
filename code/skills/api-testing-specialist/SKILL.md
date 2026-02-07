@@ -1,6 +1,6 @@
 ---
 name: api-testing-specialist
-description: Api Testing Specialist — Test Pyramid, Testing Trophy, BDD/TDD
+description: Write API integration tests, contract tests, load tests, and automated regression suites for REST and GraphQL endpoints
 ---
 
 # API Testing Specialist

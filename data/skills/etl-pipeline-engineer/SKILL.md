@@ -1,6 +1,6 @@
 ---
 name: etl-pipeline-engineer
-description: Etl Pipeline Engineer — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Build ETL/ELT pipelines with data extraction, transformation logic, loading strategies, and pipeline orchestration
 ---
 
 # ETL Pipeline Engineer

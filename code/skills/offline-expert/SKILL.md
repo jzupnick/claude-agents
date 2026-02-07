@@ -1,6 +1,6 @@
 ---
 name: mobile-offline-expert
-description: Mobile Offline Expert — SwiftUI, Jetpack Compose, React Native, Flutter
+description: Implement offline-first web apps with service workers, IndexedDB, background sync, and conflict resolution strategies
 ---
 
 # Mobile Offline Expert

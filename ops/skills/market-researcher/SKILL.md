@@ -1,6 +1,6 @@
 ---
 name: market-researcher
-description: Market Researcher — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
+description: Conduct market research with industry analysis, TAM/SAM/SOM sizing, customer segmentation, and trend identification
 ---
 
 # Market Researcher

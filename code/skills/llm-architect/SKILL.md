@@ -1,6 +1,6 @@
 ---
 name: llm-architect
-description: Llm Architect — LLM apps, RAG, fine-tuning, agents
+description: Design LLM-powered application architectures, plan inference infrastructure, implement caching, and manage model lifecycle
 ---
 
 # Llm Architect

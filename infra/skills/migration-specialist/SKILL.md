@@ -1,6 +1,6 @@
 ---
 name: migration-specialist
-description: Migration Specialist — AWS Well-Architected, Azure CAF, GCP Best Practices
+description: Plan and execute infrastructure migrations between cloud providers, on-premises to cloud, and version upgrades
 ---
 
 # Migration Specialist

@@ -1,6 +1,6 @@
 ---
 name: documentation-tester
-description: Documentation Tester — Diátaxis, Read the Docs, OpenAPI
+description: Test documentation for accuracy by following instructions, verifying code samples, and identifying gaps or inconsistencies
 ---
 
 # Documentation Tester

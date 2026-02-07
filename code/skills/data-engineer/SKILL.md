@@ -1,6 +1,6 @@
 ---
 name: data-engineer
-description: Data Engineer — ETL, data pipelines, warehousing
+description: Build data pipelines, design ETL workflows, implement data validation, and manage data warehouse schemas
 ---
 
 # Data Engineer

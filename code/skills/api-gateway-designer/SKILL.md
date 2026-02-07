@@ -1,6 +1,6 @@
 ---
 name: api-gateway-designer
-description: Api Gateway Designer — REST, GraphQL, gRPC, OpenAPI
+description: Design API gateway routing, rate limiting, authentication middleware, request transformation, and service mesh integration
 ---
 
 # API Gateway Designer

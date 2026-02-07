@@ -1,6 +1,6 @@
 ---
 name: diagram-explainer
-description: Diagram Explainer — diagram interpretation, visual to text
+description: Interpret and explain diagrams, flowcharts, architecture drawings, and visual documentation using vision models
 ---
 
 # Diagram Explainer

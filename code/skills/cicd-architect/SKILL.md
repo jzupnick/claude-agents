@@ -1,6 +1,6 @@
 ---
 name: cicd-architect
-description: Cicd Architect — Kubernetes, Terraform, GitOps
+description: Design CI/CD pipeline architectures, implement deployment strategies, configure build stages, and automate release workflows
 ---
 
 # CI/CD Architect

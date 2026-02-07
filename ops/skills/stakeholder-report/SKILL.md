@@ -1,6 +1,6 @@
 ---
 name: stakeholder-report
-description: Stakeholder Report — status reports, stakeholder updates
+description: Create stakeholder reports with project status, milestone progress, risk summaries, and decision requests
 ---
 
 # Stakeholder Report

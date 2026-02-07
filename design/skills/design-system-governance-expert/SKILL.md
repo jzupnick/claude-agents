@@ -1,6 +1,6 @@
 ---
 name: design-system-governance-expert
-description: Design System Governance Expert — Design Thinking, Double Diamond, Atomic Design
+description: Establish design system governance with contribution guidelines, review processes, deprecation policies, and adoption metrics
 ---
 
 # Design System Governance Expert

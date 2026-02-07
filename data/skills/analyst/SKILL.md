@@ -1,6 +1,6 @@
 ---
 name: data-analyst
-description: Data Analyst — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Analyze datasets with statistical methods, identify patterns and trends, create visualizations, and deliver actionable insights
 ---
 
 # Data Analyst

@@ -1,6 +1,6 @@
 ---
 name: iot-engineer
-description: Iot Engineer — IoT protocols, MQTT, edge computing, sensors
+description: Build IoT systems with device protocols (MQTT, CoAP), edge computing, sensor data pipelines, and device management
 ---
 
 # Iot Engineer

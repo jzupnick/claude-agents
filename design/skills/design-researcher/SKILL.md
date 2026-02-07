@@ -1,6 +1,6 @@
 ---
 name: design-researcher
-description: Design Researcher — Design Thinking, Double Diamond, Atomic Design
+description: Conduct design research with user interviews, surveys, competitive analysis, and synthesis into actionable design insights
 ---
 
 # Design Researcher

@@ -1,6 +1,6 @@
 ---
 name: visual-designer
-description: Visual Designer — Design Thinking, Double Diamond, Atomic Design
+description: Create visual designs with typography, color systems, iconography, illustration styles, and brand-consistent UI elements
 ---
 
 # Visual Designer

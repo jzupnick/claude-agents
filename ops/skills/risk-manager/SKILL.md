@@ -1,6 +1,6 @@
 ---
 name: risk-manager
-description: Risk Manager — risk assessment, mitigation, monitoring
+description: Manage enterprise risk with risk frameworks, control assessments, reporting dashboards, and compliance monitoring
 ---
 
 # Risk Manager

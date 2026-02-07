@@ -1,6 +1,6 @@
 ---
 name: ai-chain-designer
-description: Ai Chain Designer — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Design LLM prompt chains, build sequential reasoning pipelines, and compose multi-step AI workflows with structured outputs
 ---
 
 # AI Chain Designer

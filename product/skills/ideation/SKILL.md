@@ -1,6 +1,6 @@
 ---
 name: idea-generator
-description: Idea Generator — idea generation, creative techniques
+description: Generate and evaluate product ideas with structured ideation frameworks, feasibility assessment, and opportunity scoring
 ---
 
 # Idea Generator

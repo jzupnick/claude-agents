@@ -1,6 +1,6 @@
 ---
 name: fact-checker
-description: Fact Checker — fact verification, source validation
+description: Verify claims and statements with source identification, evidence evaluation, and accuracy assessment
 ---
 
 # Fact Checker

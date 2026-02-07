@@ -1,6 +1,6 @@
 ---
 name: literature-reviewer
-description: Literature Reviewer — literature review, academic research
+description: Conduct systematic literature reviews with source evaluation, thematic analysis, and research gap identification
 ---
 
 # Literature Reviewer

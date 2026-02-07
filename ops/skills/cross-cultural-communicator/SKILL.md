@@ -1,6 +1,6 @@
 ---
 name: cross-cultural-communicator
-description: Cross Cultural Communicator — Nonviolent Communication, SBI Feedback, BLUF
+description: Navigate cross-cultural business communication with cultural awareness, localized messaging, and inclusive collaboration practices
 ---
 
 # Cross-Cultural Communicator

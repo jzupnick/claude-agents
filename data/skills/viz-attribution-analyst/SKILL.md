@@ -1,6 +1,6 @@
 ---
 name: attribution-analyst
-description: Attribution Analyst — AARRR, Analytics Maturity Model, Data Visualization
+description: Build marketing attribution models with multi-touch analysis, conversion path mapping, and channel effectiveness measurement
 ---
 
 # Attribution Analyst

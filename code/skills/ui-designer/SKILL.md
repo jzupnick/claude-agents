@@ -1,6 +1,6 @@
 ---
 name: ui-designer
-description: Ui Designer — UI patterns, component design, prototyping
+description: Build user interfaces with component design, layout systems, theming, responsive breakpoints, and design token integration
 ---
 
 # Ui Designer

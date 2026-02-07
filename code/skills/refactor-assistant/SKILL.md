@@ -1,6 +1,6 @@
 ---
 name: refactor-assistant
-description: Refactor Assistant — general purpose assistant
+description: Refactor code for improved readability, reduced complexity, better naming, and cleaner architecture without changing behavior
 ---
 
 # Refactor Assistant

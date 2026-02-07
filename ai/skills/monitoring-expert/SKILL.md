@@ -1,6 +1,6 @@
 ---
 name: ai-monitoring-expert
-description: Ai Monitoring Expert — LangChain, LlamaIndex, AutoGen, CrewAI
+description: Monitor AI system performance, track model drift, set up alerting for quality degradation, and build observability dashboards
 ---
 
 # AI Monitoring Expert

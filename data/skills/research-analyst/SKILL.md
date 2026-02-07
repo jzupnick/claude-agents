@@ -1,6 +1,6 @@
 ---
 name: research-analyst
-description: Research Analyst — research synthesis, literature analysis
+description: Conduct quantitative research with hypothesis formulation, data collection, statistical analysis, and findings presentation
 ---
 
 # Research Analyst

@@ -1,6 +1,6 @@
 ---
 name: cloud-security-expert
-description: Cloud Security Expert — Zero Trust, NIST CSF, ISO 27001
+description: Secure cloud infrastructure with IAM policies, network segmentation, encryption, compliance controls, and security monitoring
 ---
 
 # Cloud Security Expert

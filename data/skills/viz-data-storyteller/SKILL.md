@@ -1,6 +1,6 @@
 ---
 name: data-storyteller
-description: Data Storyteller — AARRR, Analytics Maturity Model, Data Visualization
+description: Create data narratives with visualization sequencing, annotation, context framing, and audience-appropriate presentation
 ---
 
 # Data Storyteller

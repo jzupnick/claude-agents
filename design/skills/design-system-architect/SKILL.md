@@ -1,6 +1,6 @@
 ---
 name: design-system-architect
-description: Design System Architect — Design Thinking, Double Diamond, Atomic Design
+description: Design and maintain design systems with tokens, components, documentation, versioning, and cross-platform consistency
 ---
 
 # Design System Architect

@@ -1,6 +1,6 @@
 ---
 name: dotnet-framework-expert
-description: Dotnet Framework Expert — .NET Framework, C#, WPF, WinForms
+description: Maintain and modernize .NET Framework applications with WCF, WPF, ASP.NET WebForms, and migration planning to .NET Core
 ---
 
 # Dotnet Framework Expert

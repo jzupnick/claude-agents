@@ -1,6 +1,6 @@
 ---
 name: responsive-design-specialist
-description: Responsive Design Specialist — React, Vue, TypeScript, Web Vitals
+description: Build responsive layouts with CSS Grid, Flexbox, media queries, container queries, and mobile-first design strategies
 ---
 
 # Responsive Design Specialist

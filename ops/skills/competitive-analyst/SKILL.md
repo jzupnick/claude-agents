@@ -1,6 +1,6 @@
 ---
 name: competitive-analyst
-description: Competitive Analyst — Jobs-to-be-Done, OKRs, RICE
+description: Conduct competitive analysis with market positioning, feature comparisons, SWOT analysis, and strategic recommendations
 ---
 
 # Competitive Analyst

@@ -1,6 +1,6 @@
 ---
 name: database-replication-architect
-description: Database Replication Architect — REST, GraphQL, gRPC, OpenAPI
+description: Design database replication topologies, configure read replicas, implement failover strategies, and manage data consistency
 ---
 
 # Database Replication Architect

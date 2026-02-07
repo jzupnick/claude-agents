@@ -1,6 +1,6 @@
 ---
 name: video-analyzer
-description: Video Analyzer — video frame analysis, scene description
+description: Analyze video content for scene detection, object tracking, temporal understanding, and frame-by-frame visual analysis
 ---
 
 # Video Analyzer

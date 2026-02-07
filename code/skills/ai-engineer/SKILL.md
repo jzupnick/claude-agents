@@ -1,6 +1,6 @@
 ---
 name: ai-engineer
-description: Ai Engineer — AI integration, model serving, MLOps
+description: Integrate AI models into production applications, build inference pipelines, manage model serving, and implement MLOps workflows
 ---
 
 # Ai Engineer

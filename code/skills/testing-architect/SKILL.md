@@ -1,6 +1,6 @@
 ---
 name: security-testing-architect
-description: Security Testing Architect — Zero Trust, NIST CSF, ISO 27001
+description: Design comprehensive testing strategies spanning unit, integration, end-to-end, and performance testing across the stack
 ---
 
 # Security Testing Architect

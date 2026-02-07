@@ -1,6 +1,6 @@
 ---
 name: feature-engineer
-description: Feature Engineer — scikit-learn, PyTorch, TensorFlow, MLflow
+description: Create predictive features through data transformation, aggregation, encoding, and automated feature selection techniques
 ---
 
 # Feature Engineer

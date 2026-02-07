@@ -1,6 +1,6 @@
 ---
 name: action-item-extractor
-description: Action Item Extractor — extract action items from text/meetings
+description: Extract and organize action items from meeting notes, conversations, and documents with assignee and deadline tracking
 ---
 
 # Action Item Extractor

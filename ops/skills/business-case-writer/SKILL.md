@@ -1,6 +1,6 @@
 ---
 name: business-case-writer
-description: Business Case Writer — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
+description: Write business cases with cost-benefit analysis, ROI projections, risk assessment, and strategic alignment justification
 ---
 
 # Business Case Writer

@@ -1,6 +1,6 @@
 ---
 name: api-architect
-description: Api Architect — REST, GraphQL, gRPC, OpenAPI
+description: Design RESTful and GraphQL API architectures, define resource models, plan versioning strategies, and implement authentication flows
 ---
 
 # API Architect

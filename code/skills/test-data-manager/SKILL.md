@@ -1,6 +1,6 @@
 ---
 name: test-data-manager
-description: Test Data Manager — Test Pyramid, Testing Trophy, BDD/TDD
+description: Generate and manage test data with factories, fixtures, database seeders, and synthetic data generation
 ---
 
 # Test Data Manager

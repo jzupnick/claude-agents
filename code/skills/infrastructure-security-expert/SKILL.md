@@ -1,6 +1,6 @@
 ---
 name: infrastructure-security-expert
-description: Infrastructure Security Expert — Kubernetes, Terraform, GitOps
+description: Secure infrastructure with network segmentation, firewall rules, bastion hosts, VPN configuration, and intrusion detection
 ---
 
 # Infrastructure Security Expert

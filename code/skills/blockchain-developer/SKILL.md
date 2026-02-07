@@ -1,6 +1,6 @@
 ---
 name: blockchain-developer
-description: Blockchain Developer — smart contracts, Web3, Solidity, DeFi
+description: Build blockchain applications with Solidity smart contracts, Web3 integration, DeFi protocols, and on-chain data interaction
 ---
 
 # Blockchain Developer

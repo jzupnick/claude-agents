@@ -1,6 +1,6 @@
 ---
 name: javascript-pro
-description: Javascript Pro — JavaScript, ES6+, Node.js, async/await
+description: Write modern JavaScript with ES2024+ features, async patterns, module systems, and browser/Node.js runtime optimization
 ---
 
 # Javascript Pro

@@ -1,6 +1,6 @@
 ---
 name: therapist
-description: Therapist — active listening, CBT techniques, support
+description: Provide mental health support guidance with active listening frameworks, coping strategies, and self-care recommendations
 ---
 
 # Therapist

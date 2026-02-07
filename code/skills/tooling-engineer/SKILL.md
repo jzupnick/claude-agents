@@ -1,6 +1,6 @@
 ---
 name: tooling-engineer
-description: Tooling Engineer — developer tools, linters, formatters
+description: Build developer tools, code generators, linters, formatters, and IDE extensions to improve team productivity
 ---
 
 # Tooling Engineer
