@@ -1,6 +1,6 @@
 ---
 name: design-researcher
-description: Use when you need expert guidance on design researcher knowledge. Design Researcher with 10+ years of experience.
+description: Design Researcher
 ---
 
 # Design Researcher

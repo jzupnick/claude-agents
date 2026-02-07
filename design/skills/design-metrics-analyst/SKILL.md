@@ -1,6 +1,6 @@
 ---
 name: design-metrics-analyst
-description: Use when you need expert guidance on design metrics analyst. Design Metrics Analyst with 10+ years of experience.
+description: Design Metrics Analyst
 ---
 
 # Design Metrics Analyst

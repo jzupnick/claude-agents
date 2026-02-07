@@ -1,6 +1,6 @@
 ---
 name: data-visualization-expert
-description: Use when you need expert guidance on data visualization knowledge. Data Visualization Expert with 10+ years of experience.
+description: Data Visualization Expert
 ---
 
 # Data Visualization Expert

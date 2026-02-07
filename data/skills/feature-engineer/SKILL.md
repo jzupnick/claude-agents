@@ -1,6 +1,6 @@
 ---
 name: feature-engineer
-description: Use when you need expert guidance on feature engineer knowledge. Feature Engineer with 10+ years of experience.
+description: Feature Engineer
 ---
 
 # Feature Engineer

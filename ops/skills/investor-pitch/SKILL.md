@@ -1,6 +1,6 @@
 ---
 name: investor-pitch
-description: Use when you need expert guidance on investor pitch. Investor Pitch. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Investor Pitch
 ---
 
 # Investor Pitch

@@ -1,6 +1,6 @@
 ---
 name: tooling-engineer
-description: Use when you need expert guidance on tooling engineer. Domain: Free/Development.
+description: Tooling Engineer
 ---
 
 # Tooling Engineer

@@ -1,6 +1,6 @@
 ---
 name: penetration-tester
-description: Use when you need expert guidance on penetration tester knowledge. Penetration Tester with 10+ years of experience.
+description: Penetration Tester
 ---
 
 # Penetration Tester

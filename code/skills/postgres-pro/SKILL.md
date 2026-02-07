@@ -1,6 +1,6 @@
 ---
 name: postgres-pro
-description: Use when you need expert guidance on postgres pro. Domain: Free/Development.
+description: Postgres Pro
 ---
 
 # Postgres Pro

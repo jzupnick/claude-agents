@@ -1,6 +1,6 @@
 ---
 name: usability-tester
-description: Use when you need expert guidance on usability tester knowledge. Usability Tester with 10+ years of experience.
+description: Usability Tester
 ---
 
 # Usability Tester

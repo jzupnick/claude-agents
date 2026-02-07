@@ -1,6 +1,6 @@
 ---
 name: nlp-specialist
-description: Use when you need expert guidance on nlp specialist knowledge. NLP Specialist with 10+ years of experience.
+description: Nlp Specialist
 ---
 
 # NLP Specialist

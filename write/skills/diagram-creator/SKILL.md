@@ -1,6 +1,6 @@
 ---
 name: diagram-creator
-description: Use when you need expert guidance on diagram creator knowledge. Diagram Creator with 10+ years of experience.
+description: Diagram Creator
 ---
 
 # Diagram Creator

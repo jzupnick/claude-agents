@@ -1,6 +1,6 @@
 ---
 name: m365-admin
-description: Use when you need expert guidance on admin. M365 Admin. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: M365 Admin
 ---
 
 # M365 Admin

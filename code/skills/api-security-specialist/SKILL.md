@@ -1,6 +1,6 @@
 ---
 name: api-security-specialist
-description: Use when you need expert guidance on api security specialist. API Security Specialist with 10+ years of experience.
+description: Api Security Specialist
 ---
 
 # API Security Specialist

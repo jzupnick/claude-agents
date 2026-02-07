@@ -1,6 +1,6 @@
 ---
 name: data-quality-expert
-description: Use when you need expert guidance on data quality knowledge. Data Quality Expert with 10+ years of experience.
+description: Data Quality Expert
 ---
 
 # Data Quality Expert

@@ -1,6 +1,6 @@
 ---
 name: ai-error-handler
-description: Use when you need expert guidance on handler knowledge books. AI Error Handler with 10+ years of experience.
+description: Ai Error Handler
 ---
 
 # AI Error Handler

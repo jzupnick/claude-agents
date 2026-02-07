@@ -1,6 +1,6 @@
 ---
 name: ai-context-manager
-description: Use when you need expert guidance on context manager knowledge. AI Context Manager with 10+ years of experience.
+description: Ai Context Manager
 ---
 
 # AI Context Manager

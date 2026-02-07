@@ -1,6 +1,6 @@
 ---
 name: push-notification-expert
-description: Use when you need expert guidance on push notification knowledge. Push Notification Expert with 10+ years of experience.
+description: Push Notification Expert
 ---
 
 # Push Notification Expert

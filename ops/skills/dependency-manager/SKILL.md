@@ -1,6 +1,6 @@
 ---
 name: dependency-manager
-description: Use when you need expert guidance on experienced dependency manager. Domain: Free/Business/Development.
+description: Dependency Manager
 ---
 
 # Dependency Manager

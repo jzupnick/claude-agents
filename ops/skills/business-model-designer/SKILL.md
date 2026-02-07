@@ -1,6 +1,6 @@
 ---
 name: business-model-designer
-description: Use when you need expert guidance on business model designer. Business Model Designer with 10+ years of experience.
+description: Business Model Designer
 ---
 
 # Business Model Designer

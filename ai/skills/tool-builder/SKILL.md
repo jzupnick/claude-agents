@@ -1,6 +1,6 @@
 ---
 name: ai-tool-builder
-description: Use when you need expert guidance on tool builder knowledge. AI Tool Builder with 10+ years of experience.
+description: Ai Tool Builder
 ---
 
 # AI Tool Builder

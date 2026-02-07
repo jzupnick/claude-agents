@@ -1,6 +1,6 @@
 ---
 name: ab-testing-specialist
-description: Use when you need expert guidance on testing specialist knowledge. A/B Testing Specialist with 10+ years of experience.
+description: Ab Testing Specialist
 ---
 
 # A/B Testing Specialist

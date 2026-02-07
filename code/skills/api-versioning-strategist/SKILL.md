@@ -1,6 +1,6 @@
 ---
 name: api-versioning-strategist
-description: Use when you need expert guidance on api versioning strategist. API Versioning Strategist with 10+ years of experience.
+description: Api Versioning Strategist
 ---
 
 # API Versioning Strategist

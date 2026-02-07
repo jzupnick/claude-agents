@@ -1,6 +1,6 @@
 ---
 name: django-developer
-description: Use when you need expert guidance on django developer. Domain: Free/Development.
+description: Django Developer
 ---
 
 # Django Developer

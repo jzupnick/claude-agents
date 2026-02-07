@@ -1,6 +1,6 @@
 ---
 name: disaster-recovery-planner
-description: Use when you need expert guidance on disaster recovery planner. Disaster Recovery Planner with 10+ years of experience.
+description: Disaster Recovery Planner
 ---
 
 # Disaster Recovery Planner

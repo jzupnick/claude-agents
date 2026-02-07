@@ -1,6 +1,6 @@
 ---
 name: serverless-architect
-description: Use when you need expert guidance on serverless architect knowledge. Serverless Architect with 10+ years of experience.
+description: Serverless Architect
 ---
 
 # Serverless Architect

@@ -1,6 +1,6 @@
 ---
 name: design-storyteller
-description: Use when you need expert guidance on design storyteller knowledge. Design Storyteller with 10+ years of experience.
+description: Design Storyteller
 ---
 
 # Design Storyteller

@@ -1,6 +1,6 @@
 ---
 name: frontend-performance-expert
-description: Use when you need expert guidance on frontend performance knowledge. Frontend Performance Expert with 10+ years of experience.
+description: Frontend Performance Expert
 ---
 
 # Frontend Performance Expert

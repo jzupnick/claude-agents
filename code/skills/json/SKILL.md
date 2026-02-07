@@ -1,6 +1,6 @@
 ---
 name: json-generator
-description: Use when you need expert guidance on json generator. Json Generator. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Json Generator
 ---
 
 # Json Generator

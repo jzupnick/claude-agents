@@ -1,6 +1,6 @@
 ---
 name: typescript-expert
-description: Use when you need expert guidance on typescript knowledge books. TypeScript Expert with 10+ years of experience.
+description: Typescript Expert
 ---
 
 # TypeScript Expert

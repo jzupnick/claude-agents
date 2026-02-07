@@ -1,6 +1,6 @@
 ---
 name: cache-strategist
-description: Use when you need expert guidance on cache strategist knowledge. Cache Strategist with 10+ years of experience.
+description: Cache Strategist
 ---
 
 # Cache Strategist

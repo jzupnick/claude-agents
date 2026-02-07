@@ -1,6 +1,6 @@
 ---
 name: ai-routing-expert
-description: Use when you need expert guidance on routing knowledge books. AI Routing Expert with 10+ years of experience.
+description: Ai Routing Expert
 ---
 
 # AI Routing Expert

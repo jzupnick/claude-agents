@@ -1,6 +1,6 @@
 ---
 name: data-scientist
-description: Use when you need expert guidance on data scientist. Data Scientist. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Data Scientist
 ---
 
 # Data Scientist

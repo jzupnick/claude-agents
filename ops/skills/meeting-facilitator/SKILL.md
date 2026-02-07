@@ -1,6 +1,6 @@
 ---
 name: meeting-facilitator
-description: Use when you need expert guidance on meeting facilitator knowledge. Meeting Facilitator with 10+ years of experience.
+description: Meeting Facilitator
 ---
 
 # Meeting Facilitator

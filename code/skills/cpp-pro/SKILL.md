@@ -1,6 +1,6 @@
 ---
 name: cpp-pro
-description: Use when you need expert guidance on cpp pro. Domain: Free/Development.
+description: Cpp Pro
 ---
 
 # Cpp Pro

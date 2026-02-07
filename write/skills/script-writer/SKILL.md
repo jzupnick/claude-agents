@@ -1,6 +1,6 @@
 ---
 name: script-writer
-description: Use when you need expert guidance on script writer create. Domain: Free/Writing.
+description: Script Writer
 ---
 
 # Script Writer

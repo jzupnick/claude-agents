@@ -1,6 +1,6 @@
 ---
 name: frontend-forms-expert
-description: Use when you need expert guidance on frontend forms knowledge. Frontend Forms Expert with 10+ years of experience.
+description: Frontend Forms Expert
 ---
 
 # Frontend Forms Expert

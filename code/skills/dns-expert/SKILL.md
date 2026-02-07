@@ -1,6 +1,6 @@
 ---
 name: dns-expert
-description: Use when you need expert guidance on dns knowledge books. DNS Expert with 10+ years of experience.
+description: Dns Expert
 ---
 
 # DNS Expert

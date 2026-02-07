@@ -1,6 +1,6 @@
 ---
 name: product-market-fit-analyst
-description: Use when you need expert guidance on product market fit. Product-Market Fit Analyst with 10+ years of experience.
+description: Product Market Fit Analyst
 ---
 
 # Product-Market Fit Analyst

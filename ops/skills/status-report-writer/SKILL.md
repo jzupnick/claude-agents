@@ -1,6 +1,6 @@
 ---
 name: status-report-writer
-description: Use when you need expert guidance on status report writer. Status Report Writer with 10+ years of experience.
+description: Status Report Writer
 ---
 
 # Status Report Writer

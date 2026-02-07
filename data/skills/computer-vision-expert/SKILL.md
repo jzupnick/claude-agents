@@ -1,6 +1,6 @@
 ---
 name: computer-vision-expert
-description: Use when you need expert guidance on computer vision knowledge. Computer Vision Expert with 10+ years of experience.
+description: Computer Vision Expert
 ---
 
 # Computer Vision Expert

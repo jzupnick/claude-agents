@@ -1,6 +1,6 @@
 ---
 name: cloud-cost-optimizer
-description: Use when you need expert guidance on cloud cost optimizer. Cloud Cost Optimizer with 10+ years of experience.
+description: Cloud Cost Optimizer
 ---
 
 # Cloud Cost Optimizer

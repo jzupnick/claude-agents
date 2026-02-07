@@ -1,6 +1,6 @@
 ---
 name: product-documentation-writer
-description: Use when you need expert guidance on product documentation writer. Product Documentation Writer with 10+ years of experience.
+description: Product Documentation Writer
 ---
 
 # Product Documentation Writer

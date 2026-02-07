@@ -1,6 +1,6 @@
 ---
 name: social-media-writer
-description: Use when you need expert guidance on social media writer. Domain: Free/Writing.
+description: Social Media Writer
 ---
 
 # Social Media Writer

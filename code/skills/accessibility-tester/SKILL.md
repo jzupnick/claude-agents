@@ -1,6 +1,6 @@
 ---
 name: accessibility-tester
-description: Use when you need expert guidance on accessibility tester knowledge. Accessibility Tester with 10+ years of experience.
+description: Accessibility Tester
 ---
 
 # Accessibility Tester

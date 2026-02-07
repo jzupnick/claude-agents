@@ -1,6 +1,6 @@
 ---
 name: roi-calculator
-description: Use when you need expert guidance on roi calculator knowledge. ROI Calculator with 10+ years of experience.
+description: Roi Calculator
 ---
 
 # ROI Calculator

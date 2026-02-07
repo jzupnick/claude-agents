@@ -1,6 +1,6 @@
 ---
 name: nlp-engineer
-description: Use when you need expert guidance on nlp engineer. Domain: Free/Development.
+description: Nlp Engineer
 ---
 
 # Nlp Engineer

@@ -1,6 +1,6 @@
 ---
 name: flutter-expert
-description: Use when you need expert guidance on flutter knowledge books. Flutter Expert with 10+ years of experience.
+description: Flutter Expert
 ---
 
 # Flutter Expert

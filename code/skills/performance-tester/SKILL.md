@@ -1,6 +1,6 @@
 ---
 name: performance-tester
-description: Use when you need expert guidance on performance tester knowledge. Performance Tester with 10+ years of experience.
+description: Performance Tester
 ---
 
 # Performance Tester

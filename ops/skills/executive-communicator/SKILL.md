@@ -1,6 +1,6 @@
 ---
 name: executive-communicator
-description: Use when you need expert guidance on executive communicator knowledge. Executive Communicator with 10+ years of experience.
+description: Executive Communicator
 ---
 
 # Executive Communicator

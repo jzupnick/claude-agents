@@ -1,6 +1,6 @@
 ---
 name: auto-scaling-expert
-description: Use when you need expert guidance on auto scaling knowledge. Auto Scaling Expert with 10+ years of experience.
+description: Auto Scaling Expert
 ---
 
 # Auto Scaling Expert

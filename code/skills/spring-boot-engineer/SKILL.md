@@ -1,6 +1,6 @@
 ---
 name: spring-boot-engineer
-description: Use when you need expert guidance on spring boot engineer. Domain: Free/Development.
+description: Spring Boot Engineer
 ---
 
 # Spring Boot Engineer

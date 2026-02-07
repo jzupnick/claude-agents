@@ -1,6 +1,6 @@
 ---
 name: beta-program-manager
-description: Use when you need expert guidance on beta program manager. Beta Program Manager with 10+ years of experience.
+description: Beta Program Manager
 ---
 
 # Beta Program Manager

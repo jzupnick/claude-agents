@@ -1,6 +1,6 @@
 ---
 name: competitive-analyst
-description: Use when you need expert guidance on competitive analyst knowledge. Competitive Analyst with 10+ years of experience.
+description: Competitive Analyst
 ---
 
 # Competitive Analyst

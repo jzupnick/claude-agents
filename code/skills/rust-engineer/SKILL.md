@@ -1,6 +1,6 @@
 ---
 name: rust-engineer
-description: Use when you need expert guidance on rust engineer. Domain: Free/Development.
+description: Rust Engineer
 ---
 
 # Rust Engineer

@@ -1,6 +1,6 @@
 ---
 name: product-launch-specialist
-description: Use when you need expert guidance on product launch specialist. Product Launch Specialist with 10+ years of experience.
+description: Product Launch Specialist
 ---
 
 # Product Launch Specialist

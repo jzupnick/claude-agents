@@ -1,6 +1,6 @@
 ---
 name: ml-model-evaluation-expert
-description: Use when you need expert guidance on model evaluation knowledge. ML Model Evaluation Expert with 10+ years of experience.
+description: Ml Model Evaluation Expert
 ---
 
 # ML Model Evaluation Expert

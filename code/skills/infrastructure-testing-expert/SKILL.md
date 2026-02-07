@@ -1,6 +1,6 @@
 ---
 name: infrastructure-testing-expert
-description: Use when you need expert guidance on infrastructure testing knowledge. Infrastructure Testing Expert with 10+ years of experience.
+description: Infrastructure Testing Expert
 ---
 
 # Infrastructure Testing Expert

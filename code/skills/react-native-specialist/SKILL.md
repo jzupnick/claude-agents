@@ -1,6 +1,6 @@
 ---
 name: react-native-specialist
-description: Use when you need expert guidance on react native specialist. React Native Specialist with 10+ years of experience.
+description: React Native Specialist
 ---
 
 # React Native Specialist

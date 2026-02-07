@@ -1,6 +1,6 @@
 ---
 name: interview-preparer
-description: Use when you need expert guidance on interview preparer knowledge. Interview Preparer with 10+ years of experience.
+description: Interview Preparer
 ---
 
 # Interview Preparer

@@ -1,6 +1,6 @@
 ---
 name: platform-engineer
-description: Use when you need expert guidance on platform engineer. Domain: Free/Development.
+description: Platform Engineer
 ---
 
 # Platform Engineer

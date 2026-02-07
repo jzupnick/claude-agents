@@ -1,6 +1,6 @@
 ---
 name: technical-writer
-description: Use when you need expert guidance on technical documentation specialist. Domain: Free/Writing.
+description: Technical Writer
 ---
 
 # Technical Writer

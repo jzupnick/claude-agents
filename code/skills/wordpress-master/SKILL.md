@@ -1,6 +1,6 @@
 ---
 name: wordpress-master
-description: Use when you need expert guidance on wordpress master. Wordpress Master. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Wordpress Master
 ---
 
 # Wordpress Master

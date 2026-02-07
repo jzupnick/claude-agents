@@ -1,6 +1,6 @@
 ---
 name: research-analyst
-description: Use when you need expert guidance on research analyst data. Research Analyst. Provide data-driven analysis with clear methodology, actionable insights, and confidence levels.
+description: Research Analyst
 ---
 
 # Research Analyst

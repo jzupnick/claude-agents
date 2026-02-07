@@ -1,6 +1,6 @@
 ---
 name: ai-memory-architect
-description: Use when you need expert guidance on memory architect knowledge. AI Memory Architect with 10+ years of experience.
+description: Ai Memory Architect
 ---
 
 # AI Memory Architect

@@ -1,6 +1,6 @@
 ---
 name: workflow-orchestrator
-description: Use when you need expert guidance on workflow orchestrator. Workflow Orchestrator. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Workflow Orchestrator
 ---
 
 # Workflow Orchestrator

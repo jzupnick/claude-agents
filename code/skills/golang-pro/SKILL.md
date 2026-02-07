@@ -1,6 +1,6 @@
 ---
 name: golang-pro
-description: Use when you need expert guidance on golang pro. Domain: Free/Development.
+description: Golang Pro
 ---
 
 # Golang Pro

@@ -1,6 +1,6 @@
 ---
 name: vuejs-expert
-description: Use when you need expert guidance on vue knowledge books. Vue.js Expert with 10+ years of experience.
+description: Vuejs Expert
 ---
 
 # Vue.js Expert

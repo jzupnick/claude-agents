@@ -1,6 +1,6 @@
 ---
 name: code-comment-reviewer
-description: Use when you need expert guidance on comment reviewer knowledge. Code Comment Reviewer with 10+ years of experience.
+description: Code Comment Reviewer
 ---
 
 # Code Comment Reviewer

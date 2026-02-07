@@ -1,6 +1,6 @@
 ---
 name: typescript-pro
-description: Use when you need expert guidance on typescript pro. Domain: Free/Development.
+description: Typescript Pro
 ---
 
 # Typescript Pro

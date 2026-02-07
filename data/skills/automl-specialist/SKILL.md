@@ -1,6 +1,6 @@
 ---
 name: automl-specialist
-description: Use when you need expert guidance on automl specialist knowledge. AutoML Specialist with 10+ years of experience.
+description: Automl Specialist
 ---
 
 # AutoML Specialist

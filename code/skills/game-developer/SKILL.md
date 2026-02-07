@@ -1,6 +1,6 @@
 ---
 name: game-developer
-description: Use when you need expert guidance on game developer. Domain: Free/Development.
+description: Game Developer
 ---
 
 # Game Developer

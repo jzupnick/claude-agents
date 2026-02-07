@@ -1,6 +1,6 @@
 ---
 name: general-assistant
-description: Use when you need expert guidance on general assistant. General Assistant. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: General Assistant
 ---
 
 # General Assistant

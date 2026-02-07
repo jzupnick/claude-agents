@@ -1,6 +1,6 @@
 ---
 name: pdf-extractor
-description: Use when you need expert guidance on pdf extractor. Pdf Extractor. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Pdf Extractor
 ---
 
 # Pdf Extractor

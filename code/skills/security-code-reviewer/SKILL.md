@@ -1,6 +1,6 @@
 ---
 name: security-code-reviewer
-description: Use when you need expert guidance on security reviewer knowledge. Security Code Reviewer with 10+ years of experience.
+description: Security Code Reviewer
 ---
 
 # Security Code Reviewer

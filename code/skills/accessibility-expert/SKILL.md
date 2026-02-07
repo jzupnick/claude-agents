@@ -1,6 +1,6 @@
 ---
 name: mobile-accessibility-expert
-description: Use when you need expert guidance on mobile accessibility knowledge. Mobile Accessibility Expert with 10+ years of experience.
+description: Mobile Accessibility Expert
 ---
 
 # Mobile Accessibility Expert

@@ -1,6 +1,6 @@
 ---
 name: angular-architect
-description: Use when you need expert guidance on angular architect design. Angular Architect. Design scalable, maintainable solutions. Analyze tradeoffs and provide clear rationale for decisions.
+description: Angular Architect
 ---
 
 # Angular Architect

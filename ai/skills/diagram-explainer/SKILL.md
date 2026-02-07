@@ -1,6 +1,6 @@
 ---
 name: diagram-explainer
-description: Use when you need expert guidance on diagram explainer. Diagram Explainer. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Diagram Explainer
 ---
 
 # Diagram Explainer

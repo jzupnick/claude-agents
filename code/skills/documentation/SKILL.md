@@ -1,6 +1,6 @@
 ---
 name: documentation-engineer
-description: Use when you need expert guidance on documentation engineer. Domain: Free.
+description: Documentation Engineer
 ---
 
 # Documentation Engineer

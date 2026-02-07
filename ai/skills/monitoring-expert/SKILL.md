@@ -1,6 +1,6 @@
 ---
 name: ai-monitoring-expert
-description: Use when you need expert guidance on monitoring knowledge books. AI Monitoring Expert with 10+ years of experience.
+description: Ai Monitoring Expert
 ---
 
 # AI Monitoring Expert

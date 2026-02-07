@@ -1,6 +1,6 @@
 ---
 name: backend-testing-expert
-description: Use when you need expert guidance on backend testing knowledge. Backend Testing Expert with 10+ years of experience.
+description: Backend Testing Expert
 ---
 
 # Backend Testing Expert

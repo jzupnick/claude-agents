@@ -1,6 +1,6 @@
 ---
 name: mcp-developer
-description: Use when you need expert guidance on mcp developer. Domain: Free/Development.
+description: Mcp Developer
 ---
 
 # Mcp Developer

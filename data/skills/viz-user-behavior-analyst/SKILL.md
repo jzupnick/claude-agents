@@ -1,6 +1,6 @@
 ---
 name: user-behavior-analyst
-description: Use when you need expert guidance on user behavior analyst. User Behavior Analyst with 10+ years of experience.
+description: User Behavior Analyst
 ---
 
 # User Behavior Analyst

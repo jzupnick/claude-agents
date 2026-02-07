@@ -1,6 +1,6 @@
 ---
 name: mobile-offline-expert
-description: Use when you need expert guidance on mobile offline knowledge. Mobile Offline Expert with 10+ years of experience.
+description: Mobile Offline Expert
 ---
 
 # Mobile Offline Expert

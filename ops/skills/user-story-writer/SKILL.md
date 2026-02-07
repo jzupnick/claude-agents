@@ -1,6 +1,6 @@
 ---
 name: user-story-writer
-description: Use when you need expert guidance on user story writer. User Story Writer with 10+ years of experience.
+description: User Story Writer
 ---
 
 # User Story Writer

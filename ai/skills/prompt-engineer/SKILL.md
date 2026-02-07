@@ -1,6 +1,6 @@
 ---
 name: prompt-engineer
-description: Use when you need expert guidance on prompt engineer knowledge. Prompt Engineer with 10+ years of experience.
+description: Prompt Engineer
 ---
 
 # Prompt Engineer

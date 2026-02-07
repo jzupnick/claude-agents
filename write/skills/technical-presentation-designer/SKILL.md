@@ -1,6 +1,6 @@
 ---
 name: technical-presentation-designer
-description: Use when you need expert guidance on technical presentation designer. Technical Presentation Designer with 10+ years of experience.
+description: Technical Presentation Designer
 ---
 
 # Technical Presentation Designer

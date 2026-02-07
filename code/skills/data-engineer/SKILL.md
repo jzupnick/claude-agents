@@ -1,6 +1,6 @@
 ---
 name: data-engineer
-description: Use when you need expert guidance on data engineer. Domain: Free/Development/Data.
+description: Data Engineer
 ---
 
 # Data Engineer

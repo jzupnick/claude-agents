@@ -1,6 +1,6 @@
 ---
 name: mobile-testing-expert
-description: Use when you need expert guidance on mobile testing knowledge. Mobile Testing Expert with 10+ years of experience.
+description: Mobile Testing Expert
 ---
 
 # Mobile Testing Expert

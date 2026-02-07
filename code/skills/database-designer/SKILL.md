@@ -1,6 +1,6 @@
 ---
 name: database-designer
-description: Use when you need expert guidance on database designer knowledge. Database Designer with 10+ years of experience.
+description: Database Designer
 ---
 
 # Database Designer

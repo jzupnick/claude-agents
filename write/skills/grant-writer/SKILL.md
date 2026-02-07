@@ -1,6 +1,6 @@
 ---
 name: grant-writer
-description: Use when you need expert guidance on grant writer create. Domain: Free/Writing.
+description: Grant Writer
 ---
 
 # Grant Writer

@@ -1,6 +1,6 @@
 ---
 name: cross-browser-tester
-description: Use when you need expert guidance on cross browser tester. Cross-Browser Tester with 10+ years of experience.
+description: Cross Browser Tester
 ---
 
 # Cross-Browser Tester

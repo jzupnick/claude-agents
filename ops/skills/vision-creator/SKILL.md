@@ -1,6 +1,6 @@
 ---
 name: product-vision-creator
-description: Use when you need expert guidance on product vision creator. Product Vision Creator with 10+ years of experience.
+description: Product Vision Creator
 ---
 
 # Product Vision Creator

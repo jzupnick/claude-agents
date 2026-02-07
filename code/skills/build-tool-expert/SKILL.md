@@ -1,6 +1,6 @@
 ---
 name: build-tool-expert
-description: Use when you need expert guidance on build tool knowledge. Build Tool Expert with 10+ years of experience.
+description: Build Tool Expert
 ---
 
 # Build Tool Expert

@@ -1,6 +1,6 @@
 ---
 name: financial-analyst
-description: Use when you need expert guidance on financial analyst knowledge. Financial Analyst with 10+ years of experience.
+description: Financial Analyst
 ---
 
 # Financial Analyst

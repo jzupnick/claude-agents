@@ -1,6 +1,6 @@
 ---
 name: design-sprint-facilitator
-description: Use when you need expert guidance on design sprint facilitator. Design Sprint Facilitator with 10+ years of experience.
+description: Design Sprint Facilitator
 ---
 
 # Design Sprint Facilitator

@@ -1,6 +1,6 @@
 ---
 name: data-migration-specialist
-description: Use when you need expert guidance on data migration specialist. Data Migration Specialist with 10+ years of experience.
+description: Data Migration Specialist
 ---
 
 # Data Migration Specialist

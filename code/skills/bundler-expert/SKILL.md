@@ -1,6 +1,6 @@
 ---
 name: frontend-bundler-expert
-description: Use when you need expert guidance on frontend bundler knowledge. Frontend Bundler Expert with 10+ years of experience.
+description: Frontend Bundler Expert
 ---
 
 # Frontend Bundler Expert

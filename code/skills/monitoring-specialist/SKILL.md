@@ -1,6 +1,6 @@
 ---
 name: frontend-monitoring-specialist
-description: Use when you need expert guidance on frontend monitoring specialist. Frontend Monitoring Specialist with 10+ years of experience.
+description: Frontend Monitoring Specialist
 ---
 
 # Frontend Monitoring Specialist

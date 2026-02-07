@@ -1,6 +1,6 @@
 ---
 name: data-storyteller
-description: Use when you need expert guidance on data storyteller knowledge. Data Storyteller with 10+ years of experience.
+description: Data Storyteller
 ---
 
 # Data Storyteller

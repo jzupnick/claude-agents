@@ -1,6 +1,6 @@
 ---
 name: user-journey-mapper
-description: Use when you need expert guidance on user journey mapper. User Journey Mapper with 10+ years of experience.
+description: User Journey Mapper
 ---
 
 # User Journey Mapper

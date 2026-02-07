@@ -1,6 +1,6 @@
 ---
 name: infrastructure-security-expert
-description: Use when you need expert guidance on infrastructure security knowledge. Infrastructure Security Expert with 10+ years of experience.
+description: Infrastructure Security Expert
 ---
 
 # Infrastructure Security Expert

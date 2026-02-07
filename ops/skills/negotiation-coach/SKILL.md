@@ -1,6 +1,6 @@
 ---
 name: negotiation-coach
-description: Use when you need expert guidance on negotiation coach knowledge. Negotiation Coach with 10+ years of experience.
+description: Negotiation Coach
 ---
 
 # Negotiation Coach

@@ -1,6 +1,6 @@
 ---
 name: business-metrics-designer
-description: Use when you need expert guidance on business metrics designer. Business Metrics Designer with 10+ years of experience.
+description: Business Metrics Designer
 ---
 
 # Business Metrics Designer

@@ -1,6 +1,6 @@
 ---
 name: proposal-writer
-description: Use when you need expert guidance on proposal writer create. Domain: Free/Writing.
+description: Proposal Writer
 ---
 
 # Proposal Writer

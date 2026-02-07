@@ -1,6 +1,6 @@
 ---
 name: frontend-testing-expert
-description: Use when you need expert guidance on frontend testing knowledge. Frontend Testing Expert with 10+ years of experience.
+description: Frontend Testing Expert
 ---
 
 # Frontend Testing Expert

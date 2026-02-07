@@ -1,6 +1,6 @@
 ---
 name: threat-modeling-expert
-description: Use when you need expert guidance on threat modeling knowledge. Threat Modeling Expert with 10+ years of experience.
+description: Threat Modeling Expert
 ---
 
 # Threat Modeling Expert

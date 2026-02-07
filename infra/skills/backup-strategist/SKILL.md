@@ -1,6 +1,6 @@
 ---
 name: cloud-backup-strategist
-description: Use when you need expert guidance on cloud backup strategist. Cloud Backup Strategist with 10+ years of experience.
+description: Cloud Backup Strategist
 ---
 
 # Cloud Backup Strategist

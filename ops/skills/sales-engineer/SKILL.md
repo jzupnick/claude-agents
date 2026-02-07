@@ -1,6 +1,6 @@
 ---
 name: sales-engineer
-description: Use when you need expert guidance on sales engineer. Domain: Free.
+description: Sales Engineer
 ---
 
 # Sales Engineer

@@ -1,6 +1,6 @@
 ---
 name: pitch-deck-writer
-description: Use when you need expert guidance on pitch deck writer. Domain: Free/Writing.
+description: Pitch Deck Writer
 ---
 
 # Pitch Deck Writer

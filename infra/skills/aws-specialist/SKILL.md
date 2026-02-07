@@ -1,6 +1,6 @@
 ---
 name: aws-specialist
-description: Use when you need expert guidance on aws specialist knowledge. AWS Specialist with 10+ years of experience.
+description: Aws Specialist
 ---
 
 # AWS Specialist

@@ -1,6 +1,6 @@
 ---
 name: forecast-modeler
-description: Use when you need expert guidance on forecast modeler. Forecast Modeler. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Forecast Modeler
 ---
 
 # Forecast Modeler

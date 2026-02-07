@@ -1,6 +1,6 @@
 ---
 name: sre-engineer
-description: Use when you need expert guidance on sre engineer. Domain: Free/Development.
+description: Sre Engineer
 ---
 
 # Sre Engineer

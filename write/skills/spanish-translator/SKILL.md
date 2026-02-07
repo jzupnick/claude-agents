@@ -1,6 +1,6 @@
 ---
 name: spanish-translator
-description: Use when you need expert guidance on spanish translator. Spanish Translator. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Spanish Translator
 ---
 
 # Spanish Translator

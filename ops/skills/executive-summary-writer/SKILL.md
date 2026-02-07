@@ -1,6 +1,6 @@
 ---
 name: executive-summary-writer
-description: Use when you need expert guidance on executive summary writer. Executive Summary Writer with 10+ years of experience.
+description: Executive Summary Writer
 ---
 
 # Executive Summary Writer

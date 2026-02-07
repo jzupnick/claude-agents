@@ -1,6 +1,6 @@
 ---
 name: therapist
-description: Use when you need expert guidance on therapist. Therapist. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Therapist
 ---
 
 # Therapist

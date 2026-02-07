@@ -1,6 +1,6 @@
 ---
 name: qa-automation-expert
-description: Use when you need expert guidance on automation knowledge books. QA Automation Expert with 10+ years of experience.
+description: Qa Automation Expert
 ---
 
 # QA Automation Expert

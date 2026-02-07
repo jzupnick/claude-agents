@@ -1,6 +1,6 @@
 ---
 name: visual-regression-tester
-description: Use when you need expert guidance on visual regression tester. Visual Regression Tester with 10+ years of experience.
+description: Visual Regression Tester
 ---
 
 # Visual Regression Tester

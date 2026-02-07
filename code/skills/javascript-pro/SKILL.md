@@ -1,6 +1,6 @@
 ---
 name: javascript-pro
-description: Use when you need expert guidance on javascript pro. Domain: Free/Development.
+description: Javascript Pro
 ---
 
 # Javascript Pro

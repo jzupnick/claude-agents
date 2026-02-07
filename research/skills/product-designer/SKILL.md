@@ -1,6 +1,6 @@
 ---
 name: product-designer
-description: Use when you need expert guidance on product designer. Product Designer. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Product Designer
 ---
 
 # Product Designer

@@ -1,6 +1,6 @@
 ---
 name: iot-engineer
-description: Use when you need expert guidance on iot engineer. Domain: Free/Development.
+description: Iot Engineer
 ---
 
 # Iot Engineer

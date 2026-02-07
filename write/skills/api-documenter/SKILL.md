@@ -1,6 +1,6 @@
 ---
 name: api-documenter
-description: Use when you need expert guidance on api documenter knowledge. API Documenter with 10+ years of experience.
+description: Api Documenter
 ---
 
 # API Documenter

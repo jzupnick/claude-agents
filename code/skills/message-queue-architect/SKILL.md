@@ -1,6 +1,6 @@
 ---
 name: message-queue-architect
-description: Use when you need expert guidance on message queue architect. Message Queue Architect with 10+ years of experience.
+description: Message Queue Architect
 ---
 
 # Message Queue Architect

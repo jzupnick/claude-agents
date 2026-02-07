@@ -1,6 +1,6 @@
 ---
 name: frontend-security-expert
-description: Use when you need expert guidance on frontend security knowledge. Frontend Security Expert with 10+ years of experience.
+description: Frontend Security Expert
 ---
 
 # Frontend Security Expert

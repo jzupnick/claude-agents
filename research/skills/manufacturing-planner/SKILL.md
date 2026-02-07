@@ -1,6 +1,6 @@
 ---
 name: manufacturing-planner
-description: Use when you need expert guidance on manufacturing planner. Manufacturing Planner. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Manufacturing Planner
 ---
 
 # Manufacturing Planner

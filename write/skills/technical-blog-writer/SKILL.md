@@ -1,6 +1,6 @@
 ---
 name: technical-blog-writer
-description: Use when you need expert guidance on technical blog writer. Technical Blog Writer with 10+ years of experience.
+description: Technical Blog Writer
 ---
 
 # Technical Blog Writer

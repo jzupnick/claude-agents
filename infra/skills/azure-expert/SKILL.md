@@ -1,6 +1,6 @@
 ---
 name: azure-expert
-description: Use when you need expert guidance on azure knowledge books. Azure Expert with 10+ years of experience.
+description: Azure Expert
 ---
 
 # Azure Expert

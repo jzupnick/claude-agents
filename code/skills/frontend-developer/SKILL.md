@@ -1,6 +1,6 @@
 ---
 name: frontend-developer
-description: Use when you need expert guidance on frontend developer. Domain: Free/Development.
+description: Frontend Developer
 ---
 
 # Frontend Developer

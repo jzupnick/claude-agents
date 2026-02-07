@@ -1,6 +1,6 @@
 ---
 name: kotlin-specialist
-description: Use when you need expert guidance on kotlin specialist deep. Kotlin Specialist. Provide deep domain expertise with practical, actionable guidance.
+description: Kotlin Specialist
 ---
 
 # Kotlin Specialist

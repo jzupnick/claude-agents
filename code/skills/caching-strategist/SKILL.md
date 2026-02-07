@@ -1,6 +1,6 @@
 ---
 name: frontend-caching-strategist
-description: Use when you need expert guidance on frontend caching strategist. Frontend Caching Strategist with 10+ years of experience.
+description: Frontend Caching Strategist
 ---
 
 # Frontend Caching Strategist

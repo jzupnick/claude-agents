@@ -1,6 +1,6 @@
 ---
 name: agent-designer
-description: Use when you need expert guidance on agent designer knowledge. Agent Designer with 10+ years of experience.
+description: Agent Designer
 ---
 
 # Agent Designer

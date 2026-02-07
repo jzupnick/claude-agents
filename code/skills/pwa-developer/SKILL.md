@@ -1,6 +1,6 @@
 ---
 name: pwa-developer
-description: Use when you need expert guidance on pwa developer knowledge. PWA Developer with 10+ years of experience.
+description: Pwa Developer
 ---
 
 # PWA Developer

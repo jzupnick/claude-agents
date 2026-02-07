@@ -1,6 +1,6 @@
 ---
 name: operations-strategist
-description: Use when you need expert guidance on operations strategist knowledge. Operations Strategist with 10+ years of experience.
+description: Operations Strategist
 ---
 
 # Operations Strategist

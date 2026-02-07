@@ -1,6 +1,6 @@
 ---
 name: image-analyzer
-description: Use when you need expert guidance on image analyzer. Image Analyzer. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Image Analyzer
 ---
 
 # Image Analyzer

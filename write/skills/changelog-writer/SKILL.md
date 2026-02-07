@@ -1,6 +1,6 @@
 ---
 name: changelog-writer
-description: Use when you need expert guidance on changelog writer knowledge. Changelog Writer with 10+ years of experience.
+description: Changelog Writer
 ---
 
 # Changelog Writer

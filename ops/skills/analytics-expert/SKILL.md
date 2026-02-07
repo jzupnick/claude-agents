@@ -1,6 +1,6 @@
 ---
 name: product-analytics-expert
-description: Use when you need expert guidance on product analytics knowledge. Product Analytics Expert with 10+ years of experience.
+description: Product Analytics Expert
 ---
 
 # Product Analytics Expert

@@ -1,6 +1,6 @@
 ---
 name: ai-cost-optimizer
-description: Use when you need expert guidance on cost optimizer knowledge. AI Cost Optimizer with 10+ years of experience.
+description: Ai Cost Optimizer
 ---
 
 # AI Cost Optimizer

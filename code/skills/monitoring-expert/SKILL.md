@@ -1,6 +1,6 @@
 ---
 name: backend-monitoring-expert
-description: Use when you need expert guidance on backend monitoring knowledge. Backend Monitoring Expert with 10+ years of experience.
+description: Backend Monitoring Expert
 ---
 
 # Backend Monitoring Expert

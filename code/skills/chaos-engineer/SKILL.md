@@ -1,6 +1,6 @@
 ---
 name: chaos-engineer
-description: Use when you need expert guidance on chaos engineer. Domain: Free/Development.
+description: Chaos Engineer
 ---
 
 # Chaos Engineer

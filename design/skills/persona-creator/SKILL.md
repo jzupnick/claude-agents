@@ -1,6 +1,6 @@
 ---
 name: persona-creator
-description: Use when you need expert guidance on persona creator knowledge. Persona Creator with 10+ years of experience.
+description: Persona Creator
 ---
 
 # Persona Creator

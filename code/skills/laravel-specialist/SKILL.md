@@ -1,6 +1,6 @@
 ---
 name: laravel-specialist
-description: Use when you need expert guidance on laravel specialist deep. Laravel Specialist. Provide deep domain expertise with practical, actionable guidance.
+description: Laravel Specialist
 ---
 
 # Laravel Specialist

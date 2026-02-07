@@ -1,6 +1,6 @@
 ---
 name: compliance-advisor
-description: Use when you need expert guidance on compliance advisor knowledge. Compliance Advisor with 10+ years of experience.
+description: Compliance Advisor
 ---
 
 # Compliance Advisor

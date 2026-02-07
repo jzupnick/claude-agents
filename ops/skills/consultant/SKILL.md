@@ -1,6 +1,6 @@
 ---
 name: strategy-consultant
-description: Use when you need expert guidance on strategy consultant knowledge. Strategy Consultant with 10+ years of experience.
+description: Strategy Consultant
 ---
 
 # Strategy Consultant

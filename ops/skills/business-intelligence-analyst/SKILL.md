@@ -1,6 +1,6 @@
 ---
 name: business-intelligence-analyst
-description: Use when you need expert guidance on business intelligence analyst. Business Intelligence Analyst with 10+ years of experience.
+description: Business Intelligence Analyst
 ---
 
 # Business Intelligence Analyst

@@ -1,6 +1,6 @@
 ---
 name: websocket-engineer
-description: Use when you need expert guidance on websocket engineer. Domain: Free/Development.
+description: Websocket Engineer
 ---
 
 # Websocket Engineer

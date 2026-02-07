@@ -1,6 +1,6 @@
 ---
 name: frontend-router-designer
-description: Use when you need expert guidance on frontend router designer. Frontend Router Designer with 10+ years of experience.
+description: Frontend Router Designer
 ---
 
 # Frontend Router Designer

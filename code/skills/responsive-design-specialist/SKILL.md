@@ -1,6 +1,6 @@
 ---
 name: responsive-design-specialist
-description: Use when you need expert guidance on responsive design specialist. Responsive Design Specialist with 10+ years of experience.
+description: Responsive Design Specialist
 ---
 
 # Responsive Design Specialist

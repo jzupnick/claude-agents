@@ -1,6 +1,6 @@
 ---
 name: mobile-performance-expert
-description: Use when you need expert guidance on mobile performance knowledge. Mobile Performance Expert with 10+ years of experience.
+description: Mobile Performance Expert
 ---
 
 # Mobile Performance Expert

@@ -1,6 +1,6 @@
 ---
 name: cross-platform-mobile-architect
-description: Use when you need expert guidance on cross platform mobile. Cross-Platform Mobile Architect with 10+ years of experience.
+description: Cross Platform Mobile Architect
 ---
 
 # Cross-Platform Mobile Architect

@@ -1,6 +1,6 @@
 ---
 name: windows-infra-admin
-description: Use when you need expert guidance on windows infra admin. Windows Infra Admin. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Windows Infra Admin
 ---
 
 # Windows Infra Admin

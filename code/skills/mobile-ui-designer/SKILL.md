@@ -1,6 +1,6 @@
 ---
 name: mobile-ui-designer
-description: Use when you need expert guidance on mobile designer knowledge. Mobile UI Designer with 10+ years of experience.
+description: Mobile Ui Designer
 ---
 
 # Mobile UI Designer

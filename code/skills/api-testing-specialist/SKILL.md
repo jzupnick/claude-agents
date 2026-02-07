@@ -1,6 +1,6 @@
 ---
 name: api-testing-specialist
-description: Use when you need expert guidance on api testing specialist. API Testing Specialist with 10+ years of experience.
+description: Api Testing Specialist
 ---
 
 # API Testing Specialist

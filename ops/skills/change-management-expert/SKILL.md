@@ -1,6 +1,6 @@
 ---
 name: change-management-expert
-description: Use when you need expert guidance on change management knowledge. Change Management Expert with 10+ years of experience.
+description: Change Management Expert
 ---
 
 # Change Management Expert

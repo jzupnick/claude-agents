@@ -1,6 +1,6 @@
 ---
 name: fintech-engineer
-description: Use when you need expert guidance on fintech engineer. Domain: Free/Development.
+description: Fintech Engineer
 ---
 
 # Fintech Engineer

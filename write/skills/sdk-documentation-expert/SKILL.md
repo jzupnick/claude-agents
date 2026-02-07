@@ -1,6 +1,6 @@
 ---
 name: sdk-documentation-expert
-description: Use when you need expert guidance on sdk documentation knowledge. SDK Documentation Expert with 10+ years of experience.
+description: Sdk Documentation Expert
 ---
 
 # SDK Documentation Expert

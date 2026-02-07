@@ -1,6 +1,6 @@
 ---
 name: sql-optimization-specialist
-description: Use when you need expert guidance on sql optimization specialist. SQL Optimization Specialist with 10+ years of experience.
+description: Sql Optimization Specialist
 ---
 
 # SQL Optimization Specialist

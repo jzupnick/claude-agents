@@ -1,6 +1,6 @@
 ---
 name: microservices-architect
-description: Use when you need expert guidance on microservices architect design. Domain: Free/Development.
+description: Microservices Architect
 ---
 
 # Microservices Architect

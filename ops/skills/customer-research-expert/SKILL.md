@@ -1,6 +1,6 @@
 ---
 name: customer-research-expert
-description: Use when you need expert guidance on customer research knowledge. Customer Research Expert with 10+ years of experience.
+description: Customer Research Expert
 ---
 
 # Customer Research Expert

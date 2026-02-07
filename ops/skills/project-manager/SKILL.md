@@ -1,6 +1,6 @@
 ---
 name: project-manager
-description: Use when you need expert guidance on experienced project manager. Domain: Free/Business/Analysis.
+description: Project Manager
 ---
 
 # Project Manager

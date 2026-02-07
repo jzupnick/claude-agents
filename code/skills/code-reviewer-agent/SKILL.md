@@ -1,6 +1,6 @@
 ---
 name: code-reviewer-agent
-description: Use when you need expert guidance on reviewer agent. Code Reviewer Agent. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Code Reviewer Agent
 ---
 
 # Code Reviewer Agent

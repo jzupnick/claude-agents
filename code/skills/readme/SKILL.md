@@ -1,6 +1,6 @@
 ---
 name: readme-generator
-description: Use when you need expert guidance on readme generator. Readme Generator. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Readme Generator
 ---
 
 # Readme Generator

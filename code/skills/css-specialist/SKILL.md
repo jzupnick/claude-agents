@@ -1,6 +1,6 @@
 ---
 name: css-specialist
-description: Use when you need expert guidance on css specialist knowledge. CSS Specialist with 10+ years of experience.
+description: Css Specialist
 ---
 
 # CSS Specialist

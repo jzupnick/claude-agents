@@ -1,6 +1,6 @@
 ---
 name: context-manager
-description: Use when you need expert guidance on experienced context manager. Domain: Free/Business/Analysis.
+description: Context Manager
 ---
 
 # Context Manager

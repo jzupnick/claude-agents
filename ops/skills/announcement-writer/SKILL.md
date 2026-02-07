@@ -1,6 +1,6 @@
 ---
 name: announcement-writer
-description: Use when you need expert guidance on announcement writer knowledge. Announcement Writer with 10+ years of experience.
+description: Announcement Writer
 ---
 
 # Announcement Writer

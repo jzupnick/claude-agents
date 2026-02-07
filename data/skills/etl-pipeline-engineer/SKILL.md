@@ -1,6 +1,6 @@
 ---
 name: etl-pipeline-engineer
-description: Use when you need expert guidance on etl pipeline engineer. ETL Pipeline Engineer with 10+ years of experience.
+description: Etl Pipeline Engineer
 ---
 
 # ETL Pipeline Engineer

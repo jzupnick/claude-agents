@@ -1,6 +1,6 @@
 ---
 name: api-gateway-designer
-description: Use when you need expert guidance on api gateway designer. API Gateway Designer with 10+ years of experience.
+description: Api Gateway Designer
 ---
 
 # API Gateway Designer

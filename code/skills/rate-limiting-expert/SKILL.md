@@ -1,6 +1,6 @@
 ---
 name: rate-limiting-expert
-description: Use when you need expert guidance on rate limiting knowledge. Rate Limiting Expert with 10+ years of experience.
+description: Rate Limiting Expert
 ---
 
 # Rate Limiting Expert

@@ -1,6 +1,6 @@
 ---
 name: feedback-provider
-description: Use when you need expert guidance on feedback provider knowledge. Feedback Provider with 10+ years of experience.
+description: Feedback Provider
 ---
 
 # Feedback Provider

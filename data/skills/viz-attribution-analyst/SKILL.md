@@ -1,6 +1,6 @@
 ---
 name: attribution-analyst
-description: Use when you need expert guidance on attribution analyst knowledge. Attribution Analyst with 10+ years of experience.
+description: Attribution Analyst
 ---
 
 # Attribution Analyst

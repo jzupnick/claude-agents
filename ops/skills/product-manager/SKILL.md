@@ -1,6 +1,6 @@
 ---
 name: product-manager
-description: Use when you need expert guidance on experienced product manager. Domain: Free/Business/Analysis.
+description: Product Manager
 ---
 
 # Product Manager

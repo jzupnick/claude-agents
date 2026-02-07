@@ -1,6 +1,6 @@
 ---
 name: cdn-strategist
-description: Use when you need expert guidance on cdn strategist knowledge. CDN Strategist with 10+ years of experience.
+description: Cdn Strategist
 ---
 
 # CDN Strategist

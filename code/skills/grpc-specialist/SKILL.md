@@ -1,6 +1,6 @@
 ---
 name: grpc-specialist
-description: Use when you need expert guidance on grpc specialist knowledge. gRPC Specialist with 10+ years of experience.
+description: Grpc Specialist
 ---
 
 # gRPC Specialist

@@ -1,6 +1,6 @@
 ---
 name: data-analyst
-description: Use when you need expert guidance on data analyst knowledge. Data Analyst with 10+ years of experience.
+description: Data Analyst
 ---
 
 # Data Analyst

@@ -1,6 +1,6 @@
 ---
 name: customer-success-manager
-description: Use when you need expert guidance on experienced customer success. Domain: Free/Business.
+description: Customer Success Manager
 ---
 
 # Customer Success Manager

@@ -1,6 +1,6 @@
 ---
 name: webgl-specialist
-description: Use when you need expert guidance on webgl specialist knowledge. WebGL Specialist with 10+ years of experience.
+description: Webgl Specialist
 ---
 
 # WebGL Specialist

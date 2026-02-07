@@ -1,6 +1,6 @@
 ---
 name: pricing-strategist
-description: Use when you need expert guidance on pricing strategist knowledge. Pricing Strategist with 10+ years of experience.
+description: Pricing Strategist
 ---
 
 # Pricing Strategist

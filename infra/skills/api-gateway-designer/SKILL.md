@@ -1,6 +1,6 @@
 ---
 name: cloud-api-gateway-designer
-description: Use when you need expert guidance on cloud api gateway. Cloud API Gateway Designer with 10+ years of experience.
+description: Cloud Api Gateway Designer
 ---
 
 # Cloud API Gateway Designer

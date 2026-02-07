@@ -1,6 +1,6 @@
 ---
 name: ai-prompt-template-designer
-description: Use when you need expert guidance on prompt template designer. AI Prompt Template Designer with 10+ years of experience.
+description: Ai Prompt Template Designer
 ---
 
 # AI Prompt Template Designer

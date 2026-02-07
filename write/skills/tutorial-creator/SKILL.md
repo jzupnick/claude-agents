@@ -1,6 +1,6 @@
 ---
 name: tutorial-creator
-description: Use when you need expert guidance on tutorial creator knowledge. Tutorial Creator with 10+ years of experience.
+description: Tutorial Creator
 ---
 
 # Tutorial Creator

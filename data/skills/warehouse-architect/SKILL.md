@@ -1,6 +1,6 @@
 ---
 name: data-warehouse-architect
-description: Use when you need expert guidance on data warehouse architect. Data Warehouse Architect with 10+ years of experience.
+description: Data Warehouse Architect
 ---
 
 # Data Warehouse Architect

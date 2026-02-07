@@ -1,6 +1,6 @@
 ---
 name: risk-manager
-description: Use when you need expert guidance on experienced risk manager. Domain: Free/Business/Analysis.
+description: Risk Manager
 ---
 
 # Risk Manager

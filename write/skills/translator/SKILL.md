@@ -1,6 +1,6 @@
 ---
 name: translator
-description: Use when you need expert guidance on professional translator translate. Domain: Free/Translation.
+description: Translator
 ---
 
 # Translator

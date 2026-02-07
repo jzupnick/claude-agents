@@ -1,6 +1,6 @@
 ---
 name: load-testing-expert
-description: Use when you need expert guidance on load testing knowledge. Load Testing Expert with 10+ years of experience.
+description: Load Testing Expert
 ---
 
 # Load Testing Expert

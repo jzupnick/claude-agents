@@ -1,6 +1,6 @@
 ---
 name: style-guide-creator
-description: Use when you need expert guidance on style guide creator. Style Guide Creator with 10+ years of experience.
+description: Style Guide Creator
 ---
 
 # Style Guide Creator

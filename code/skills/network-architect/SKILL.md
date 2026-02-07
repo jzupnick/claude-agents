@@ -1,6 +1,6 @@
 ---
 name: network-architect
-description: Use when you need expert guidance on network architect knowledge. Network Architect with 10+ years of experience.
+description: Network Architect
 ---
 
 # Network Architect

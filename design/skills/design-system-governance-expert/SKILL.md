@@ -1,6 +1,6 @@
 ---
 name: design-system-governance-expert
-description: Use when you need expert guidance on design system governance. Design System Governance Expert with 10+ years of experience.
+description: Design System Governance Expert
 ---
 
 # Design System Governance Expert

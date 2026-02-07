@@ -1,6 +1,6 @@
 ---
 name: product-strategist
-description: Use when you need expert guidance on product strategist knowledge. Product Strategist with 10+ years of experience.
+description: Product Strategist
 ---
 
 # Product Strategist

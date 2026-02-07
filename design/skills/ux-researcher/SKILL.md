@@ -1,6 +1,6 @@
 ---
 name: ux-researcher
-description: Use when you need expert guidance on researcher knowledge books. UX Researcher with 10+ years of experience.
+description: Ux Researcher
 ---
 
 # UX Researcher

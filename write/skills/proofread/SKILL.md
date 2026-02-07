@@ -1,6 +1,6 @@
 ---
 name: proofreader
-description: Use when you need expert guidance on proofreader. Proofreader. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Proofreader
 ---
 
 # Proofreader

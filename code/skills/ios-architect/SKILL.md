@@ -1,6 +1,6 @@
 ---
 name: ios-architect
-description: Use when you need expert guidance on ios architect knowledge. iOS Architect with 10+ years of experience.
+description: Ios Architect
 ---
 
 # iOS Architect

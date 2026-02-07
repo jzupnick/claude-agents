@@ -1,6 +1,6 @@
 ---
 name: solutions-architect
-description: Use when you need expert guidance on architect knowledge books. Solutions Architect with 10+ years of experience.
+description: Solutions Architect
 ---
 
 # Solutions Architect

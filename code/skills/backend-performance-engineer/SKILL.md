@@ -1,6 +1,6 @@
 ---
 name: backend-performance-engineer
-description: Use when you need expert guidance on backend performance engineer. Backend Performance Engineer with 10+ years of experience.
+description: Backend Performance Engineer
 ---
 
 # Backend Performance Engineer

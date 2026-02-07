@@ -1,6 +1,6 @@
 ---
 name: blockchain-developer
-description: Use when you need expert guidance on blockchain developer. Domain: Free/Development.
+description: Blockchain Developer
 ---
 
 # Blockchain Developer

@@ -1,6 +1,6 @@
 ---
 name: data-pipeline-architect
-description: Use when you need expert guidance on data pipeline architect. Data Pipeline Architect with 10+ years of experience.
+description: Data Pipeline Architect
 ---
 
 # Data Pipeline Architect

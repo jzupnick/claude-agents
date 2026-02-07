@@ -1,6 +1,6 @@
 ---
 name: statistical-analyst
-description: Use when you need expert guidance on statistical analyst knowledge. Statistical Analyst with 10+ years of experience.
+description: Statistical Analyst
 ---
 
 # Statistical Analyst

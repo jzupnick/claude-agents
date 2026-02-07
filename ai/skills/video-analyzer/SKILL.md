@@ -1,6 +1,6 @@
 ---
 name: video-analyzer
-description: Use when you need expert guidance on video analyzer. Video Analyzer. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Video Analyzer
 ---
 
 # Video Analyzer

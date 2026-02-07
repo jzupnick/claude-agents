@@ -1,6 +1,6 @@
 ---
 name: feature-prioritization-expert
-description: Use when you need expert guidance on feature prioritization knowledge. Feature Prioritization Expert with 10+ years of experience.
+description: Feature Prioritization Expert
 ---
 
 # Feature Prioritization Expert

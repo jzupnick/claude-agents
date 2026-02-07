@@ -1,6 +1,6 @@
 ---
 name: terraform-engineer
-description: Use when you need expert guidance on terraform engineer. Domain: Free/Development.
+description: Terraform Engineer
 ---
 
 # Terraform Engineer

@@ -1,6 +1,6 @@
 ---
 name: ai-testing-specialist
-description: Use when you need expert guidance on testing specialist knowledge. AI Testing Specialist with 10+ years of experience.
+description: Ai Testing Specialist
 ---
 
 # AI Testing Specialist

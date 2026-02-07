@@ -1,6 +1,6 @@
 ---
 name: business-case-writer
-description: Use when you need expert guidance on business case writer. Business Case Writer with 10+ years of experience.
+description: Business Case Writer
 ---
 
 # Business Case Writer

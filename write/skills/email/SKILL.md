@@ -1,6 +1,6 @@
 ---
 name: email-composer
-description: Use when you need expert guidance on email composer. Email Composer. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Email Composer
 ---
 
 # Email Composer

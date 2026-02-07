@@ -1,6 +1,6 @@
 ---
 name: fine-tuning-expert
-description: Use when you need expert guidance on fine tuning knowledge. Fine-tuning Expert with 10+ years of experience.
+description: Fine Tuning Expert
 ---
 
 # Fine-tuning Expert

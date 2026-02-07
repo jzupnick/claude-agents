@@ -1,6 +1,6 @@
 ---
 name: php-pro
-description: Use when you need expert guidance on php pro. Domain: Free/Development.
+description: Php Pro
 ---
 
 # Php Pro

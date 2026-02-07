@@ -1,6 +1,6 @@
 ---
 name: database-optimizer
-description: Use when you need expert guidance on database optimizer. Database Optimizer. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Database Optimizer
 ---
 
 # Database Optimizer

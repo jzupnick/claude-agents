@@ -1,6 +1,6 @@
 ---
 name: visual-designer
-description: Use when you need expert guidance on visual designer knowledge. Visual Designer with 10+ years of experience.
+description: Visual Designer
 ---
 
 # Visual Designer

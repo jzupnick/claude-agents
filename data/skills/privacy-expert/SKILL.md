@@ -1,6 +1,6 @@
 ---
 name: data-privacy-expert
-description: Use when you need expert guidance on data privacy knowledge. Data Privacy Expert with 10+ years of experience.
+description: Data Privacy Expert
 ---
 
 # Data Privacy Expert

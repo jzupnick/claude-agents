@@ -1,6 +1,6 @@
 ---
 name: rag-system-architect
-description: Use when you need expert guidance on rag system architect. RAG System Architect with 10+ years of experience.
+description: Rag System Architect
 ---
 
 # RAG System Architect

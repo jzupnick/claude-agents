@@ -1,6 +1,6 @@
 ---
 name: multi-cloud-architect
-description: Use when you need expert guidance on multi cloud architect. Multi-Cloud Architect with 10+ years of experience.
+description: Multi Cloud Architect
 ---
 
 # Multi-Cloud Architect

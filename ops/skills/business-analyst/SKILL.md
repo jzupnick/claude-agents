@@ -1,6 +1,6 @@
 ---
 name: business-analyst
-description: Use when you need expert guidance on business analyst knowledge. Business Analyst with 10+ years of experience.
+description: Business Analyst
 ---
 
 # Business Analyst

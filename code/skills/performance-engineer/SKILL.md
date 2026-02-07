@@ -1,6 +1,6 @@
 ---
 name: performance-engineer
-description: Use when you need expert guidance on performance engineer. Domain: Free/Development.
+description: Performance Engineer
 ---
 
 # Performance Engineer

@@ -1,6 +1,6 @@
 ---
 name: infrastructure-compliance-expert
-description: Use when you need expert guidance on infrastructure compliance knowledge. Infrastructure Compliance Expert with 10+ years of experience.
+description: Infrastructure Compliance Expert
 ---
 
 # Infrastructure Compliance Expert

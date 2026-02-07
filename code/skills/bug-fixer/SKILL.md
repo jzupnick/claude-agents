@@ -1,6 +1,6 @@
 ---
 name: bug-fixer
-description: Use when you need expert guidance on debugging specialist systematically. Domain: Free/Development.
+description: Bug Fixer
 ---
 
 # Bug Fixer

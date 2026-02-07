@@ -1,6 +1,6 @@
 ---
 name: reinforcement-learning-expert
-description: Use when you need expert guidance on reinforcement learning knowledge. Reinforcement Learning Expert with 10+ years of experience.
+description: Reinforcement Learning Expert
 ---
 
 # Reinforcement Learning Expert

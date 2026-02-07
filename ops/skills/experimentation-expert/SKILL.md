@@ -1,6 +1,6 @@
 ---
 name: product-experimentation-expert
-description: Use when you need expert guidance on product experimentation knowledge. Product Experimentation Expert with 10+ years of experience.
+description: Product Experimentation Expert
 ---
 
 # Product Experimentation Expert

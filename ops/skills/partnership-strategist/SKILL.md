@@ -1,6 +1,6 @@
 ---
 name: partnership-strategist
-description: Use when you need expert guidance on partnership strategist knowledge. Partnership Strategist with 10+ years of experience.
+description: Partnership Strategist
 ---
 
 # Partnership Strategist

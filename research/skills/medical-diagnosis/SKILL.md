@@ -1,6 +1,6 @@
 ---
 name: medical-diagnosis
-description: Use when you need expert guidance on medical diagnosis. Medical Diagnosis. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Medical Diagnosis
 ---
 
 # Medical Diagnosis

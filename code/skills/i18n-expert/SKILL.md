@@ -1,6 +1,6 @@
 ---
 name: frontend-i18n-expert
-description: Use when you need expert guidance on frontend knowledge books. Frontend i18n Expert with 10+ years of experience.
+description: Frontend I18N Expert
 ---
 
 # Frontend i18n Expert

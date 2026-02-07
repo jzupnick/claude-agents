@@ -1,6 +1,6 @@
 ---
 name: retention-analyst
-description: Use when you need expert guidance on retention analyst knowledge. Retention Analyst with 10+ years of experience.
+description: Retention Analyst
 ---
 
 # Retention Analyst

@@ -1,6 +1,6 @@
 ---
 name: animation-expert
-description: Use when you need expert guidance on animation knowledge books. Animation Expert with 10+ years of experience.
+description: Animation Expert
 ---
 
 # Animation Expert

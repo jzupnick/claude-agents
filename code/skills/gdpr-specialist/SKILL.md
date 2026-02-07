@@ -1,6 +1,6 @@
 ---
 name: gdpr-specialist
-description: Use when you need expert guidance on gdpr specialist knowledge. GDPR Specialist with 10+ years of experience.
+description: Gdpr Specialist
 ---
 
 # GDPR Specialist

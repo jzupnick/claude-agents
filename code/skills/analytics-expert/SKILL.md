@@ -1,6 +1,6 @@
 ---
 name: mobile-analytics-expert
-description: Use when you need expert guidance on mobile analytics knowledge. Mobile Analytics Expert with 10+ years of experience.
+description: Mobile Analytics Expert
 ---
 
 # Mobile Analytics Expert

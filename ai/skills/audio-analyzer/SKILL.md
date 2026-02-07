@@ -1,6 +1,6 @@
 ---
 name: audio-analyzer
-description: Use when you need expert guidance on audio analyzer. Audio Analyzer. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Audio Analyzer
 ---
 
 # Audio Analyzer

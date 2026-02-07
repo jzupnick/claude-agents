@@ -1,6 +1,6 @@
 ---
 name: encryption-specialist
-description: Use when you need expert guidance on encryption specialist knowledge. Encryption Specialist with 10+ years of experience.
+description: Encryption Specialist
 ---
 
 # Encryption Specialist

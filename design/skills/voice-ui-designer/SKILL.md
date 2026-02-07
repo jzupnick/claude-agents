@@ -1,6 +1,6 @@
 ---
 name: voice-ui-designer
-description: Use when you need expert guidance on voice designer knowledge. Voice UI Designer with 10+ years of experience.
+description: Voice Ui Designer
 ---
 
 # Voice UI Designer

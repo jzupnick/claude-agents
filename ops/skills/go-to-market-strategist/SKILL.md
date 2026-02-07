@@ -1,6 +1,6 @@
 ---
 name: go-to-market-strategist
-description: Use when you need expert guidance on market strategist knowledge. Go-to-Market Strategist with 10+ years of experience.
+description: Go To Market Strategist
 ---
 
 # Go-to-Market Strategist

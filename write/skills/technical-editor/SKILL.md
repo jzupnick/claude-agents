@@ -1,6 +1,6 @@
 ---
 name: technical-editor
-description: Use when you need expert guidance on technical editor knowledge. Technical Editor with 10+ years of experience.
+description: Technical Editor
 ---
 
 # Technical Editor

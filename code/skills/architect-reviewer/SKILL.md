@@ -1,6 +1,6 @@
 ---
 name: architect-reviewer
-description: Use when you need expert guidance on architect reviewer design. Domain: Free/Development.
+description: Architect Reviewer
 ---
 
 # Architect Reviewer

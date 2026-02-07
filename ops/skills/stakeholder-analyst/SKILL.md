@@ -1,6 +1,6 @@
 ---
 name: stakeholder-analyst
-description: Use when you need expert guidance on stakeholder analyst knowledge. Stakeholder Analyst with 10+ years of experience.
+description: Stakeholder Analyst
 ---
 
 # Stakeholder Analyst

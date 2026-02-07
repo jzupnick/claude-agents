@@ -1,6 +1,6 @@
 ---
 name: strategic-planning-expert
-description: Use when you need expert guidance on strategic planning knowledge. Strategic Planning Expert with 10+ years of experience.
+description: Strategic Planning Expert
 ---
 
 # Strategic Planning Expert

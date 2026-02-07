@@ -1,6 +1,6 @@
 ---
 name: security-tester
-description: Use when you need expert guidance on security tester knowledge. Security Tester with 10+ years of experience.
+description: Security Tester
 ---
 
 # Security Tester

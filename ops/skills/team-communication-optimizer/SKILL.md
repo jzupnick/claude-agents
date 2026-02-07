@@ -1,6 +1,6 @@
 ---
 name: team-communication-optimizer
-description: Use when you need expert guidance on team communication optimizer. Team Communication Optimizer with 10+ years of experience.
+description: Team Communication Optimizer
 ---
 
 # Team Communication Optimizer

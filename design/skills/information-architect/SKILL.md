@@ -1,6 +1,6 @@
 ---
 name: information-architect
-description: Use when you need expert guidance on information architect knowledge. Information Architect with 10+ years of experience.
+description: Information Architect
 ---
 
 # Information Architect

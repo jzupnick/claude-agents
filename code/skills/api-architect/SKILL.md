@@ -1,6 +1,6 @@
 ---
 name: api-architect
-description: Use when you need expert guidance on api architect knowledge. API Architect with 10+ years of experience.
+description: Api Architect
 ---
 
 # API Architect

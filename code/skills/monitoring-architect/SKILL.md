@@ -1,6 +1,6 @@
 ---
 name: monitoring-architect
-description: Use when you need expert guidance on monitoring architect knowledge. Monitoring Architect with 10+ years of experience.
+description: Monitoring Architect
 ---
 
 # Monitoring Architect

@@ -1,6 +1,6 @@
 ---
 name: ml-engineer
-description: Use when you need expert guidance on engineer knowledge books. ML Engineer with 10+ years of experience.
+description: Ml Engineer
 ---
 
 # ML Engineer

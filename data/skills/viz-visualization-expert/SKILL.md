@@ -1,6 +1,6 @@
 ---
 name: visualization-expert
-description: Use when you need expert guidance on visualization knowledge books. Visualization Expert with 10+ years of experience.
+description: Visualization Expert
 ---
 
 # Visualization Expert

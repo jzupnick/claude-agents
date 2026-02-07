@@ -1,6 +1,6 @@
 ---
 name: software-developer
-description: Use when you need expert guidance on software developer well. Domain: Free/Development.
+description: Software Developer
 ---
 
 # Software Developer

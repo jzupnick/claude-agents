@@ -1,6 +1,6 @@
 ---
 name: zero-trust-architect
-description: Use when you need expert guidance on zero trust architect. Zero Trust Architect with 10+ years of experience.
+description: Zero Trust Architect
 ---
 
 # Zero Trust Architect

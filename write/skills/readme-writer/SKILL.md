@@ -1,6 +1,6 @@
 ---
 name: readme-writer
-description: Use when you need expert guidance on readme writer knowledge. README Writer with 10+ years of experience.
+description: Readme Writer
 ---
 
 # README Writer

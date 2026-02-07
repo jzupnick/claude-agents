@@ -1,6 +1,6 @@
 ---
 name: roadmap-planner
-description: Use when you need expert guidance on roadmap planner knowledge. Roadmap Planner with 10+ years of experience.
+description: Roadmap Planner
 ---
 
 # Roadmap Planner

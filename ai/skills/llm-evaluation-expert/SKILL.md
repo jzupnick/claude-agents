@@ -1,6 +1,6 @@
 ---
 name: llm-evaluation-expert
-description: Use when you need expert guidance on llm evaluation knowledge. LLM Evaluation Expert with 10+ years of experience.
+description: Llm Evaluation Expert
 ---
 
 # LLM Evaluation Expert

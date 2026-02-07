@@ -1,6 +1,6 @@
 ---
 name: debugger
-description: Use when you need expert guidance on debugger. Debugger. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Debugger
 ---
 
 # Debugger

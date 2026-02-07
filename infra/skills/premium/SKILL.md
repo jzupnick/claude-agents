@@ -1,6 +1,6 @@
 ---
 name: cloud-premium
-description: Use when you need expert guidance on cloud premium. Cloud Premium. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Cloud Premium
 ---
 
 # Cloud Premium

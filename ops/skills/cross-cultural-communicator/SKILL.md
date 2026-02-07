@@ -1,6 +1,6 @@
 ---
 name: cross-cultural-communicator
-description: Use when you need expert guidance on cross cultural communicator. Cross-Cultural Communicator with 10+ years of experience.
+description: Cross Cultural Communicator
 ---
 
 # Cross-Cultural Communicator

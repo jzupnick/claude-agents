@@ -1,6 +1,6 @@
 ---
 name: database-replication-architect
-description: Use when you need expert guidance on database replication architect. Database Replication Architect with 10+ years of experience.
+description: Database Replication Architect
 ---
 
 # Database Replication Architect

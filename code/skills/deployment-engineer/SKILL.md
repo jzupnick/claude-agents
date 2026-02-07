@@ -1,6 +1,6 @@
 ---
 name: deployment-engineer
-description: Use when you need expert guidance on deployment engineer. Domain: Free/Development.
+description: Deployment Engineer
 ---
 
 # Deployment Engineer

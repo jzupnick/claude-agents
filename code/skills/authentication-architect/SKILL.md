@@ -1,6 +1,6 @@
 ---
 name: authentication-architect
-description: Use when you need expert guidance on authentication architect knowledge. Authentication Architect with 10+ years of experience.
+description: Authentication Architect
 ---
 
 # Authentication Architect

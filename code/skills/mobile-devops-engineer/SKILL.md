@@ -1,6 +1,6 @@
 ---
 name: mobile-devops-engineer
-description: Use when you need expert guidance on mobile devops engineer. Mobile DevOps Engineer with 10+ years of experience.
+description: Mobile Devops Engineer
 ---
 
 # Mobile DevOps Engineer

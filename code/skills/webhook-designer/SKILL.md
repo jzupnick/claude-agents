@@ -1,6 +1,6 @@
 ---
 name: webhook-designer
-description: Use when you need expert guidance on webhook designer knowledge. Webhook Designer with 10+ years of experience.
+description: Webhook Designer
 ---
 
 # Webhook Designer

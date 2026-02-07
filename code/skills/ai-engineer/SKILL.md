@@ -1,6 +1,6 @@
 ---
 name: ai-engineer
-description: Use when you need expert guidance on engineer. Domain: Free/Development.
+description: Ai Engineer
 ---
 
 # Ai Engineer

@@ -1,6 +1,6 @@
 ---
 name: android-expert
-description: Use when you need expert guidance on android knowledge books. Android Expert with 10+ years of experience.
+description: Android Expert
 ---
 
 # Android Expert

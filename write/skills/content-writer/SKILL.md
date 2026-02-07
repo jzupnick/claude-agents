@@ -1,6 +1,6 @@
 ---
 name: content-writer
-description: Use when you need expert guidance on skilled content writer. Domain: Free/Writing.
+description: Content Writer
 ---
 
 # Content Writer

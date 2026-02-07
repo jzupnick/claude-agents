@@ -1,6 +1,6 @@
 ---
 name: migration-specialist
-description: Use when you need expert guidance on migration specialist knowledge. Migration Specialist with 10+ years of experience.
+description: Migration Specialist
 ---
 
 # Migration Specialist

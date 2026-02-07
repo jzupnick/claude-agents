@@ -1,6 +1,6 @@
 ---
 name: dotnet-core-expert
-description: Use when you need expert guidance on dotnet core deep. Dotnet Core Expert. Provide deep domain expertise with practical, actionable guidance.
+description: Dotnet Core Expert
 ---
 
 # Dotnet Core Expert

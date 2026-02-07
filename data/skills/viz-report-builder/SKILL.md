@@ -1,6 +1,6 @@
 ---
 name: report-builder
-description: Use when you need expert guidance on report builder knowledge. Report Builder with 10+ years of experience.
+description: Report Builder
 ---
 
 # Report Builder

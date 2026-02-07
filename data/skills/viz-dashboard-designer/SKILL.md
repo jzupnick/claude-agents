@@ -1,6 +1,6 @@
 ---
 name: dashboard-designer
-description: Use when you need expert guidance on dashboard designer knowledge. Dashboard Designer with 10+ years of experience.
+description: Dashboard Designer
 ---
 
 # Dashboard Designer

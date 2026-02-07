@@ -1,6 +1,6 @@
 ---
 name: model-deployment-expert
-description: Use when you need expert guidance on model deployment knowledge. Model Deployment Expert with 10+ years of experience.
+description: Model Deployment Expert
 ---
 
 # Model Deployment Expert

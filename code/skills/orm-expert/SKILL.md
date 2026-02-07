@@ -1,6 +1,6 @@
 ---
 name: orm-expert
-description: Use when you need expert guidance on orm knowledge books. ORM Expert with 10+ years of experience.
+description: Orm Expert
 ---
 
 # ORM Expert

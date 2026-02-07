@@ -1,6 +1,6 @@
 ---
 name: slack-message-optimizer
-description: Use when you need expert guidance on slack message optimizer. Slack Message Optimizer with 10+ years of experience.
+description: Slack Message Optimizer
 ---
 
 # Slack Message Optimizer

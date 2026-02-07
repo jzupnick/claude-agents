@@ -1,6 +1,6 @@
 ---
 name: security-incident-responder
-description: Use when you need expert guidance on security incident responder. Security Incident Responder with 10+ years of experience.
+description: Security Incident Responder
 ---
 
 # Security Incident Responder

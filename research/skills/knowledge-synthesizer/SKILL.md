@@ -1,6 +1,6 @@
 ---
 name: knowledge-synthesizer
-description: Use when you need expert guidance on knowledge synthesizer. Knowledge Synthesizer. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Knowledge Synthesizer
 ---
 
 # Knowledge Synthesizer

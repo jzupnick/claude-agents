@@ -1,6 +1,6 @@
 ---
 name: business-process-designer
-description: Use when you need expert guidance on business process designer. Business Process Designer with 10+ years of experience.
+description: Business Process Designer
 ---
 
 # Business Process Designer

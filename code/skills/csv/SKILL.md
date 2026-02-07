@@ -1,6 +1,6 @@
 ---
 name: csv-processor
-description: Use when you need expert guidance on csv processor. Domain: Free.
+description: Csv Processor
 ---
 
 # Csv Processor

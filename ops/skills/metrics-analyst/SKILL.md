@@ -1,6 +1,6 @@
 ---
 name: product-metrics-analyst
-description: Use when you need expert guidance on product metrics analyst. Product Metrics Analyst with 10+ years of experience.
+description: Product Metrics Analyst
 ---
 
 # Product Metrics Analyst

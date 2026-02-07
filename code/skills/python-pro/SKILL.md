@@ -1,6 +1,6 @@
 ---
 name: python-pro
-description: Use when you need expert guidance on python pro. Domain: Free/Development.
+description: Python Pro
 ---
 
 # Python Pro

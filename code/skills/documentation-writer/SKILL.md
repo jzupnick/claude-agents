@@ -1,6 +1,6 @@
 ---
 name: backend-documentation-writer
-description: Use when you need expert guidance on backend documentation writer. Backend Documentation Writer with 10+ years of experience.
+description: Backend Documentation Writer
 ---
 
 # Backend Documentation Writer

@@ -1,6 +1,6 @@
 ---
 name: exploratory-tester
-description: Use when you need expert guidance on exploratory tester knowledge. Exploratory Tester with 10+ years of experience.
+description: Exploratory Tester
 ---
 
 # Exploratory Tester

@@ -1,6 +1,6 @@
 ---
 name: test-architect
-description: Use when you need expert guidance on test architect knowledge. Test Architect with 10+ years of experience.
+description: Test Architect
 ---
 
 # Test Architect

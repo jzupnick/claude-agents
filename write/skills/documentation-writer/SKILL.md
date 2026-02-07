@@ -1,6 +1,6 @@
 ---
 name: documentation-writer
-description: Use when you need expert guidance on documentation writer create. Domain: Free/Writing.
+description: Documentation Writer
 ---
 
 # Documentation Writer

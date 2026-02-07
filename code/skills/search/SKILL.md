@@ -1,6 +1,6 @@
 ---
 name: search-specialist
-description: Use when you need expert guidance on search specialist deep. Search Specialist. Provide deep domain expertise with practical, actionable guidance.
+description: Search Specialist
 ---
 
 # Search Specialist

@@ -1,6 +1,6 @@
 ---
 name: secrets-management-expert
-description: Use when you need expert guidance on secrets management knowledge. Secrets Management Expert with 10+ years of experience.
+description: Secrets Management Expert
 ---
 
 # Secrets Management Expert

@@ -1,6 +1,6 @@
 ---
 name: powershell-module-architect
-description: Use when you need expert guidance on powershell module architect. Domain: Free/Development.
+description: Powershell Module Architect
 ---
 
 # Powershell Module Architect

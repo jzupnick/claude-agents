@@ -1,6 +1,6 @@
 ---
 name: cloud-security-expert
-description: Use when you need expert guidance on cloud security knowledge. Cloud Security Expert with 10+ years of experience.
+description: Cloud Security Expert
 ---
 
 # Cloud Security Expert

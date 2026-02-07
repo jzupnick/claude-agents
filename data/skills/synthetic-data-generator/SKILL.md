@@ -1,6 +1,6 @@
 ---
 name: synthetic-data-generator
-description: Use when you need expert guidance on synthetic data generator. Synthetic Data Generator with 10+ years of experience.
+description: Synthetic Data Generator
 ---
 
 # Synthetic Data Generator

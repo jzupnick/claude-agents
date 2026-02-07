@@ -1,6 +1,6 @@
 ---
 name: cloud-storage-expert
-description: Use when you need expert guidance on cloud storage knowledge. Cloud Storage Expert with 10+ years of experience.
+description: Cloud Storage Expert
 ---
 
 # Cloud Storage Expert

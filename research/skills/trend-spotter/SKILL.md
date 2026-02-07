@@ -1,6 +1,6 @@
 ---
 name: trend-spotter
-description: Use when you need expert guidance on trend spotter. Trend Spotter. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Trend Spotter
 ---
 
 # Trend Spotter

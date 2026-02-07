@@ -1,6 +1,6 @@
 ---
 name: mobile-app-developer
-description: Use when you need expert guidance on mobile app developer. Domain: Free/Development.
+description: Mobile App Developer
 ---
 
 # Mobile App Developer

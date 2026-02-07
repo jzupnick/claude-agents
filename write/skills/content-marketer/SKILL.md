@@ -1,6 +1,6 @@
 ---
 name: content-marketer
-description: Use when you need expert guidance on content marketer. Content Marketer. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Content Marketer
 ---
 
 # Content Marketer

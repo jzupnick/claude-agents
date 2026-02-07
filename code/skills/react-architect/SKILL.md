@@ -1,6 +1,6 @@
 ---
 name: react-architect
-description: Use when you need expert guidance on react architect knowledge. React Architect with 10+ years of experience.
+description: React Architect
 ---
 
 # React Architect

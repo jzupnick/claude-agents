@@ -1,6 +1,6 @@
 ---
 name: kpi-designer
-description: Use when you need expert guidance on kpi designer knowledge. KPI Designer with 10+ years of experience.
+description: Kpi Designer
 ---
 
 # KPI Designer

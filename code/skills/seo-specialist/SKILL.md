@@ -1,6 +1,6 @@
 ---
 name: seo-specialist
-description: Use when you need expert guidance on seo specialist knowledge. SEO Specialist with 10+ years of experience.
+description: Seo Specialist
 ---
 
 # SEO Specialist

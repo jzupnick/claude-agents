@@ -1,6 +1,6 @@
 ---
 name: conflict-resolver
-description: Use when you need expert guidance on conflict resolver knowledge. Conflict Resolver with 10+ years of experience.
+description: Conflict Resolver
 ---
 
 # Conflict Resolver

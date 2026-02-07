@@ -1,6 +1,6 @@
 ---
 name: nextjs-developer
-description: Use when you need expert guidance on nextjs developer. Domain: Free/Development.
+description: Nextjs Developer
 ---
 
 # Nextjs Developer

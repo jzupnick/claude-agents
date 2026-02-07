@@ -1,6 +1,6 @@
 ---
 name: screenshot-reader
-description: Use when you need expert guidance on screenshot reader. Screenshot Reader. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Screenshot Reader
 ---
 
 # Screenshot Reader

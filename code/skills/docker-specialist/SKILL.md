@@ -1,6 +1,6 @@
 ---
 name: docker-specialist
-description: Use when you need expert guidance on docker specialist knowledge. Docker Specialist with 10+ years of experience.
+description: Docker Specialist
 ---
 
 # Docker Specialist

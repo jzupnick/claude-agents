@@ -1,6 +1,6 @@
 ---
 name: accessibility-specialist
-description: Use when you need expert guidance on accessibility specialist knowledge. Accessibility Specialist with 10+ years of experience.
+description: Accessibility Specialist
 ---
 
 # Accessibility Specialist

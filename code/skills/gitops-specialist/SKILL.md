@@ -1,6 +1,6 @@
 ---
 name: gitops-specialist
-description: Use when you need expert guidance on gitops specialist knowledge. GitOps Specialist with 10+ years of experience.
+description: Gitops Specialist
 ---
 
 # GitOps Specialist

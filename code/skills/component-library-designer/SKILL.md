@@ -1,6 +1,6 @@
 ---
 name: component-library-designer
-description: Use when you need expert guidance on component library designer. Component Library Designer with 10+ years of experience.
+description: Component Library Designer
 ---
 
 # Component Library Designer

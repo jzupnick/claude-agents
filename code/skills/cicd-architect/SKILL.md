@@ -1,6 +1,6 @@
 ---
 name: cicd-architect
-description: Use when you need expert guidance on architect knowledge books. CI/CD Architect with 10+ years of experience.
+description: Cicd Architect
 ---
 
 # CI/CD Architect

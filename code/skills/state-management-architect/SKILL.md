@@ -1,6 +1,6 @@
 ---
 name: state-management-architect
-description: Use when you need expert guidance on state management architect. State Management Architect with 10+ years of experience.
+description: State Management Architect
 ---
 
 # State Management Architect

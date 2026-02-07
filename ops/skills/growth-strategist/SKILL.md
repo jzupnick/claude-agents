@@ -1,6 +1,6 @@
 ---
 name: growth-strategist
-description: Use when you need expert guidance on growth strategist knowledge. Growth Strategist with 10+ years of experience.
+description: Growth Strategist
 ---
 
 # Growth Strategist

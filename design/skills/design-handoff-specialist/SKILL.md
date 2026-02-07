@@ -1,6 +1,6 @@
 ---
 name: design-handoff-specialist
-description: Use when you need expert guidance on design handoff specialist. Design Handoff Specialist with 10+ years of experience.
+description: Design Handoff Specialist
 ---
 
 # Design Handoff Specialist

@@ -1,6 +1,6 @@
 ---
 name: llm-optimizer
-description: Use when you need expert guidance on llm optimizer knowledge. LLM Optimizer with 10+ years of experience.
+description: Llm Optimizer
 ---
 
 # LLM Optimizer

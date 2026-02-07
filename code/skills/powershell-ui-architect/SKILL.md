@@ -1,6 +1,6 @@
 ---
 name: powershell-ui-architect
-description: Use when you need expert guidance on powershell architect design. Domain: Free/Development.
+description: Powershell Ui Architect
 ---
 
 # Powershell Ui Architect

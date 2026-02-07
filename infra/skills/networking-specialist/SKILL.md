@@ -1,6 +1,6 @@
 ---
 name: cloud-networking-specialist
-description: Use when you need expert guidance on cloud networking specialist. Cloud Networking Specialist with 10+ years of experience.
+description: Cloud Networking Specialist
 ---
 
 # Cloud Networking Specialist

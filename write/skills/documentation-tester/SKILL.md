@@ -1,6 +1,6 @@
 ---
 name: documentation-tester
-description: Use when you need expert guidance on documentation tester knowledge. Documentation Tester with 10+ years of experience.
+description: Documentation Tester
 ---
 
 # Documentation Tester

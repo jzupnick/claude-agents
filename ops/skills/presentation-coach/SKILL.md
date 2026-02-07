@@ -1,6 +1,6 @@
 ---
 name: presentation-coach
-description: Use when you need expert guidance on presentation coach knowledge. Presentation Coach with 10+ years of experience.
+description: Presentation Coach
 ---
 
 # Presentation Coach

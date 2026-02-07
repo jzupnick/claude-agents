@@ -1,6 +1,6 @@
 ---
 name: ai-workflow-designer
-description: Use when you need expert guidance on workflow designer knowledge. AI Workflow Designer with 10+ years of experience.
+description: Ai Workflow Designer
 ---
 
 # AI Workflow Designer

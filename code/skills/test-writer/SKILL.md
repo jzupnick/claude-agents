@@ -1,6 +1,6 @@
 ---
 name: test-writer
-description: Use when you need expert guidance on test engineering comprehensive. Domain: Free/Development/Writing.
+description: Test Writer
 ---
 
 # Test Writer

@@ -1,6 +1,6 @@
 ---
 name: stakeholder-communicator
-description: Use when you need expert guidance on stakeholder communicator knowledge. Stakeholder Communicator with 10+ years of experience.
+description: Stakeholder Communicator
 ---
 
 # Stakeholder Communicator

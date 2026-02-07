@@ -1,6 +1,6 @@
 ---
 name: devops-engineer
-description: Use when you need expert guidance on devops engineer. Domain: Free/Development.
+description: Devops Engineer
 ---
 
 # Devops Engineer

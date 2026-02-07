@@ -1,6 +1,6 @@
 ---
 name: data-formatter
-description: Use when you need expert guidance on data formatter. Data Formatter. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Data Formatter
 ---
 
 # Data Formatter

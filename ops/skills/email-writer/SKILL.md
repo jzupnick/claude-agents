@@ -1,6 +1,6 @@
 ---
 name: email-writer
-description: Use when you need expert guidance on email writer knowledge. Email Writer with 10+ years of experience.
+description: Email Writer
 ---
 
 # Email Writer

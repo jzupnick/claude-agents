@@ -1,6 +1,6 @@
 ---
 name: quick-answer
-description: Use when you need expert guidance on quick concise answers. Domain: Free.
+description: Quick Answer
 ---
 
 # Quick Answer

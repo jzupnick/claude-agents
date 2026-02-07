@@ -1,6 +1,6 @@
 ---
 name: time-series-analyst
-description: Use when you need expert guidance on time series analyst. Time Series Analyst with 10+ years of experience.
+description: Time Series Analyst
 ---
 
 # Time Series Analyst

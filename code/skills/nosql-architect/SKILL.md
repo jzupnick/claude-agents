@@ -1,6 +1,6 @@
 ---
 name: nosql-architect
-description: Use when you need expert guidance on nosql architect knowledge. NoSQL Architect with 10+ years of experience.
+description: Nosql Architect
 ---
 
 # NoSQL Architect

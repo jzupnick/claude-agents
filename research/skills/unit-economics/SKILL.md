@@ -1,6 +1,6 @@
 ---
 name: unit-economics
-description: Use when you need expert guidance on unit economics. Unit Economics. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Unit Economics
 ---
 
 # Unit Economics

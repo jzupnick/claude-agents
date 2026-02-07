@@ -1,6 +1,6 @@
 ---
 name: deep-learning-expert
-description: Use when you need expert guidance on deep learning knowledge. Deep Learning Expert with 10+ years of experience.
+description: Deep Learning Expert
 ---
 
 # Deep Learning Expert

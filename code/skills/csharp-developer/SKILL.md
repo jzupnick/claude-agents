@@ -1,6 +1,6 @@
 ---
 name: csharp-developer
-description: Use when you need expert guidance on csharp developer. Domain: Free/Development.
+description: Csharp Developer
 ---
 
 # Csharp Developer

@@ -1,6 +1,6 @@
 ---
 name: design-system-architect
-description: Use when you need expert guidance on design system architect. Design System Architect with 10+ years of experience.
+description: Design System Architect
 ---
 
 # Design System Architect

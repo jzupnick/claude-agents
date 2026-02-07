@@ -1,6 +1,6 @@
 ---
 name: react-specialist
-description: Use when you need expert guidance on react specialist deep. React Specialist. Provide deep domain expertise with practical, actionable guidance.
+description: React Specialist
 ---
 
 # React Specialist

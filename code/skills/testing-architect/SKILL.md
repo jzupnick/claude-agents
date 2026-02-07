@@ -1,6 +1,6 @@
 ---
 name: security-testing-architect
-description: Use when you need expert guidance on security testing architect. Security Testing Architect with 10+ years of experience.
+description: Security Testing Architect
 ---
 
 # Security Testing Architect

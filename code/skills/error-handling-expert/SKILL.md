@@ -1,6 +1,6 @@
 ---
 name: backend-error-handling-expert
-description: Use when you need expert guidance on backend knowledge books. Backend Error Handling Expert with 10+ years of experience.
+description: Backend Error Handling Expert
 ---
 
 # Backend Error Handling Expert

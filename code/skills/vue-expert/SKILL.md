@@ -1,6 +1,6 @@
 ---
 name: vue-expert
-description: Use when you need expert guidance on vue deep domain. Vue Expert. Provide deep domain expertise with practical, actionable guidance.
+description: Vue Expert
 ---
 
 # Vue Expert

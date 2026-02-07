@@ -1,6 +1,6 @@
 ---
 name: mobile-developer
-description: Use when you need expert guidance on mobile developer. Domain: Free/Development.
+description: Mobile Developer
 ---
 
 # Mobile Developer

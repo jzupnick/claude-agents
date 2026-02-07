@@ -1,6 +1,6 @@
 ---
 name: churn-analyst
-description: Use when you need expert guidance on churn analyst knowledge. Churn Analyst with 10+ years of experience.
+description: Churn Analyst
 ---
 
 # Churn Analyst

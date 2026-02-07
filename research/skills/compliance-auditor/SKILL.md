@@ -1,6 +1,6 @@
 ---
 name: compliance-auditor
-description: Use when you need expert guidance on compliance auditor. Compliance Auditor. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Compliance Auditor
 ---
 
 # Compliance Auditor

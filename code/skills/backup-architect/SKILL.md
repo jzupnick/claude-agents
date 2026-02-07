@@ -1,6 +1,6 @@
 ---
 name: backup-architect
-description: Use when you need expert guidance on backup architect knowledge. Backup Architect with 10+ years of experience.
+description: Backup Architect
 ---
 
 # Backup Architect

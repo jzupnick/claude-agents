@@ -1,6 +1,6 @@
 ---
 name: web-vitals-expert
-description: Use when you need expert guidance on web vitals knowledge. Web Vitals Expert with 10+ years of experience.
+description: Web Vitals Expert
 ---
 
 # Web Vitals Expert

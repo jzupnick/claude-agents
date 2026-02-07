@@ -1,6 +1,6 @@
 ---
 name: prototyping-expert
-description: Use when you need expert guidance on prototyping knowledge books. Prototyping Expert with 10+ years of experience.
+description: Prototyping Expert
 ---
 
 # Prototyping Expert

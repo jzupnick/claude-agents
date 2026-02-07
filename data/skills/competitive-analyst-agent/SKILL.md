@@ -1,6 +1,6 @@
 ---
 name: competitive-analyst-agent
-description: Use when you need expert guidance on competitive analyst agent. Domain: Free/Data/Analysis.
+description: Competitive Analyst Agent
 ---
 
 # Competitive Analyst Agent

@@ -1,6 +1,6 @@
 ---
 name: fullstack-developer
-description: Use when you need expert guidance on fullstack developer. Domain: Free/Development.
+description: Fullstack Developer
 ---
 
 # Fullstack Developer

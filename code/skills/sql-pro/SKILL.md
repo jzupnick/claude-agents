@@ -1,6 +1,6 @@
 ---
 name: sql-pro
-description: Use when you need expert guidance on sql pro. Domain: Free/Development.
+description: Sql Pro
 ---
 
 # Sql Pro

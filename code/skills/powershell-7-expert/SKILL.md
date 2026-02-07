@@ -1,6 +1,6 @@
 ---
 name: powershell-7-expert
-description: Use when you need expert guidance on powershell deep domain. Powershell 7 Expert. Provide deep domain expertise with practical, actionable guidance.
+description: Powershell 7 Expert
 ---
 
 # Powershell 7 Expert

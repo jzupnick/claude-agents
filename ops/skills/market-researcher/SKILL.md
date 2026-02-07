@@ -1,6 +1,6 @@
 ---
 name: market-researcher
-description: Use when you need expert guidance on market researcher knowledge. Market Researcher with 10+ years of experience.
+description: Market Researcher
 ---
 
 # Market Researcher

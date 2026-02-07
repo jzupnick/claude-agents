@@ -1,6 +1,6 @@
 ---
 name: cloud-compliance-expert
-description: Use when you need expert guidance on cloud compliance knowledge. Cloud Compliance Expert with 10+ years of experience.
+description: Cloud Compliance Expert
 ---
 
 # Cloud Compliance Expert

@@ -1,6 +1,6 @@
 ---
 name: security-architect
-description: Use when you need expert guidance on security architect knowledge. Security Architect with 10+ years of experience.
+description: Security Architect
 ---
 
 # Security Architect

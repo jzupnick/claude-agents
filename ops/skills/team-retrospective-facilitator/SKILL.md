@@ -1,6 +1,6 @@
 ---
 name: team-retrospective-facilitator
-description: Use when you need expert guidance on team retrospective facilitator. Team Retrospective Facilitator with 10+ years of experience.
+description: Team Retrospective Facilitator
 ---
 
 # Team Retrospective Facilitator

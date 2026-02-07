@@ -1,6 +1,6 @@
 ---
 name: anomaly-detection-expert
-description: Use when you need expert guidance on anomaly detection knowledge. Anomaly Detection Expert with 10+ years of experience.
+description: Anomaly Detection Expert
 ---
 
 # Anomaly Detection Expert

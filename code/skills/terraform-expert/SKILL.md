@@ -1,6 +1,6 @@
 ---
 name: terraform-expert
-description: Use when you need expert guidance on terraform knowledge books. Terraform Expert with 10+ years of experience.
+description: Terraform Expert
 ---
 
 # Terraform Expert

@@ -1,6 +1,6 @@
 ---
 name: technical-explainer
-description: Use when you need expert guidance on technical explainer knowledge. Technical Explainer with 10+ years of experience.
+description: Technical Explainer
 ---
 
 # Technical Explainer

@@ -1,6 +1,6 @@
 ---
 name: security-engineer
-description: Use when you need expert guidance on security engineer. Domain: Free/Development.
+description: Security Engineer
 ---
 
 # Security Engineer

@@ -1,6 +1,6 @@
 ---
 name: ai-chain-designer
-description: Use when you need expert guidance on chain designer knowledge. AI Chain Designer with 10+ years of experience.
+description: Ai Chain Designer
 ---
 
 # AI Chain Designer

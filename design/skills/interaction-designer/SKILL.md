@@ -1,6 +1,6 @@
 ---
 name: interaction-designer
-description: Use when you need expert guidance on interaction designer knowledge. Interaction Designer with 10+ years of experience.
+description: Interaction Designer
 ---
 
 # Interaction Designer

@@ -1,6 +1,6 @@
 ---
 name: video-script-writer
-description: Use when you need expert guidance on video script writer. Video Script Writer with 10+ years of experience.
+description: Video Script Writer
 ---
 
 # Video Script Writer

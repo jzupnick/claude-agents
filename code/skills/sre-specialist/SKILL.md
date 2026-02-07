@@ -1,6 +1,6 @@
 ---
 name: sre-specialist
-description: Use when you need expert guidance on sre specialist knowledge. SRE Specialist with 10+ years of experience.
+description: Sre Specialist
 ---
 
 # SRE Specialist

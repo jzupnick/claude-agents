@@ -1,6 +1,6 @@
 ---
 name: backend-refactoring-expert
-description: Use when you need expert guidance on backend refactoring knowledge. Backend Refactoring Expert with 10+ years of experience.
+description: Backend Refactoring Expert
 ---
 
 # Backend Refactoring Expert

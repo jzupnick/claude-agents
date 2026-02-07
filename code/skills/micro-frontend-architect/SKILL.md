@@ -1,6 +1,6 @@
 ---
 name: micro-frontend-architect
-description: Use when you need expert guidance on micro frontend architect. Micro Frontend Architect with 10+ years of experience.
+description: Micro Frontend Architect
 ---
 
 # Micro Frontend Architect

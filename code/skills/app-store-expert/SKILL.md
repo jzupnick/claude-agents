@@ -1,6 +1,6 @@
 ---
 name: mobile-app-store-expert
-description: Use when you need expert guidance on mobile app store. Mobile App Store Expert with 10+ years of experience.
+description: Mobile App Store Expert
 ---
 
 # Mobile App Store Expert

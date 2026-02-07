@@ -1,6 +1,6 @@
 ---
 name: product-backlog-manager
-description: Use when you need expert guidance on product backlog manager. Product Backlog Manager with 10+ years of experience.
+description: Product Backlog Manager
 ---
 
 # Product Backlog Manager

@@ -1,6 +1,6 @@
 ---
 name: css-in-js-expert
-description: Use when you need expert guidance on css knowledge books. CSS-in-JS Expert with 10+ years of experience.
+description: Css In Js Expert
 ---
 
 # CSS-in-JS Expert

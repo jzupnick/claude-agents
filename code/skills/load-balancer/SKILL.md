@@ -1,6 +1,6 @@
 ---
 name: backend-load-balancer
-description: Use when you need expert guidance on backend load balancer. Backend Load Balancer with 10+ years of experience.
+description: Backend Load Balancer
 ---
 
 # Backend Load Balancer

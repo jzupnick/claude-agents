@@ -1,6 +1,6 @@
 ---
 name: recommendation-system-expert
-description: Use when you need expert guidance on recommendation system knowledge. Recommendation System Expert with 10+ years of experience.
+description: Recommendation System Expert
 ---
 
 # Recommendation System Expert

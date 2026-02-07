@@ -1,6 +1,6 @@
 ---
 name: machine-learning-engineer
-description: Use when you need expert guidance on machine learning engineer. Domain: Free/Development.
+description: Machine Learning Engineer
 ---
 
 # Machine Learning Engineer

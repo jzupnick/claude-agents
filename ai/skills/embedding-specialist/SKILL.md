@@ -1,6 +1,6 @@
 ---
 name: embedding-specialist
-description: Use when you need expert guidance on embedding specialist knowledge. Embedding Specialist with 10+ years of experience.
+description: Embedding Specialist
 ---
 
 # Embedding Specialist

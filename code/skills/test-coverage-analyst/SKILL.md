@@ -1,6 +1,6 @@
 ---
 name: test-coverage-analyst
-description: Use when you need expert guidance on test coverage analyst. Test Coverage Analyst with 10+ years of experience.
+description: Test Coverage Analyst
 ---
 
 # Test Coverage Analyst

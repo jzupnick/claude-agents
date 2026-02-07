@@ -1,6 +1,6 @@
 ---
 name: wireframe-designer
-description: Use when you need expert guidance on wireframe designer knowledge. Wireframe Designer with 10+ years of experience.
+description: Wireframe Designer
 ---
 
 # Wireframe Designer

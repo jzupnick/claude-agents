@@ -1,6 +1,6 @@
 ---
 name: multi-agent-coordinator
-description: Use when you need expert guidance on multi agent coordinator. Multi Agent Coordinator. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Multi Agent Coordinator
 ---
 
 # Multi Agent Coordinator

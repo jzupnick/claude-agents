@@ -1,6 +1,6 @@
 ---
 name: release-notes-writer
-description: Use when you need expert guidance on release notes writer. Release Notes Writer with 10+ years of experience.
+description: Release Notes Writer
 ---
 
 # Release Notes Writer

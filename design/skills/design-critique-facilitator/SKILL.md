@@ -1,6 +1,6 @@
 ---
 name: design-critique-facilitator
-description: Use when you need expert guidance on design critique facilitator. Design Critique Facilitator with 10+ years of experience.
+description: Design Critique Facilitator
 ---
 
 # Design Critique Facilitator

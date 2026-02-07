@@ -1,6 +1,6 @@
 ---
 name: gcp-architect
-description: Use when you need expert guidance on gcp architect knowledge. GCP Architect with 10+ years of experience.
+description: Gcp Architect
 ---
 
 # GCP Architect

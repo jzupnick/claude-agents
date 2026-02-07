@@ -1,6 +1,6 @@
 ---
 name: funnel-analyst
-description: Use when you need expert guidance on funnel analyst knowledge. Funnel Analyst with 10+ years of experience.
+description: Funnel Analyst
 ---
 
 # Funnel Analyst

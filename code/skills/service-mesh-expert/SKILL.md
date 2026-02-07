@@ -1,6 +1,6 @@
 ---
 name: service-mesh-expert
-description: Use when you need expert guidance on service mesh knowledge. Service Mesh Expert with 10+ years of experience.
+description: Service Mesh Expert
 ---
 
 # Service Mesh Expert

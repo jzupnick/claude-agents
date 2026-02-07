@@ -1,6 +1,6 @@
 ---
 name: causal-inference-analyst
-description: Use when you need expert guidance on causal inference analyst. Causal Inference Analyst with 10+ years of experience.
+description: Causal Inference Analyst
 ---
 
 # Causal Inference Analyst

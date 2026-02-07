@@ -1,6 +1,6 @@
 ---
 name: story-writer
-description: Use when you need expert guidance on story writer create. Domain: Free/Writing.
+description: Story Writer
 ---
 
 # Story Writer

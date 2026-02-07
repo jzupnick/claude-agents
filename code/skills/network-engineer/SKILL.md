@@ -1,6 +1,6 @@
 ---
 name: network-engineer
-description: Use when you need expert guidance on network engineer. Domain: Free/Development.
+description: Network Engineer
 ---
 
 # Network Engineer

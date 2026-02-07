@@ -1,6 +1,6 @@
 ---
 name: accessibility-designer
-description: Use when you need expert guidance on accessibility designer knowledge. Accessibility Designer with 10+ years of experience.
+description: Accessibility Designer
 ---
 
 # Accessibility Designer

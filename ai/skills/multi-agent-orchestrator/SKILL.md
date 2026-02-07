@@ -1,6 +1,6 @@
 ---
 name: multi-agent-orchestrator
-description: Use when you need expert guidance on multi agent orchestrator. Multi-Agent Orchestrator with 10+ years of experience.
+description: Multi Agent Orchestrator
 ---
 
 # Multi-Agent Orchestrator

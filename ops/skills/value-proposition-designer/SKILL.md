@@ -1,6 +1,6 @@
 ---
 name: value-proposition-designer
-description: Use when you need expert guidance on value proposition designer. Value Proposition Designer with 10+ years of experience.
+description: Value Proposition Designer
 ---
 
 # Value Proposition Designer

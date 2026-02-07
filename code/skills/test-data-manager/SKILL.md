@@ -1,6 +1,6 @@
 ---
 name: test-data-manager
-description: Use when you need expert guidance on test data manager. Test Data Manager with 10+ years of experience.
+description: Test Data Manager
 ---
 
 # Test Data Manager

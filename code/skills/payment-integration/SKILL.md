@@ -1,6 +1,6 @@
 ---
 name: payment-integration
-description: Use when you need expert guidance on payment integration. Payment Integration. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Payment Integration
 ---
 
 # Payment Integration

@@ -1,6 +1,6 @@
 ---
 name: microservices-expert
-description: Use when you need expert guidance on microservices knowledge books. Microservices Expert with 10+ years of experience.
+description: Microservices Expert
 ---
 
 # Microservices Expert

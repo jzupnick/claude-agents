@@ -1,6 +1,6 @@
 ---
 name: technical-writer-agent
-description: Use when you need expert guidance on technical writer agent. Domain: Free/Writing.
+description: Technical Writer Agent
 ---
 
 # Technical Writer Agent

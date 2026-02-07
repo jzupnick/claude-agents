@@ -1,6 +1,6 @@
 ---
 name: code-reviewer
-description: Use when you need expert guidance on reviewer analyze correctness. Domain: Free/Development.
+description: Code Reviewer
 ---
 
 # Code Reviewer

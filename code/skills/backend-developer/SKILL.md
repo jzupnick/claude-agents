@@ -1,6 +1,6 @@
 ---
 name: backend-developer
-description: Use when you need expert guidance on backend developer. Domain: Free/Development.
+description: Backend Developer
 ---
 
 # Backend Developer

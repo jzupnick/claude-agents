@@ -1,6 +1,6 @@
 ---
 name: build-engineer
-description: Use when you need expert guidance on build engineer. Domain: Free/Development.
+description: Build Engineer
 ---
 
 # Build Engineer

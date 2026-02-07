@@ -1,6 +1,6 @@
 ---
 name: rails-expert
-description: Use when you need expert guidance on rails deep domain. Rails Expert. Provide deep domain expertise with practical, actionable guidance.
+description: Rails Expert
 ---
 
 # Rails Expert

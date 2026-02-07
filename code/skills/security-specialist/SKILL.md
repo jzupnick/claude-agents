@@ -1,6 +1,6 @@
 ---
 name: mobile-security-specialist
-description: Use when you need expert guidance on mobile security specialist. Mobile Security Specialist with 10+ years of experience.
+description: Mobile Security Specialist
 ---
 
 # Mobile Security Specialist

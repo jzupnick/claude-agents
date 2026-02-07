@@ -1,6 +1,6 @@
 ---
 name: decision-advisor
-description: Use when you need expert guidance on strategic decision advisor. Domain: Free/Analysis.
+description: Decision Advisor
 ---
 
 # Decision Advisor

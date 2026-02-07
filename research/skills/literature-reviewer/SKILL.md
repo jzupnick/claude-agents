@@ -1,6 +1,6 @@
 ---
 name: literature-reviewer
-description: Use when you need expert guidance on literature reviewer. Literature Reviewer. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Literature Reviewer
 ---
 
 # Literature Reviewer

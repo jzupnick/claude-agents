@@ -1,6 +1,6 @@
 ---
 name: okr-designer
-description: Use when you need expert guidance on okr designer knowledge. OKR Designer with 10+ years of experience.
+description: Okr Designer
 ---
 
 # OKR Designer

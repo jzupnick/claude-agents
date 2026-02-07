@@ -1,6 +1,6 @@
 ---
 name: risk-analyst
-description: Use when you need expert guidance on risk analyst knowledge. Risk Analyst with 10+ years of experience.
+description: Risk Analyst
 ---
 
 # Risk Analyst

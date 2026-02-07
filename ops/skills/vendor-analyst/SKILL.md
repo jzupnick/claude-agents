@@ -1,6 +1,6 @@
 ---
 name: vendor-analyst
-description: Use when you need expert guidance on vendor analyst knowledge. Vendor Analyst with 10+ years of experience.
+description: Vendor Analyst
 ---
 
 # Vendor Analyst

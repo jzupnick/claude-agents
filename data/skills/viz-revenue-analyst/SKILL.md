@@ -1,6 +1,6 @@
 ---
 name: revenue-analyst
-description: Use when you need expert guidance on revenue analyst knowledge. Revenue Analyst with 10+ years of experience.
+description: Revenue Analyst
 ---
 
 # Revenue Analyst

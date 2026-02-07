@@ -1,6 +1,6 @@
 ---
 name: log-management-expert
-description: Use when you need expert guidance on log management knowledge. Log Management Expert with 10+ years of experience.
+description: Log Management Expert
 ---
 
 # Log Management Expert

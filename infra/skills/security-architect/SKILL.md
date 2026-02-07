@@ -1,6 +1,6 @@
 ---
 name: cloud-security-architect
-description: Use when you need expert guidance on cloud security architect. Cloud Security Architect with 10+ years of experience.
+description: Cloud Security Architect
 ---
 
 # Cloud Security Architect

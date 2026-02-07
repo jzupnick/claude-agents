@@ -1,6 +1,6 @@
 ---
 name: backend-security-expert
-description: Use when you need expert guidance on backend security knowledge. Backend Security Expert with 10+ years of experience.
+description: Backend Security Expert
 ---
 
 # Backend Security Expert

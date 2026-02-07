@@ -1,6 +1,6 @@
 ---
 name: cloud-monitoring-architect
-description: Use when you need expert guidance on cloud monitoring architect. Cloud Monitoring Architect with 10+ years of experience.
+description: Cloud Monitoring Architect
 ---
 
 # Cloud Monitoring Architect

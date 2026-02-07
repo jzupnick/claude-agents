@@ -1,6 +1,6 @@
 ---
 name: security-auditor
-description: Use when you need expert guidance on security auditor knowledge. Security Auditor with 10+ years of experience.
+description: Security Auditor
 ---
 
 # Security Auditor

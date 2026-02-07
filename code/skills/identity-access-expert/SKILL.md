@@ -1,6 +1,6 @@
 ---
 name: identity-access-expert
-description: Use when you need expert guidance on identity access knowledge. Identity & Access Expert with 10+ years of experience.
+description: Identity Access Expert
 ---
 
 # Identity & Access Expert

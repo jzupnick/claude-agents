@@ -1,6 +1,6 @@
 ---
 name: git-workflow-manager
-description: Use when you need expert guidance on experienced git workflow. Domain: Free/Business/Development.
+description: Git Workflow Manager
 ---
 
 # Git Workflow Manager

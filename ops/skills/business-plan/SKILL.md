@@ -1,6 +1,6 @@
 ---
 name: business-plan
-description: Use when you need expert guidance on business plan. Business Plan. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Business Plan
 ---
 
 # Business Plan

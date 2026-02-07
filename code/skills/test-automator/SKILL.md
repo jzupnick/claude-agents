@@ -1,6 +1,6 @@
 ---
 name: test-automator
-description: Use when you need expert guidance on test automator. Test Automator. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Test Automator
 ---
 
 # Test Automator

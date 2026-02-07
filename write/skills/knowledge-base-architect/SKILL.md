@@ -1,6 +1,6 @@
 ---
 name: knowledge-base-architect
-description: Use when you need expert guidance on knowledge base architect. Knowledge Base Architect with 10+ years of experience.
+description: Knowledge Base Architect
 ---
 
 # Knowledge Base Architect

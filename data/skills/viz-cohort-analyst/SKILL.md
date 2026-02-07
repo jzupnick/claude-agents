@@ -1,6 +1,6 @@
 ---
 name: cohort-analyst
-description: Use when you need expert guidance on cohort analyst knowledge. Cohort Analyst with 10+ years of experience.
+description: Cohort Analyst
 ---
 
 # Cohort Analyst

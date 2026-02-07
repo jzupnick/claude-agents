@@ -1,6 +1,6 @@
 ---
 name: product-manager-agent
-description: Use when you need expert guidance on experienced product manager. Domain: Free/Business/Analysis.
+description: Product Manager Agent
 ---
 
 # Product Manager Agent

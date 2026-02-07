@@ -1,6 +1,6 @@
 ---
 name: business-intelligence-designer
-description: Use when you need expert guidance on business intelligence designer. Business Intelligence Designer with 10+ years of experience.
+description: Business Intelligence Designer
 ---
 
 # Business Intelligence Designer

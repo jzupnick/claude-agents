@@ -1,6 +1,6 @@
 ---
 name: kubernetes-expert
-description: Use when you need expert guidance on kubernetes knowledge books. Kubernetes Expert with 10+ years of experience.
+description: Kubernetes Expert
 ---
 
 # Kubernetes Expert

@@ -1,6 +1,6 @@
 ---
 name: ci-testing-expert
-description: Use when you need expert guidance on testing knowledge books. CI Testing Expert with 10+ years of experience.
+description: Ci Testing Expert
 ---
 
 # CI Testing Expert

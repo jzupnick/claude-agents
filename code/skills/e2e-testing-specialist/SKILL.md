@@ -1,6 +1,6 @@
 ---
 name: e2e-testing-specialist
-description: Use when you need expert guidance on testing specialist knowledge. E2E Testing Specialist with 10+ years of experience.
+description: E2E Testing Specialist
 ---
 
 # E2E Testing Specialist

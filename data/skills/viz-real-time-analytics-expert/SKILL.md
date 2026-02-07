@@ -1,6 +1,6 @@
 ---
 name: real-time-analytics-expert
-description: Use when you need expert guidance on real time analytics. Real-time Analytics Expert with 10+ years of experience.
+description: Real Time Analytics Expert
 ---
 
 # Real-time Analytics Expert

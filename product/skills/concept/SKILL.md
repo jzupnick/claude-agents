@@ -1,6 +1,6 @@
 ---
 name: concept-developer
-description: Use when you need expert guidance on concept developer. Domain: Free.
+description: Concept Developer
 ---
 
 # Concept Developer

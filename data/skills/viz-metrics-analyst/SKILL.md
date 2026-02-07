@@ -1,6 +1,6 @@
 ---
 name: metrics-analyst
-description: Use when you need expert guidance on metrics analyst knowledge. Metrics Analyst with 10+ years of experience.
+description: Metrics Analyst
 ---
 
 # Metrics Analyst

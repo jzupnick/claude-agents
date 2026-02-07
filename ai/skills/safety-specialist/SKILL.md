@@ -1,6 +1,6 @@
 ---
 name: ai-safety-specialist
-description: Use when you need expert guidance on safety specialist knowledge. AI Safety Specialist with 10+ years of experience.
+description: Ai Safety Specialist
 ---
 
 # AI Safety Specialist

@@ -1,6 +1,6 @@
 ---
 name: scrum-master
-description: Use when you need expert guidance on scrum master. Scrum Master. Provide clear, accurate, and actionable responses tailored to the task at hand.
+description: Scrum Master
 ---
 
 # Scrum Master
