@@ -1,0 +1,8 @@
+{
+  "name": "infra",
+  "description": "Cloud infrastructure, networking, containers, and platform engineering",
+  "version": "1.0.0",
+  "author": {
+    "name": "Justin Zupnick"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "data",
+  "description": "Data engineering, analytics, visualization, and database management",
+  "version": "1.0.0",
+  "author": {
+    "name": "Justin Zupnick"
+  }
+}

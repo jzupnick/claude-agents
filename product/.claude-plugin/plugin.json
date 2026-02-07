@@ -1,0 +1,8 @@
+{
+  "name": "product",
+  "description": "Product management, discovery, prototyping, and Northwestern MPD2 frameworks",
+  "version": "1.0.0",
+  "author": {
+    "name": "Justin Zupnick"
+  }
+}
