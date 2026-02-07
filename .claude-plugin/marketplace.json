@@ -1,0 +1,80 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-agents",
+  "description": "525 specialist skills organized into 10 focused plugins for Claude Code",
+  "owner": {
+    "name": "Justin Zupnick"
+  },
+  "plugins": [
+    {
+      "name": "ai",
+      "description": "AI/ML, LLMs, computer vision - 30 skills",
+      "version": "1.0.0",
+      "source": "./ai",
+      "category": "ai"
+    },
+    {
+      "name": "code",
+      "description": "Software development, frontend, backend, mobile, security, DevOps - 211 skills",
+      "version": "1.0.0",
+      "source": "./code",
+      "category": "development"
+    },
+    {
+      "name": "data",
+      "description": "Data engineering, analytics, visualization - 48 skills",
+      "version": "1.0.0",
+      "source": "./data",
+      "category": "data"
+    },
+    {
+      "name": "design",
+      "description": "Product design, UX, design systems - 27 skills",
+      "version": "1.0.0",
+      "source": "./design",
+      "category": "design"
+    },
+    {
+      "name": "infra",
+      "description": "Cloud, networking, containers, platforms - 18 skills",
+      "version": "1.0.0",
+      "source": "./infra",
+      "category": "infrastructure"
+    },
+    {
+      "name": "ops",
+      "description": "Business strategy, communications, finance, leadership - 80 skills",
+      "version": "1.0.0",
+      "source": "./ops",
+      "category": "operations"
+    },
+    {
+      "name": "product",
+      "description": "Product management, discovery, MPD2 frameworks - 18 skills",
+      "version": "1.0.0",
+      "source": "./product",
+      "category": "product"
+    },
+    {
+      "name": "research",
+      "description": "Analysis, diagnostics, evaluation - 28 skills",
+      "version": "1.0.0",
+      "source": "./research",
+      "category": "research"
+    },
+    {
+      "name": "tools",
+      "description": "iOS, hardware, doc formats, utilities - 24 skills",
+      "version": "1.0.0",
+      "source": "./tools",
+      "category": "tools"
+    },
+    {
+      "name": "write",
+      "description": "Writing, editing, translation, content - 41 skills",
+      "version": "1.0.0",
+      "source": "./write",
+      "category": "writing"
+    }
+  ]
+}
