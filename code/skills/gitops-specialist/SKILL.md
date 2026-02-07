@@ -1,6 +1,6 @@
 ---
 name: gitops-specialist
-description: Gitops Specialist
+description: Gitops Specialist — Kubernetes, Terraform, GitOps
 ---
 
 # GitOps Specialist

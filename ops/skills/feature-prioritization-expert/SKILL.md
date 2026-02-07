@@ -1,6 +1,6 @@
 ---
 name: feature-prioritization-expert
-description: Feature Prioritization Expert
+description: Feature Prioritization Expert — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # Feature Prioritization Expert

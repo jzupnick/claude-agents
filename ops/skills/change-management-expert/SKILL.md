@@ -1,6 +1,6 @@
 ---
 name: change-management-expert
-description: Change Management Expert
+description: Change Management Expert — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
 ---
 
 # Change Management Expert

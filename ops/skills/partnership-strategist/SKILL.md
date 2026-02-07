@@ -1,6 +1,6 @@
 ---
 name: partnership-strategist
-description: Partnership Strategist
+description: Partnership Strategist — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
 ---
 
 # Partnership Strategist

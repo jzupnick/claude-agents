@@ -1,6 +1,6 @@
 ---
 name: terraform-engineer
-description: Terraform Engineer
+description: Terraform Engineer — Terraform, IaC, HCL, state management
 ---
 
 # Terraform Engineer

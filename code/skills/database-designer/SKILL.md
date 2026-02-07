@@ -1,6 +1,6 @@
 ---
 name: database-designer
-description: Database Designer
+description: Database Designer — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # Database Designer

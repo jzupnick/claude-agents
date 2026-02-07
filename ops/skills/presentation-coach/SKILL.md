@@ -1,6 +1,6 @@
 ---
 name: presentation-coach
-description: Presentation Coach
+description: Presentation Coach — Nonviolent Communication, SBI Feedback, BLUF
 ---
 
 # Presentation Coach

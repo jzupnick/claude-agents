@@ -1,6 +1,6 @@
 ---
 name: vuejs-expert
-description: Vuejs Expert
+description: Vuejs Expert — React, Vue, TypeScript, Web Vitals
 ---
 
 # Vue.js Expert

@@ -1,6 +1,6 @@
 ---
 name: rust-engineer
-description: Rust Engineer
+description: Rust Engineer — Rust, ownership, lifetimes, cargo
 ---
 
 # Rust Engineer

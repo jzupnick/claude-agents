@@ -1,6 +1,6 @@
 ---
 name: market-researcher-agent
-description: Market Researcher Agent
+description: Market Researcher Agent — market research, surveys, analysis
 ---
 
 # Market Researcher Agent

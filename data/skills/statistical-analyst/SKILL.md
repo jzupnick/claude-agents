@@ -1,6 +1,6 @@
 ---
 name: statistical-analyst
-description: Statistical Analyst
+description: Statistical Analyst — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # Statistical Analyst

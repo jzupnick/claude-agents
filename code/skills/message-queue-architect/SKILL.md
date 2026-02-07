@@ -1,6 +1,6 @@
 ---
 name: message-queue-architect
-description: Message Queue Architect
+description: Message Queue Architect — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # Message Queue Architect

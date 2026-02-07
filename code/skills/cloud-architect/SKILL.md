@@ -1,6 +1,6 @@
 ---
 name: cloud-architect
-description: Cloud Architect
+description: Cloud Architect — multi-cloud, architecture, cost optimization
 ---
 
 # Cloud Architect

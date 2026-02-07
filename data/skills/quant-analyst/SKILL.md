@@ -1,6 +1,6 @@
 ---
 name: quant-analyst
-description: Quant Analyst
+description: Quant Analyst — quantitative analysis, financial modeling
 ---
 
 # Quant Analyst

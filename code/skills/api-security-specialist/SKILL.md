@@ -1,6 +1,6 @@
 ---
 name: api-security-specialist
-description: Api Security Specialist
+description: Api Security Specialist — Zero Trust, NIST CSF, ISO 27001
 ---
 
 # API Security Specialist

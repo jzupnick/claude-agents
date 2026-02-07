@@ -1,6 +1,6 @@
 ---
 name: sql-pro
-description: Sql Pro
+description: Sql Pro — SQL, queries, joins, optimization
 ---
 
 # Sql Pro

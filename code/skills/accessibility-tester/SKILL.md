@@ -1,6 +1,6 @@
 ---
 name: accessibility-tester
-description: Accessibility Tester
+description: Accessibility Tester — Test Pyramid, Testing Trophy, BDD/TDD
 ---
 
 # Accessibility Tester

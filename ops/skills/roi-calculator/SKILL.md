@@ -1,6 +1,6 @@
 ---
 name: roi-calculator
-description: Roi Calculator
+description: Roi Calculator — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
 ---
 
 # ROI Calculator

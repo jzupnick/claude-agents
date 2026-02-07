@@ -1,6 +1,6 @@
 ---
 name: action-item-extractor
-description: Action Item Extractor
+description: Action Item Extractor — extract action items from text/meetings
 ---
 
 # Action Item Extractor

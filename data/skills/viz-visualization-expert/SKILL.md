@@ -1,6 +1,6 @@
 ---
 name: visualization-expert
-description: Visualization Expert
+description: Visualization Expert — AARRR, Analytics Maturity Model, Data Visualization
 ---
 
 # Visualization Expert

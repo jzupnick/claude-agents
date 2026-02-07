@@ -1,6 +1,6 @@
 ---
 name: software-developer
-description: Software Developer
+description: Software Developer — general software engineering, all languages
 ---
 
 # Software Developer

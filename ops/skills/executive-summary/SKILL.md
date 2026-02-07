@@ -1,6 +1,6 @@
 ---
 name: executive-summary
-description: Executive Summary
+description: Executive Summary — executive briefs, TL;DR summaries
 ---
 
 # Executive Summary

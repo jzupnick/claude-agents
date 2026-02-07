@@ -1,6 +1,6 @@
 ---
 name: recommendation-system-expert
-description: Recommendation System Expert
+description: Recommendation System Expert — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # Recommendation System Expert

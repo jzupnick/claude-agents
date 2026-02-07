@@ -1,6 +1,6 @@
 ---
 name: medical-diagnosis
-description: Medical Diagnosis
+description: Medical Diagnosis — medical knowledge, symptoms, guidance
 ---
 
 # Medical Diagnosis

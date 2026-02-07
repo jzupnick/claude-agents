@@ -1,6 +1,6 @@
 ---
 name: okr-designer
-description: Okr Designer
+description: Okr Designer — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # OKR Designer

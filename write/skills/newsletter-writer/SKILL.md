@@ -1,6 +1,6 @@
 ---
 name: newsletter-writer
-description: Newsletter Writer
+description: Newsletter Writer — newsletters, email campaigns
 ---
 
 # Newsletter Writer

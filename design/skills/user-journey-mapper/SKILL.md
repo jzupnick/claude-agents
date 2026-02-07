@@ -1,6 +1,6 @@
 ---
 name: user-journey-mapper
-description: User Journey Mapper
+description: User Journey Mapper — Design Thinking, Double Diamond, Atomic Design
 ---
 
 # User Journey Mapper

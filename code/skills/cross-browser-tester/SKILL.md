@@ -1,6 +1,6 @@
 ---
 name: cross-browser-tester
-description: Cross Browser Tester
+description: Cross Browser Tester — Test Pyramid, Testing Trophy, BDD/TDD
 ---
 
 # Cross-Browser Tester

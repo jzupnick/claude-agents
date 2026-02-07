@@ -1,6 +1,6 @@
 ---
 name: dependency-manager
-description: Dependency Manager
+description: Dependency Manager — dependency tracking, version management
 ---
 
 # Dependency Manager

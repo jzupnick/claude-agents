@@ -1,6 +1,6 @@
 ---
 name: qa-expert
-description: Qa Expert
+description: Qa Expert — QA strategy, test plans, quality gates
 ---
 
 # Qa Expert

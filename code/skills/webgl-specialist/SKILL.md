@@ -1,6 +1,6 @@
 ---
 name: webgl-specialist
-description: Webgl Specialist
+description: Webgl Specialist — React, Vue, TypeScript, Web Vitals
 ---
 
 # WebGL Specialist

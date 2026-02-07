@@ -1,6 +1,6 @@
 ---
 name: user-story-writer
-description: User Story Writer
+description: User Story Writer — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # User Story Writer

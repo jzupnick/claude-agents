@@ -1,6 +1,6 @@
 ---
 name: search-specialist
-description: Search Specialist
+description: Search Specialist — Elasticsearch, Algolia, full-text search
 ---
 
 # Search Specialist

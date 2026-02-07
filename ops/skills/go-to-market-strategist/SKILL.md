@@ -1,6 +1,6 @@
 ---
 name: go-to-market-strategist
-description: Go To Market Strategist
+description: Go To Market Strategist — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # Go-to-Market Strategist

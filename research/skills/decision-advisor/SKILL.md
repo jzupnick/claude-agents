@@ -1,6 +1,6 @@
 ---
 name: decision-advisor
-description: Decision Advisor
+description: Decision Advisor — decision frameworks, options analysis
 ---
 
 # Decision Advisor

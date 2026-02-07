@@ -1,6 +1,6 @@
 ---
 name: database-administrator
-description: Database Administrator
+description: Database Administrator — PostgreSQL, MySQL, MongoDB, Redis
 ---
 
 # Database Administrator

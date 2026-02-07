@@ -1,6 +1,6 @@
 ---
 name: mobile-ui-designer
-description: Mobile Ui Designer
+description: Mobile Ui Designer — SwiftUI, Jetpack Compose, React Native, Flutter
 ---
 
 # Mobile UI Designer

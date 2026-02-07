@@ -1,6 +1,6 @@
 ---
 name: cloud-backup-strategist
-description: Cloud Backup Strategist
+description: Cloud Backup Strategist — AWS Well-Architected, Azure CAF, GCP Best Practices
 ---
 
 # Cloud Backup Strategist

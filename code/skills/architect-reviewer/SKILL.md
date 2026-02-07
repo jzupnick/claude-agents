@@ -1,6 +1,6 @@
 ---
 name: architect-reviewer
-description: Architect Reviewer
+description: Architect Reviewer — architecture review, design critique
 ---
 
 # Architect Reviewer

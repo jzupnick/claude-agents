@@ -1,6 +1,6 @@
 ---
 name: attribution-analyst
-description: Attribution Analyst
+description: Attribution Analyst — AARRR, Analytics Maturity Model, Data Visualization
 ---
 
 # Attribution Analyst

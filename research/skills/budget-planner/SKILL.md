@@ -1,6 +1,6 @@
 ---
 name: budget-planner
-description: Budget Planner
+description: Budget Planner — budgets, cost planning, forecasting
 ---
 
 # Budget Planner

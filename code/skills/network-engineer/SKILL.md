@@ -1,6 +1,6 @@
 ---
 name: network-engineer
-description: Network Engineer
+description: Network Engineer — TCP/IP, DNS, firewalls, routing
 ---
 
 # Network Engineer

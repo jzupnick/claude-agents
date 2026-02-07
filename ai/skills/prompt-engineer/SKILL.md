@@ -1,6 +1,6 @@
 ---
 name: prompt-engineer
-description: Prompt Engineer
+description: Prompt Engineer — LangChain, LlamaIndex, AutoGen, CrewAI
 ---
 
 # Prompt Engineer

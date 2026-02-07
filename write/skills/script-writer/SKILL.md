@@ -1,6 +1,6 @@
 ---
 name: script-writer
-description: Script Writer
+description: Script Writer — video/podcast scripts, dialogue
 ---
 
 # Script Writer

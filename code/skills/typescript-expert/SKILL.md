@@ -1,6 +1,6 @@
 ---
 name: typescript-expert
-description: Typescript Expert
+description: Typescript Expert — React, Vue, TypeScript, Web Vitals
 ---
 
 # TypeScript Expert

@@ -1,6 +1,6 @@
 ---
 name: frontend-caching-strategist
-description: Frontend Caching Strategist
+description: Frontend Caching Strategist — React, Vue, TypeScript, Web Vitals
 ---
 
 # Frontend Caching Strategist

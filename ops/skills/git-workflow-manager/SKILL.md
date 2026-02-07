@@ -1,6 +1,6 @@
 ---
 name: git-workflow-manager
-description: Git Workflow Manager
+description: Git Workflow Manager — Git branching, merge strategies, workflows
 ---
 
 # Git Workflow Manager

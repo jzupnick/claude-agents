@@ -1,6 +1,6 @@
 ---
 name: api-versioning-strategist
-description: Api Versioning Strategist
+description: Api Versioning Strategist — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # API Versioning Strategist

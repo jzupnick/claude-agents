@@ -1,6 +1,6 @@
 ---
 name: code-reviewer
-description: Code Reviewer
+description: Code Reviewer — code review, best practices, PR feedback
 ---
 
 # Code Reviewer

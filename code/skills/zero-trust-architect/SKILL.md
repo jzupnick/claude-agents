@@ -1,6 +1,6 @@
 ---
 name: zero-trust-architect
-description: Zero Trust Architect
+description: Zero Trust Architect — Zero Trust, NIST CSF, ISO 27001
 ---
 
 # Zero Trust Architect

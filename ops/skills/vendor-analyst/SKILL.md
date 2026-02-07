@@ -1,6 +1,6 @@
 ---
 name: vendor-analyst
-description: Vendor Analyst
+description: Vendor Analyst — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
 ---
 
 # Vendor Analyst

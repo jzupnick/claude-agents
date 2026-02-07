@@ -1,6 +1,6 @@
 ---
 name: backend-load-balancer
-description: Backend Load Balancer
+description: Backend Load Balancer — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # Backend Load Balancer

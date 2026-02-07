@@ -1,6 +1,6 @@
 ---
 name: mlops-engineer
-description: Mlops Engineer
+description: Mlops Engineer — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # MLOps Engineer

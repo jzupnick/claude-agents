@@ -1,6 +1,6 @@
 ---
 name: accessibility-designer
-description: Accessibility Designer
+description: Accessibility Designer — Design Thinking, Double Diamond, Atomic Design
 ---
 
 # Accessibility Designer

@@ -1,6 +1,6 @@
 ---
 name: product-documentation-writer
-description: Product Documentation Writer
+description: Product Documentation Writer — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # Product Documentation Writer

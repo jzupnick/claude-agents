@@ -1,6 +1,6 @@
 ---
 name: technical-explainer
-description: Technical Explainer
+description: Technical Explainer — Nonviolent Communication, SBI Feedback, BLUF
 ---
 
 # Technical Explainer

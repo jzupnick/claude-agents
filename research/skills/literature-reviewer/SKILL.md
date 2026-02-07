@@ -1,6 +1,6 @@
 ---
 name: literature-reviewer
-description: Literature Reviewer
+description: Literature Reviewer — literature review, academic research
 ---
 
 # Literature Reviewer

@@ -1,6 +1,6 @@
 ---
 name: animation-expert
-description: Animation Expert
+description: Animation Expert — React, Vue, TypeScript, Web Vitals
 ---
 
 # Animation Expert

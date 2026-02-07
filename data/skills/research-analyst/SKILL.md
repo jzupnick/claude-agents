@@ -1,6 +1,6 @@
 ---
 name: research-analyst
-description: Research Analyst
+description: Research Analyst — research synthesis, literature analysis
 ---
 
 # Research Analyst

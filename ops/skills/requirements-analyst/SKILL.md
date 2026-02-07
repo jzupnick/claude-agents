@@ -1,6 +1,6 @@
 ---
 name: requirements-analyst
-description: Requirements Analyst
+description: Requirements Analyst — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # Requirements Analyst

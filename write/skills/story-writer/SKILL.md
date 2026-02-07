@@ -1,6 +1,6 @@
 ---
 name: story-writer
-description: Story Writer
+description: Story Writer — creative writing, fiction, narratives
 ---
 
 # Story Writer

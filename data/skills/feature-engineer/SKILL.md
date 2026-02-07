@@ -1,6 +1,6 @@
 ---
 name: feature-engineer
-description: Feature Engineer
+description: Feature Engineer — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # Feature Engineer

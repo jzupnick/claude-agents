@@ -1,26 +1,22 @@
-# infra plugin
-
-Cloud and infrastructure skills. Invoke with /infra:<skill>.
-
-## Available Skills (18)
+# infra — Agent Skills
 
 | Skill | Description |
 |-------|-------------|
-| `/infra:api-gateway-designer` | Use when you need expert guidance on cloud api gateway. Cloud API Gateway Designer with 10+ years... |
-| `/infra:assistant` | Use when you need expert guidance on cloud assistant. Cloud Assistant. Provide clear, accurate, a... |
-| `/infra:aws-specialist` | Use when you need expert guidance on aws specialist knowledge. AWS Specialist with 10+ years of e... |
-| `/infra:azure-expert` | Use when you need expert guidance on azure knowledge books. Azure Expert with 10+ years of experi... |
-| `/infra:backup-strategist` | Use when you need expert guidance on cloud backup strategist. Cloud Backup Strategist with 10+ ye... |
-| `/infra:compliance-expert` | Use when you need expert guidance on cloud compliance knowledge. Cloud Compliance Expert with 10+... |
-| `/infra:cost-optimizer` | Use when you need expert guidance on cloud cost optimizer. Cloud Cost Optimizer with 10+ years of... |
-| `/infra:gcp-architect` | Use when you need expert guidance on gcp architect knowledge. GCP Architect with 10+ years of exp... |
-| `/infra:homelab` | Expert in homelab and network engineering for self-hosted infrastructure. Use when configuring ne... |
-| `/infra:migration-specialist` | Use when you need expert guidance on migration specialist knowledge. Migration Specialist with 10... |
-| `/infra:monitoring-architect` | Use when you need expert guidance on cloud monitoring architect. Cloud Monitoring Architect with ... |
-| `/infra:multi-cloud-architect` | Use when you need expert guidance on multi cloud architect. Multi-Cloud Architect with 10+ years ... |
-| `/infra:networking-specialist` | Use when you need expert guidance on cloud networking specialist. Cloud Networking Specialist wit... |
-| `/infra:premium` | Use when you need expert guidance on cloud premium. Cloud Premium. Provide clear, accurate, and a... |
-| `/infra:security-architect` | Use when you need expert guidance on cloud security architect. Cloud Security Architect with 10+ ... |
-| `/infra:serverless-architect` | Use when you need expert guidance on serverless architect knowledge. Serverless Architect with 10... |
-| `/infra:solutions-architect` | Use when you need expert guidance on architect knowledge books. Solutions Architect with 10+ year... |
-| `/infra:storage-expert` | Use when you need expert guidance on cloud storage knowledge. Cloud Storage Expert with 10+ years... |
+| `/infra:api-gateway-designer` | Cloud Api Gateway Designer — AWS Well-Architected, Azure CAF, GCP Best Practices |
+| `/infra:assistant` | Cloud Assistant — general purpose assistant |
+| `/infra:aws-specialist` | Aws Specialist — AWS Well-Architected, Azure CAF, GCP Best Practices |
+| `/infra:azure-expert` | Azure Expert — AWS Well-Architected, Azure CAF, GCP Best Practices |
+| `/infra:backup-strategist` | Cloud Backup Strategist — AWS Well-Architected, Azure CAF, GCP Best Practices |
+| `/infra:compliance-expert` | Cloud Compliance Expert — AWS Well-Architected, Azure CAF, GCP Best Practices |
+| `/infra:cost-optimizer` | Cloud Cost Optimizer — AWS Well-Architected, Azure CAF, GCP Best Practices |
+| `/infra:gcp-architect` | Gcp Architect — AWS Well-Architected, Azure CAF, GCP Best Practices |
+| `/infra:homelab` | Expert in homelab and network engineering for self-hosted infrastructure. Use when configuring network equipment, setting up VLANs, managing Docker/Proxmox environments, or troubleshooting home network issues. |
+| `/infra:migration-specialist` | Migration Specialist — AWS Well-Architected, Azure CAF, GCP Best Practices |
+| `/infra:monitoring-architect` | Cloud Monitoring Architect — AWS Well-Architected, Azure CAF, GCP Best Practices |
+| `/infra:multi-cloud-architect` | Multi Cloud Architect — AWS Well-Architected, Azure CAF, GCP Best Practices |
+| `/infra:networking-specialist` | Cloud Networking Specialist — AWS Well-Architected, Azure CAF, GCP Best Practices |
+| `/infra:premium` | Cloud Premium — premium cloud services, enterprise architecture |
+| `/infra:security-architect` | Cloud Security Architect — AWS Well-Architected, Azure CAF, GCP Best Practices |
+| `/infra:serverless-architect` | Serverless Architect — AWS Well-Architected, Azure CAF, GCP Best Practices |
+| `/infra:solutions-architect` | Solutions Architect — AWS Well-Architected, Azure CAF, GCP Best Practices |
+| `/infra:storage-expert` | Cloud Storage Expert — AWS Well-Architected, Azure CAF, GCP Best Practices |

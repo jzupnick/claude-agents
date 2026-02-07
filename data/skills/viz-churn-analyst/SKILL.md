@@ -1,6 +1,6 @@
 ---
 name: churn-analyst
-description: Churn Analyst
+description: Churn Analyst — AARRR, Analytics Maturity Model, Data Visualization
 ---
 
 # Churn Analyst

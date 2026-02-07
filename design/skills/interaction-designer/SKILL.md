@@ -1,6 +1,6 @@
 ---
 name: interaction-designer
-description: Interaction Designer
+description: Interaction Designer — Design Thinking, Double Diamond, Atomic Design
 ---
 
 # Interaction Designer

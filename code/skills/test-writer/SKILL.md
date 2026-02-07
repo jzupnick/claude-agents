@@ -1,6 +1,6 @@
 ---
 name: test-writer
-description: Test Writer
+description: Test Writer — unit tests, integration tests, mocks
 ---
 
 # Test Writer

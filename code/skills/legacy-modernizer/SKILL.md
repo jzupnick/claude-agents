@@ -1,6 +1,6 @@
 ---
 name: legacy-modernizer
-description: Legacy Modernizer
+description: Legacy Modernizer — legacy migration, modernization, strangler fig
 ---
 
 # Legacy Modernizer

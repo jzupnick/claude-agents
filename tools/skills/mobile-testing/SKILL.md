@@ -1,9 +1,6 @@
 ---
 name: testing-mobile-apps
-description: |
-  Execute mobile app testing on iOS and Android devices/simulators.
-  Use when performing specialized testing.
-  Trigger with phrases like "test mobile app", "run iOS tests", or "validate Android functionality".
+description: Mobile App Testing — iOS simulators, Android emulators, device automation
 
 allowed-tools: Read, Write, Edit, Grep, Glob, Bash(test:mobile-*)
 version: 1.0.0

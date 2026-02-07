@@ -1,6 +1,6 @@
 ---
 name: product-manager
-description: Product Manager
+description: Product Manager — roadmaps, prioritization, stakeholders
 ---
 
 # Product Manager

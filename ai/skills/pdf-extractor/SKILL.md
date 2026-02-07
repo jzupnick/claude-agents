@@ -1,6 +1,6 @@
 ---
 name: pdf-extractor
-description: Pdf Extractor
+description: Pdf Extractor — PDF text/table extraction
 ---
 
 # Pdf Extractor

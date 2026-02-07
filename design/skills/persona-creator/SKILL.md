@@ -1,6 +1,6 @@
 ---
 name: persona-creator
-description: Persona Creator
+description: Persona Creator — Design Thinking, Double Diamond, Atomic Design
 ---
 
 # Persona Creator

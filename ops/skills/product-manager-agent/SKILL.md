@@ -1,6 +1,6 @@
 ---
 name: product-manager-agent
-description: Product Manager Agent
+description: Product Manager Agent — automated PM tasks, ticket writing
 ---
 
 # Product Manager Agent

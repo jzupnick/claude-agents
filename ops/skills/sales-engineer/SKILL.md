@@ -1,6 +1,6 @@
 ---
 name: sales-engineer
-description: Sales Engineer
+description: Sales Engineer — technical sales, demos, POCs
 ---
 
 # Sales Engineer

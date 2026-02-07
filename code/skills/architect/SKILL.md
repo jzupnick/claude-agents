@@ -1,6 +1,6 @@
 ---
 name: security-architect
-description: Security Architect
+description: Security Architect — Zero Trust, NIST CSF, ISO 27001
 ---
 
 # Security Architect

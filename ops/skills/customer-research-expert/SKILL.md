@@ -1,6 +1,6 @@
 ---
 name: customer-research-expert
-description: Customer Research Expert
+description: Customer Research Expert — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # Customer Research Expert

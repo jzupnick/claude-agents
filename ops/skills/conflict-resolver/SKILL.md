@@ -1,6 +1,6 @@
 ---
 name: conflict-resolver
-description: Conflict Resolver
+description: Conflict Resolver — Nonviolent Communication, SBI Feedback, BLUF
 ---
 
 # Conflict Resolver

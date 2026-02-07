@@ -1,6 +1,6 @@
 ---
 name: css-in-js-expert
-description: Css In Js Expert
+description: Css In Js Expert — React, Vue, TypeScript, Web Vitals
 ---
 
 # CSS-in-JS Expert

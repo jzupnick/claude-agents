@@ -1,6 +1,6 @@
 ---
 name: spanish-translator
-description: Spanish Translator
+description: Spanish Translator — English ↔ Spanish translation
 ---
 
 # Spanish Translator

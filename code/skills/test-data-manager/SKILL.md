@@ -1,6 +1,6 @@
 ---
 name: test-data-manager
-description: Test Data Manager
+description: Test Data Manager — Test Pyramid, Testing Trophy, BDD/TDD
 ---
 
 # Test Data Manager

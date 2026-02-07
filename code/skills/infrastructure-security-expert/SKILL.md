@@ -1,6 +1,6 @@
 ---
 name: infrastructure-security-expert
-description: Infrastructure Security Expert
+description: Infrastructure Security Expert — Kubernetes, Terraform, GitOps
 ---
 
 # Infrastructure Security Expert

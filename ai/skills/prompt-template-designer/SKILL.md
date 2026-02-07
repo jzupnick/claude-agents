@@ -1,6 +1,6 @@
 ---
 name: ai-prompt-template-designer
-description: Ai Prompt Template Designer
+description: Ai Prompt Template Designer — LangChain, LlamaIndex, AutoGen, CrewAI
 ---
 
 # AI Prompt Template Designer

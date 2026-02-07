@@ -1,6 +1,6 @@
 ---
 name: blockchain-developer
-description: Blockchain Developer
+description: Blockchain Developer — smart contracts, Web3, Solidity, DeFi
 ---
 
 # Blockchain Developer

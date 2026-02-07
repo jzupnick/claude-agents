@@ -1,6 +1,6 @@
 ---
 name: multi-agent-coordinator
-description: Multi Agent Coordinator
+description: Multi Agent Coordinator — multi-agent orchestration, workflows
 ---
 
 # Multi Agent Coordinator

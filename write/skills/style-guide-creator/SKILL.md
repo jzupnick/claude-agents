@@ -1,6 +1,6 @@
 ---
 name: style-guide-creator
-description: Style Guide Creator
+description: Style Guide Creator — Diátaxis, Read the Docs, OpenAPI
 ---
 
 # Style Guide Creator

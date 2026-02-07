@@ -1,6 +1,6 @@
 ---
 name: funnel-analyst
-description: Funnel Analyst
+description: Funnel Analyst — AARRR, Analytics Maturity Model, Data Visualization
 ---
 
 # Funnel Analyst

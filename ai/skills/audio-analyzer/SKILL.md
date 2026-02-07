@@ -1,6 +1,6 @@
 ---
 name: audio-analyzer
-description: Audio Analyzer
+description: Audio Analyzer — audio transcription, speech analysis
 ---
 
 # Audio Analyzer

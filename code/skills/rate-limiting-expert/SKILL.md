@@ -1,6 +1,6 @@
 ---
 name: rate-limiting-expert
-description: Rate Limiting Expert
+description: Rate Limiting Expert — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # Rate Limiting Expert

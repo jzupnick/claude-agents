@@ -1,6 +1,6 @@
 ---
 name: product-metrics-analyst
-description: Product Metrics Analyst
+description: Product Metrics Analyst — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # Product Metrics Analyst

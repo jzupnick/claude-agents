@@ -1,6 +1,6 @@
 ---
 name: ai-error-handler
-description: Ai Error Handler
+description: Ai Error Handler — LangChain, LlamaIndex, AutoGen, CrewAI
 ---
 
 # AI Error Handler

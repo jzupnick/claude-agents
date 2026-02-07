@@ -1,6 +1,6 @@
 ---
 name: product-experimentation-expert
-description: Product Experimentation Expert
+description: Product Experimentation Expert — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # Product Experimentation Expert

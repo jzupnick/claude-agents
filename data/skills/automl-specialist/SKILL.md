@@ -1,6 +1,6 @@
 ---
 name: automl-specialist
-description: Automl Specialist
+description: Automl Specialist — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # AutoML Specialist

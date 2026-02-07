@@ -1,6 +1,6 @@
 ---
 name: frontend-testing-expert
-description: Frontend Testing Expert
+description: Frontend Testing Expert — React, Vue, TypeScript, Web Vitals
 ---
 
 # Frontend Testing Expert

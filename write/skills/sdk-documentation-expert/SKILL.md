@@ -1,6 +1,6 @@
 ---
 name: sdk-documentation-expert
-description: Sdk Documentation Expert
+description: Sdk Documentation Expert — Diátaxis, Read the Docs, OpenAPI
 ---
 
 # SDK Documentation Expert

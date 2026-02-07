@@ -1,6 +1,6 @@
 ---
 name: database-replication-architect
-description: Database Replication Architect
+description: Database Replication Architect — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # Database Replication Architect

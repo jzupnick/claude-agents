@@ -1,6 +1,6 @@
 ---
 name: strategy-consultant
-description: Strategy Consultant
+description: Strategy Consultant — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
 ---
 
 # Strategy Consultant

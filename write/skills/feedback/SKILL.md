@@ -1,6 +1,6 @@
 ---
 name: feedback-giver
-description: Feedback Giver
+description: Feedback Giver — constructive feedback, reviews, critiques
 ---
 
 # Feedback Giver

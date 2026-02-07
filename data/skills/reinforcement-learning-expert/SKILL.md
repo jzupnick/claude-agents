@@ -1,6 +1,6 @@
 ---
 name: reinforcement-learning-expert
-description: Reinforcement Learning Expert
+description: Reinforcement Learning Expert — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # Reinforcement Learning Expert

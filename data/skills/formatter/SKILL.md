@@ -1,6 +1,6 @@
 ---
 name: data-formatter
-description: Data Formatter
+description: Data Formatter — data cleaning, normalization, transforms
 ---
 
 # Data Formatter

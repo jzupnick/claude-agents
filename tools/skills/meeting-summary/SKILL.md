@@ -1,6 +1,6 @@
 ---
 name: meeting-summarizer
-description: Meeting Summarizer
+description: Meeting Summarizer — meeting notes, summaries, key decisions
 ---
 
 # Meeting Summarizer

@@ -1,6 +1,6 @@
 ---
 name: readme-writer
-description: Readme Writer
+description: Readme Writer — Diátaxis, Read the Docs, OpenAPI
 ---
 
 # README Writer

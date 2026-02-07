@@ -1,6 +1,6 @@
 ---
 name: docker-specialist
-description: Docker Specialist
+description: Docker Specialist — Kubernetes, Terraform, GitOps
 ---
 
 # Docker Specialist

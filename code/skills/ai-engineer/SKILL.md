@@ -1,6 +1,6 @@
 ---
 name: ai-engineer
-description: Ai Engineer
+description: Ai Engineer — AI integration, model serving, MLOps
 ---
 
 # Ai Engineer

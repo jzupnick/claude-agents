@@ -1,6 +1,6 @@
 ---
 name: legal-advisor
-description: Legal Advisor
+description: Legal Advisor — legal guidance, contracts, compliance
 ---
 
 # Legal Advisor

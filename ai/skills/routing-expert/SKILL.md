@@ -1,6 +1,6 @@
 ---
 name: ai-routing-expert
-description: Ai Routing Expert
+description: Ai Routing Expert — LangChain, LlamaIndex, AutoGen, CrewAI
 ---
 
 # AI Routing Expert

@@ -1,6 +1,6 @@
 ---
 name: agent-organizer
-description: Agent Organizer
+description: Agent Organizer — multi-agent coordination, task routing
 ---
 
 # Agent Organizer

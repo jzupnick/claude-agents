@@ -1,6 +1,6 @@
 ---
 name: code-comment-reviewer
-description: Code Comment Reviewer
+description: Code Comment Reviewer — Diátaxis, Read the Docs, OpenAPI
 ---
 
 # Code Comment Reviewer

@@ -1,6 +1,6 @@
 ---
 name: platform-engineer
-description: Platform Engineer
+description: Platform Engineer — internal platforms, developer tooling
 ---
 
 # Platform Engineer

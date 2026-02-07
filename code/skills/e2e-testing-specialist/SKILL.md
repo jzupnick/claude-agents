@@ -1,6 +1,6 @@
 ---
 name: e2e-testing-specialist
-description: E2E Testing Specialist
+description: E2E Testing Specialist — Test Pyramid, Testing Trophy, BDD/TDD
 ---
 
 # E2E Testing Specialist

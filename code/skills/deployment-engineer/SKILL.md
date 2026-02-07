@@ -1,6 +1,6 @@
 ---
 name: deployment-engineer
-description: Deployment Engineer
+description: Deployment Engineer — deployment strategies, blue-green, canary
 ---
 
 # Deployment Engineer

@@ -1,6 +1,6 @@
 ---
 name: authentication-architect
-description: Authentication Architect
+description: Authentication Architect — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # Authentication Architect

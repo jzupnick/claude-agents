@@ -1,6 +1,6 @@
 ---
 name: ai-cost-optimizer
-description: Ai Cost Optimizer
+description: Ai Cost Optimizer — LangChain, LlamaIndex, AutoGen, CrewAI
 ---
 
 # AI Cost Optimizer

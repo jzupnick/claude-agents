@@ -1,6 +1,6 @@
 ---
 name: qa-automation-expert
-description: Qa Automation Expert
+description: Qa Automation Expert — Test Pyramid, Testing Trophy, BDD/TDD
 ---
 
 # QA Automation Expert

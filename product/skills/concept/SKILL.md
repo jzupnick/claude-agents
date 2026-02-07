@@ -1,6 +1,6 @@
 ---
 name: concept-developer
-description: Concept Developer
+description: Concept Developer — concept development, validation, MVPs
 ---
 
 # Concept Developer

@@ -1,6 +1,6 @@
 ---
 name: orm-expert
-description: Orm Expert
+description: Orm Expert — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # ORM Expert

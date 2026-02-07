@@ -1,6 +1,6 @@
 ---
 name: micro-frontend-architect
-description: Micro Frontend Architect
+description: Micro Frontend Architect — React, Vue, TypeScript, Web Vitals
 ---
 
 # Micro Frontend Architect

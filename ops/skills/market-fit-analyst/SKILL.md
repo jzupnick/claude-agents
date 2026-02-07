@@ -1,6 +1,6 @@
 ---
 name: product-market-fit-analyst
-description: Product Market Fit Analyst
+description: Product Market Fit Analyst — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # Product-Market Fit Analyst

@@ -1,6 +1,6 @@
 ---
 name: cloud-premium
-description: Cloud Premium
+description: Cloud Premium — premium cloud services, enterprise architecture
 ---
 
 # Cloud Premium

@@ -1,6 +1,6 @@
 ---
 name: frontend-security-expert
-description: Frontend Security Expert
+description: Frontend Security Expert — React, Vue, TypeScript, Web Vitals
 ---
 
 # Frontend Security Expert

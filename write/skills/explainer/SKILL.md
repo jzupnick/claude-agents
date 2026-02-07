@@ -1,6 +1,6 @@
 ---
 name: explainer
-description: Explainer
+description: Explainer — clear explanations, simplify complex topics
 ---
 
 # Explainer

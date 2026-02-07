@@ -1,6 +1,6 @@
 ---
 name: state-management-architect
-description: State Management Architect
+description: State Management Architect — React, Vue, TypeScript, Web Vitals
 ---
 
 # State Management Architect

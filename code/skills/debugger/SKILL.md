@@ -1,6 +1,6 @@
 ---
 name: debugger
-description: Debugger
+description: Debugger — debugging, breakpoints, trace analysis
 ---
 
 # Debugger

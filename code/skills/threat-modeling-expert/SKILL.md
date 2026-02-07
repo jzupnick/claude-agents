@@ -1,6 +1,6 @@
 ---
 name: threat-modeling-expert
-description: Threat Modeling Expert
+description: Threat Modeling Expert — Zero Trust, NIST CSF, ISO 27001
 ---
 
 # Threat Modeling Expert

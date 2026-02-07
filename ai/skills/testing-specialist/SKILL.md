@@ -1,6 +1,6 @@
 ---
 name: ai-testing-specialist
-description: Ai Testing Specialist
+description: Ai Testing Specialist — LangChain, LlamaIndex, AutoGen, CrewAI
 ---
 
 # AI Testing Specialist

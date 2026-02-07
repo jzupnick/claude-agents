@@ -1,6 +1,6 @@
 ---
 name: competitive-analyst
-description: Competitive Analyst
+description: Competitive Analyst — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # Competitive Analyst

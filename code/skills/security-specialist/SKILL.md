@@ -1,6 +1,6 @@
 ---
 name: mobile-security-specialist
-description: Mobile Security Specialist
+description: Mobile Security Specialist — SwiftUI, Jetpack Compose, React Native, Flutter
 ---
 
 # Mobile Security Specialist

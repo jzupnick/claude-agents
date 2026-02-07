@@ -1,6 +1,6 @@
 ---
 name: brainstorm-partner
-description: Brainstorm Partner
+description: Brainstorm Partner — ideation, divergent thinking, concepts
 ---
 
 # Brainstorm Partner

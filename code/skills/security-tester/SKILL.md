@@ -1,6 +1,6 @@
 ---
 name: security-tester
-description: Security Tester
+description: Security Tester — Test Pyramid, Testing Trophy, BDD/TDD
 ---
 
 # Security Tester

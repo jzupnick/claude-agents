@@ -1,6 +1,6 @@
 ---
 name: grpc-specialist
-description: Grpc Specialist
+description: Grpc Specialist — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # gRPC Specialist

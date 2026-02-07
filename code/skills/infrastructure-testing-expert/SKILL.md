@@ -1,6 +1,6 @@
 ---
 name: infrastructure-testing-expert
-description: Infrastructure Testing Expert
+description: Infrastructure Testing Expert — Kubernetes, Terraform, GitOps
 ---
 
 # Infrastructure Testing Expert

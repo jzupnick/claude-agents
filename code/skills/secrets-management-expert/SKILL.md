@@ -1,6 +1,6 @@
 ---
 name: secrets-management-expert
-description: Secrets Management Expert
+description: Secrets Management Expert — Kubernetes, Terraform, GitOps
 ---
 
 # Secrets Management Expert

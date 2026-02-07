@@ -1,6 +1,6 @@
 ---
 name: feature-spec
-description: Feature Spec
+description: Feature Spec — feature specs, requirements, acceptance criteria
 ---
 
 # Feature Spec

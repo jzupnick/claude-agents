@@ -1,6 +1,6 @@
 ---
 name: security-auditor
-description: Security Auditor
+description: Security Auditor — Zero Trust, NIST CSF, ISO 27001
 ---
 
 # Security Auditor

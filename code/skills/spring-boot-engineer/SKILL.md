@@ -1,6 +1,6 @@
 ---
 name: spring-boot-engineer
-description: Spring Boot Engineer
+description: Spring Boot Engineer — Spring Boot, Java, microservices
 ---
 
 # Spring Boot Engineer

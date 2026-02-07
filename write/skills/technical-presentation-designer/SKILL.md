@@ -1,6 +1,6 @@
 ---
 name: technical-presentation-designer
-description: Technical Presentation Designer
+description: Technical Presentation Designer — Diátaxis, Read the Docs, OpenAPI
 ---
 
 # Technical Presentation Designer

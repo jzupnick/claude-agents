@@ -1,6 +1,6 @@
 ---
 name: frontend-router-designer
-description: Frontend Router Designer
+description: Frontend Router Designer — React, Vue, TypeScript, Web Vitals
 ---
 
 # Frontend Router Designer

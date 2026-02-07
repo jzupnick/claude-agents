@@ -1,6 +1,6 @@
 ---
 name: business-model-designer
-description: Business Model Designer
+description: Business Model Designer — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
 ---
 
 # Business Model Designer

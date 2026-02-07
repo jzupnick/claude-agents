@@ -1,6 +1,6 @@
 ---
 name: embedded-systems
-description: Embedded Systems
+description: Embedded Systems — firmware, RTOS, C, hardware interfaces
 ---
 
 # Embedded Systems

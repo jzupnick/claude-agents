@@ -1,6 +1,6 @@
 ---
 name: document-scanner
-description: Document Scanner
+description: Document Scanner — OCR, document extraction, parsing
 ---
 
 # Document Scanner

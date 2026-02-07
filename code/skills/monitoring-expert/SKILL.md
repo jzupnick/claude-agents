@@ -1,6 +1,6 @@
 ---
 name: backend-monitoring-expert
-description: Backend Monitoring Expert
+description: Backend Monitoring Expert — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # Backend Monitoring Expert

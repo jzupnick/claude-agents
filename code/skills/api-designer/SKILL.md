@@ -1,6 +1,6 @@
 ---
 name: api-designer
-description: Api Designer
+description: Api Designer — API contracts, OpenAPI, schema design
 ---
 
 # Api Designer

@@ -1,6 +1,6 @@
 ---
 name: manufacturing-planner
-description: Manufacturing Planner
+description: Manufacturing Planner — manufacturing plans, BOM, scheduling
 ---
 
 # Manufacturing Planner

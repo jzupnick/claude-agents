@@ -1,6 +1,6 @@
 ---
 name: feedback-provider
-description: Feedback Provider
+description: Feedback Provider — Nonviolent Communication, SBI Feedback, BLUF
 ---
 
 # Feedback Provider

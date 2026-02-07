@@ -1,6 +1,6 @@
 ---
 name: postgres-pro
-description: Postgres Pro
+description: Postgres Pro — PostgreSQL, indexing, JSONB, extensions
 ---
 
 # Postgres Pro

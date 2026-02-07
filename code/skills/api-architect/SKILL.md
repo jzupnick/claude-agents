@@ -1,6 +1,6 @@
 ---
 name: api-architect
-description: Api Architect
+description: Api Architect — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # API Architect

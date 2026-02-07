@@ -1,6 +1,6 @@
 ---
 name: ux-researcher
-description: Ux Researcher
+description: Ux Researcher — Design Thinking, Double Diamond, Atomic Design
 ---
 
 # UX Researcher

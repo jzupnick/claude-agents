@@ -1,6 +1,6 @@
 ---
 name: migration-specialist
-description: Migration Specialist
+description: Migration Specialist — AWS Well-Architected, Azure CAF, GCP Best Practices
 ---
 
 # Migration Specialist

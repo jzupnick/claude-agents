@@ -1,6 +1,6 @@
 ---
 name: causal-inference-analyst
-description: Causal Inference Analyst
+description: Causal Inference Analyst — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # Causal Inference Analyst

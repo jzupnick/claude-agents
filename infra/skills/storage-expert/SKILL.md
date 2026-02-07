@@ -1,6 +1,6 @@
 ---
 name: cloud-storage-expert
-description: Cloud Storage Expert
+description: Cloud Storage Expert — AWS Well-Architected, Azure CAF, GCP Best Practices
 ---
 
 # Cloud Storage Expert

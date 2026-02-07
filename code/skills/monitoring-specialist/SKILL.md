@@ -1,6 +1,6 @@
 ---
 name: frontend-monitoring-specialist
-description: Frontend Monitoring Specialist
+description: Frontend Monitoring Specialist — React, Vue, TypeScript, Web Vitals
 ---
 
 # Frontend Monitoring Specialist

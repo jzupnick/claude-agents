@@ -1,6 +1,6 @@
 ---
 name: language-translator
-description: Language Translator
+description: Language Translator — multi-language translation
 ---
 
 # Language Translator

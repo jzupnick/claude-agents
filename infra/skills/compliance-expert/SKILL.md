@@ -1,6 +1,6 @@
 ---
 name: cloud-compliance-expert
-description: Cloud Compliance Expert
+description: Cloud Compliance Expert — AWS Well-Architected, Azure CAF, GCP Best Practices
 ---
 
 # Cloud Compliance Expert

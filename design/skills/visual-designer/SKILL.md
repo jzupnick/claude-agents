@@ -1,6 +1,6 @@
 ---
 name: visual-designer
-description: Visual Designer
+description: Visual Designer — Design Thinking, Double Diamond, Atomic Design
 ---
 
 # Visual Designer

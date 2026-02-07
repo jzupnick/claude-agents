@@ -1,6 +1,6 @@
 ---
 name: java-architect
-description: Java Architect
+description: Java Architect — Java, JVM, Spring, Maven/Gradle
 ---
 
 # Java Architect

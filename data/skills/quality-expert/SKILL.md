@@ -1,6 +1,6 @@
 ---
 name: data-quality-expert
-description: Data Quality Expert
+description: Data Quality Expert — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # Data Quality Expert

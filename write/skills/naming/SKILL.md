@@ -1,6 +1,6 @@
 ---
 name: name-generator
-description: Name Generator
+description: Name Generator — naming, brand names, product names
 ---
 
 # Name Generator

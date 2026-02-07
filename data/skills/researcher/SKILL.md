@@ -1,6 +1,6 @@
 ---
 name: data-researcher
-description: Data Researcher
+description: Data Researcher — data research, sourcing, validation
 ---
 
 # Data Researcher

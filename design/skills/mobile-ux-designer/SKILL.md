@@ -1,6 +1,6 @@
 ---
 name: mobile-ux-designer
-description: Mobile Ux Designer
+description: Mobile Ux Designer — Design Thinking, Double Diamond, Atomic Design
 ---
 
 # Mobile UX Designer

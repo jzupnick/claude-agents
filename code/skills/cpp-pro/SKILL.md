@@ -1,6 +1,6 @@
 ---
 name: cpp-pro
-description: Cpp Pro
+description: Cpp Pro — C++, STL, memory management, templates
 ---
 
 # Cpp Pro

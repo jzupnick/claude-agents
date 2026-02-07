@@ -1,6 +1,6 @@
 ---
 name: mobile-app-developer
-description: Mobile App Developer
+description: Mobile App Developer — iOS, Android, cross-platform apps
 ---
 
 # Mobile App Developer

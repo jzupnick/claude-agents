@@ -1,6 +1,6 @@
 ---
 name: react-specialist
-description: React Specialist
+description: React Specialist — React, hooks, JSX, state management
 ---
 
 # React Specialist

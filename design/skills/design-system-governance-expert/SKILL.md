@@ -1,6 +1,6 @@
 ---
 name: design-system-governance-expert
-description: Design System Governance Expert
+description: Design System Governance Expert — Design Thinking, Double Diamond, Atomic Design
 ---
 
 # Design System Governance Expert

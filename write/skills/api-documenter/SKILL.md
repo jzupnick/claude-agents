@@ -1,6 +1,6 @@
 ---
 name: api-documenter
-description: Api Documenter
+description: Api Documenter — Diátaxis, Read the Docs, OpenAPI
 ---
 
 # API Documenter

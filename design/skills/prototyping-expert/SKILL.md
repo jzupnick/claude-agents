@@ -1,6 +1,6 @@
 ---
 name: prototyping-expert
-description: Prototyping Expert
+description: Prototyping Expert — Design Thinking, Double Diamond, Atomic Design
 ---
 
 # Prototyping Expert

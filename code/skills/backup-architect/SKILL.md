@@ -1,6 +1,6 @@
 ---
 name: backup-architect
-description: Backup Architect
+description: Backup Architect — Kubernetes, Terraform, GitOps
 ---
 
 # Backup Architect

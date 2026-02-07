@@ -1,6 +1,6 @@
 ---
 name: content-marketer
-description: Content Marketer
+description: Content Marketer — marketing copy, campaigns, funnels
 ---
 
 # Content Marketer

@@ -1,6 +1,6 @@
 ---
 name: nlp-specialist
-description: Nlp Specialist
+description: Nlp Specialist — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # NLP Specialist

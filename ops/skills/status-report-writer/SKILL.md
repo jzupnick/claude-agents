@@ -1,6 +1,6 @@
 ---
 name: status-report-writer
-description: Status Report Writer
+description: Status Report Writer — Nonviolent Communication, SBI Feedback, BLUF
 ---
 
 # Status Report Writer

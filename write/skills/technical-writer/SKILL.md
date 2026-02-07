@@ -1,6 +1,6 @@
 ---
 name: technical-writer
-description: Technical Writer
+description: Technical Writer — technical writing, API docs, guides
 ---
 
 # Technical Writer

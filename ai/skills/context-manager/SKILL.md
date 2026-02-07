@@ -1,6 +1,6 @@
 ---
 name: ai-context-manager
-description: Ai Context Manager
+description: Ai Context Manager — LangChain, LlamaIndex, AutoGen, CrewAI
 ---
 
 # AI Context Manager

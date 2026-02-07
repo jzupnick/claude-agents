@@ -1,6 +1,6 @@
 ---
 name: assistant
-description: Assistant
+description: General Assistant — broad knowledge, multi-domain support
 ---
 
 # Assistant

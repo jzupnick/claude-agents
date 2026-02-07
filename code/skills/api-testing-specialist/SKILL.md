@@ -1,6 +1,6 @@
 ---
 name: api-testing-specialist
-description: Api Testing Specialist
+description: Api Testing Specialist — Test Pyramid, Testing Trophy, BDD/TDD
 ---
 
 # API Testing Specialist

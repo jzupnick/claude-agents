@@ -1,6 +1,6 @@
 ---
 name: iot-engineer
-description: Iot Engineer
+description: Iot Engineer — IoT protocols, MQTT, edge computing, sensors
 ---
 
 # Iot Engineer

@@ -1,6 +1,6 @@
 ---
 name: german-translator
-description: German Translator
+description: German Translator — English ↔ German translation
 ---
 
 # German Translator

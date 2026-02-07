@@ -1,6 +1,6 @@
 ---
 name: financial-analyst
-description: Financial Analyst
+description: Financial Analyst — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
 ---
 
 # Financial Analyst

@@ -1,6 +1,6 @@
 ---
 name: code-reviewer-agent
-description: Code Reviewer Agent
+description: Code Reviewer Agent — code review, best practices, PR feedback
 ---
 
 # Code Reviewer Agent

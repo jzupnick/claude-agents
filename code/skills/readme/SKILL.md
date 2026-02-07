@@ -1,6 +1,6 @@
 ---
 name: readme-generator
-description: Readme Generator
+description: README Generator — templates, badges, project docs
 ---
 
 # Readme Generator

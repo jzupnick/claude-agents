@@ -1,6 +1,6 @@
 ---
 name: push-notification-expert
-description: Push Notification Expert
+description: Push Notification Expert — SwiftUI, Jetpack Compose, React Native, Flutter
 ---
 
 # Push Notification Expert

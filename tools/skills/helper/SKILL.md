@@ -1,6 +1,6 @@
 ---
 name: helper
-description: Helper
+description: Helper — general assistance, misc tasks
 ---
 
 # Helper

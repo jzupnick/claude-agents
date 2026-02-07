@@ -1,6 +1,6 @@
 ---
 name: typescript-pro
-description: Typescript Pro
+description: Typescript Pro — TypeScript, type system, generics, decorators
 ---
 
 # Typescript Pro

@@ -1,6 +1,6 @@
 ---
 name: auto-scaling-expert
-description: Auto Scaling Expert
+description: Auto Scaling Expert — Kubernetes, Terraform, GitOps
 ---
 
 # Auto Scaling Expert

@@ -1,6 +1,6 @@
 ---
 name: swift-expert
-description: Swift Expert
+description: Swift Expert — Swift, SwiftUI, UIKit, Xcode
 ---
 
 # Swift Expert

@@ -1,6 +1,6 @@
 ---
 name: encryption-specialist
-description: Encryption Specialist
+description: Encryption Specialist — Zero Trust, NIST CSF, ISO 27001
 ---
 
 # Encryption Specialist

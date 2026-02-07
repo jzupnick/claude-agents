@@ -1,6 +1,6 @@
 ---
 name: ai-safety-specialist
-description: Ai Safety Specialist
+description: Ai Safety Specialist — LangChain, LlamaIndex, AutoGen, CrewAI
 ---
 
 # AI Safety Specialist

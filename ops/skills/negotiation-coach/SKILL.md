@@ -1,6 +1,6 @@
 ---
 name: negotiation-coach
-description: Negotiation Coach
+description: Negotiation Coach — Nonviolent Communication, SBI Feedback, BLUF
 ---
 
 # Negotiation Coach

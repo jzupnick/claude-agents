@@ -1,6 +1,6 @@
 ---
 name: seo-specialist
-description: Seo Specialist
+description: Seo Specialist — React, Vue, TypeScript, Web Vitals
 ---
 
 # SEO Specialist

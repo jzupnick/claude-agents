@@ -1,6 +1,6 @@
 ---
 name: data-privacy-expert
-description: Data Privacy Expert
+description: Data Privacy Expert — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # Data Privacy Expert

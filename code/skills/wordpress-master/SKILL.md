@@ -1,6 +1,6 @@
 ---
 name: wordpress-master
-description: Wordpress Master
+description: Wordpress Master — WordPress, themes, plugins, WP-CLI
 ---
 
 # Wordpress Master

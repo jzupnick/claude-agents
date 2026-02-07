@@ -1,6 +1,6 @@
 ---
 name: build-tool-expert
-description: Build Tool Expert
+description: Build Tool Expert — React, Vue, TypeScript, Web Vitals
 ---
 
 # Build Tool Expert

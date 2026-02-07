@@ -1,6 +1,6 @@
 ---
 name: pwa-developer
-description: Pwa Developer
+description: Pwa Developer — React, Vue, TypeScript, Web Vitals
 ---
 
 # PWA Developer

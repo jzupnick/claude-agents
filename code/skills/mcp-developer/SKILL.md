@@ -1,6 +1,6 @@
 ---
 name: mcp-developer
-description: Mcp Developer
+description: Mcp Developer — Model Context Protocol, tool servers
 ---
 
 # Mcp Developer

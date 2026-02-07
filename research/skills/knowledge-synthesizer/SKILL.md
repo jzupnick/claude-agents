@@ -1,6 +1,6 @@
 ---
 name: knowledge-synthesizer
-description: Knowledge Synthesizer
+description: Knowledge Synthesizer — knowledge synthesis, summaries
 ---
 
 # Knowledge Synthesizer

@@ -1,6 +1,6 @@
 ---
 name: wireframe-designer
-description: Wireframe Designer
+description: Wireframe Designer — Design Thinking, Double Diamond, Atomic Design
 ---
 
 # Wireframe Designer

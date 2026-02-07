@@ -1,6 +1,6 @@
 ---
 name: data-visualization-expert
-description: Data Visualization Expert
+description: Data Visualization Expert — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # Data Visualization Expert

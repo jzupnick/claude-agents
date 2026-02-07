@@ -1,6 +1,6 @@
 ---
 name: identity-access-expert
-description: Identity Access Expert
+description: Identity Access Expert — Zero Trust, NIST CSF, ISO 27001
 ---
 
 # Identity & Access Expert

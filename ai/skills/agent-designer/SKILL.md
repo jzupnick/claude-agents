@@ -1,6 +1,6 @@
 ---
 name: agent-designer
-description: Agent Designer
+description: Agent Designer — LangChain, LlamaIndex, AutoGen, CrewAI
 ---
 
 # Agent Designer

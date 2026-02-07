@@ -1,6 +1,6 @@
 ---
 name: django-developer
-description: Django Developer
+description: Django Developer — Django, ORM, REST framework
 ---
 
 # Django Developer

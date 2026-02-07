@@ -1,6 +1,6 @@
 ---
 name: infrastructure-compliance-expert
-description: Infrastructure Compliance Expert
+description: Infrastructure Compliance Expert — Kubernetes, Terraform, GitOps
 ---
 
 # Infrastructure Compliance Expert

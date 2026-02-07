@@ -1,6 +1,6 @@
 ---
 name: compliance-advisor
-description: Compliance Advisor
+description: Compliance Advisor — Zero Trust, NIST CSF, ISO 27001
 ---
 
 # Compliance Advisor

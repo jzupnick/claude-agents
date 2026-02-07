@@ -1,6 +1,6 @@
 ---
 name: stakeholder-communicator
-description: Stakeholder Communicator
+description: Stakeholder Communicator — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # Stakeholder Communicator

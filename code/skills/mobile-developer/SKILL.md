@@ -1,6 +1,6 @@
 ---
 name: mobile-developer
-description: Mobile Developer
+description: Mobile Developer — iOS, Android, React Native, Flutter
 ---
 
 # Mobile Developer

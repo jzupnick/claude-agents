@@ -1,6 +1,6 @@
 ---
 name: powershell-7-expert
-description: Powershell 7 Expert
+description: Powershell 7 Expert — PowerShell 7, cross-platform scripting
 ---
 
 # Powershell 7 Expert

@@ -1,6 +1,6 @@
 ---
 name: email-writer
-description: Email Writer
+description: Email Writer — Nonviolent Communication, SBI Feedback, BLUF
 ---
 
 # Email Writer

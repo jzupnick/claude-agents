@@ -1,6 +1,6 @@
 ---
 name: team-communication-optimizer
-description: Team Communication Optimizer
+description: Team Communication Optimizer — Nonviolent Communication, SBI Feedback, BLUF
 ---
 
 # Team Communication Optimizer

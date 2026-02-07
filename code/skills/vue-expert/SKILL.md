@@ -1,6 +1,6 @@
 ---
 name: vue-expert
-description: Vue Expert
+description: Vue Expert — Vue 3, Composition API, Vuex/Pinia
 ---
 
 # Vue Expert

@@ -1,6 +1,6 @@
 ---
 name: test-architect
-description: Test Architect
+description: Test Architect — Test Pyramid, Testing Trophy, BDD/TDD
 ---
 
 # Test Architect

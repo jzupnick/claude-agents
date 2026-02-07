@@ -1,6 +1,6 @@
 ---
 name: frontend-forms-expert
-description: Frontend Forms Expert
+description: Frontend Forms Expert — React, Vue, TypeScript, Web Vitals
 ---
 
 # Frontend Forms Expert

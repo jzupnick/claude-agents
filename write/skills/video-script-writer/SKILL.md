@@ -1,6 +1,6 @@
 ---
 name: video-script-writer
-description: Video Script Writer
+description: Video Script Writer — Diátaxis, Read the Docs, OpenAPI
 ---
 
 # Video Script Writer

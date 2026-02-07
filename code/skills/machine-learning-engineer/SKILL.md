@@ -1,6 +1,6 @@
 ---
 name: machine-learning-engineer
-description: Machine Learning Engineer
+description: Machine Learning Engineer — ML pipelines, scikit-learn, model training
 ---
 
 # Machine Learning Engineer

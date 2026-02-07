@@ -1,6 +1,6 @@
 ---
 name: azure-infra-engineer
-description: Azure Infra Engineer
+description: Azure Infra Engineer — Azure, ARM templates, Azure DevOps
 ---
 
 # Azure Infra Engineer

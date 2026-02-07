@@ -1,6 +1,6 @@
 ---
 name: release-notes-writer
-description: Release Notes Writer
+description: Release Notes Writer — Diátaxis, Read the Docs, OpenAPI
 ---
 
 # Release Notes Writer

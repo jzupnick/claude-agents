@@ -1,6 +1,6 @@
 ---
 name: forecast-modeler
-description: Forecast Modeler
+description: Forecast Modeler — forecasting, time series, predictions
 ---
 
 # Forecast Modeler

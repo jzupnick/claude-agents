@@ -1,6 +1,6 @@
 ---
 name: php-pro
-description: Php Pro
+description: Php Pro — PHP, Composer, PSR standards
 ---
 
 # Php Pro

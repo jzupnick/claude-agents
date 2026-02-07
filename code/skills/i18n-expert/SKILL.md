@@ -1,6 +1,6 @@
 ---
 name: frontend-i18n-expert
-description: Frontend I18N Expert
+description: Frontend I18N Expert — React, Vue, TypeScript, Web Vitals
 ---
 
 # Frontend i18n Expert

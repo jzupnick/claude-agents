@@ -1,6 +1,6 @@
 ---
 name: golang-pro
-description: Golang Pro
+description: Golang Pro — Go, goroutines, channels, stdlib
 ---
 
 # Golang Pro

@@ -1,6 +1,6 @@
 ---
 name: accessibility-specialist
-description: Accessibility Specialist
+description: Accessibility Specialist — React, Vue, TypeScript, Web Vitals
 ---
 
 # Accessibility Specialist

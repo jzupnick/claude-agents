@@ -1,6 +1,6 @@
 ---
 name: ios-architect
-description: Ios Architect
+description: Ios Architect — SwiftUI, Jetpack Compose, React Native, Flutter
 ---
 
 # iOS Architect

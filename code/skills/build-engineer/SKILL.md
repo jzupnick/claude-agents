@@ -1,6 +1,6 @@
 ---
 name: build-engineer
-description: Build Engineer
+description: Build Engineer — build systems, CI pipelines, artifacts
 ---
 
 # Build Engineer

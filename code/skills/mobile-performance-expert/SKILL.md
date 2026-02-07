@@ -1,6 +1,6 @@
 ---
 name: mobile-performance-expert
-description: Mobile Performance Expert
+description: Mobile Performance Expert — SwiftUI, Jetpack Compose, React Native, Flutter
 ---
 
 # Mobile Performance Expert

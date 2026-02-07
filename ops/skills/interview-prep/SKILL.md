@@ -1,6 +1,6 @@
 ---
 name: interview-prepper
-description: Interview Prepper
+description: Interview Prepper — interview prep, mock interviews, STAR method
 ---
 
 # Interview Prepper

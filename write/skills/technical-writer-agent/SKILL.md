@@ -1,6 +1,6 @@
 ---
 name: technical-writer-agent
-description: Technical Writer Agent
+description: Technical Writer Agent — automated technical documentation
 ---
 
 # Technical Writer Agent

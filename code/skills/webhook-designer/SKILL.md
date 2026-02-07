@@ -1,6 +1,6 @@
 ---
 name: webhook-designer
-description: Webhook Designer
+description: Webhook Designer — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # Webhook Designer

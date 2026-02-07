@@ -1,6 +1,6 @@
 ---
 name: bug-fixer
-description: Bug Fixer
+description: Bug Fixer — debugging, root cause analysis, patches
 ---
 
 # Bug Fixer

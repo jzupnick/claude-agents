@@ -1,6 +1,6 @@
 ---
 name: investor-pitch
-description: Investor Pitch
+description: Investor Pitch — pitch decks, fundraising, VC narrative
 ---
 
 # Investor Pitch

@@ -1,6 +1,6 @@
 ---
 name: error-coordinator
-description: Error Coordinator
+description: Error Coordinator — error triage, coordination, resolution
 ---
 
 # Error Coordinator

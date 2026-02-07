@@ -1,6 +1,6 @@
 ---
 name: serverless-architect
-description: Serverless Architect
+description: Serverless Architect — AWS Well-Architected, Azure CAF, GCP Best Practices
 ---
 
 # Serverless Architect

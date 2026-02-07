@@ -1,6 +1,6 @@
 ---
 name: fact-checker
-description: Fact Checker
+description: Fact Checker — fact verification, source validation
 ---
 
 # Fact Checker

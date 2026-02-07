@@ -1,6 +1,6 @@
 ---
 name: revenue-analyst
-description: Revenue Analyst
+description: Revenue Analyst — AARRR, Analytics Maturity Model, Data Visualization
 ---
 
 # Revenue Analyst

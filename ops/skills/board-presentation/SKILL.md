@@ -1,6 +1,6 @@
 ---
 name: board-presentation
-description: Board Presentation
+description: Board Presentation — board decks, executive presentations
 ---
 
 # Board Presentation

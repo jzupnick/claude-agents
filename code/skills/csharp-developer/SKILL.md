@@ -1,6 +1,6 @@
 ---
 name: csharp-developer
-description: Csharp Developer
+description: Csharp Developer — C#, .NET, LINQ, async/await
 ---
 
 # Csharp Developer

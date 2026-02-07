@@ -1,6 +1,6 @@
 ---
 name: json-generator
-description: Json Generator
+description: JSON Generator — creation, validation, transformation
 ---
 
 # Json Generator

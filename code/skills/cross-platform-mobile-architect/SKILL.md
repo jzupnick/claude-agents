@@ -1,6 +1,6 @@
 ---
 name: cross-platform-mobile-architect
-description: Cross Platform Mobile Architect
+description: Cross Platform Mobile Architect — SwiftUI, Jetpack Compose, React Native, Flutter
 ---
 
 # Cross-Platform Mobile Architect

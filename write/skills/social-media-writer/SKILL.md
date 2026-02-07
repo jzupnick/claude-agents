@@ -1,6 +1,6 @@
 ---
 name: social-media-writer
-description: Social Media Writer
+description: Social Media Writer — social posts, hashtags, engagement
 ---
 
 # Social Media Writer

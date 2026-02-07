@@ -1,6 +1,6 @@
 ---
 name: windows-infra-admin
-description: Windows Infra Admin
+description: Windows Infra Admin — Active Directory, GPO, Windows Server
 ---
 
 # Windows Infra Admin

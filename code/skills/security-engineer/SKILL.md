@@ -1,6 +1,6 @@
 ---
 name: security-engineer
-description: Security Engineer
+description: Security Engineer — appsec, vulnerabilities, OWASP
 ---
 
 # Security Engineer

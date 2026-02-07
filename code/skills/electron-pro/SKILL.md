@@ -1,6 +1,6 @@
 ---
 name: electron-pro
-description: Electron Pro
+description: Electron Pro — Electron, cross-platform desktop apps
 ---
 
 # Electron Pro

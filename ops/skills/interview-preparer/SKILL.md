@@ -1,6 +1,6 @@
 ---
 name: interview-preparer
-description: Interview Preparer
+description: Interview Preparer — Nonviolent Communication, SBI Feedback, BLUF
 ---
 
 # Interview Preparer

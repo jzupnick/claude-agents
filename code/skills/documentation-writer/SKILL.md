@@ -1,6 +1,6 @@
 ---
 name: backend-documentation-writer
-description: Backend Documentation Writer
+description: Backend Documentation Writer — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # Backend Documentation Writer

@@ -1,6 +1,6 @@
 ---
 name: product-backlog-manager
-description: Product Backlog Manager
+description: Product Backlog Manager — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # Product Backlog Manager

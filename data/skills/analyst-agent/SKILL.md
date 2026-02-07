@@ -1,6 +1,6 @@
 ---
 name: data-analyst-agent
-description: Data Analyst Agent
+description: Data Analyst Agent — automated data analysis, insights
 ---
 
 # Data Analyst Agent

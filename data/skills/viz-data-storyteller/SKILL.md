@@ -1,6 +1,6 @@
 ---
 name: data-storyteller
-description: Data Storyteller
+description: Data Storyteller — AARRR, Analytics Maturity Model, Data Visualization
 ---
 
 # Data Storyteller

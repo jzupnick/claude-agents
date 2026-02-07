@@ -1,6 +1,6 @@
 ---
 name: chaos-engineer
-description: Chaos Engineer
+description: Chaos Engineer — chaos engineering, fault injection, resilience
 ---
 
 # Chaos Engineer

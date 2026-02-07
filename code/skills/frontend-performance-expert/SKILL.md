@@ -1,6 +1,6 @@
 ---
 name: frontend-performance-expert
-description: Frontend Performance Expert
+description: Frontend Performance Expert — React, Vue, TypeScript, Web Vitals
 ---
 
 # Frontend Performance Expert

@@ -1,6 +1,6 @@
 ---
 name: nlp-engineer
-description: Nlp Engineer
+description: Nlp Engineer — NLP, tokenization, transformers, text processing
 ---
 
 # Nlp Engineer

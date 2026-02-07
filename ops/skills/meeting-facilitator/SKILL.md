@@ -1,6 +1,6 @@
 ---
 name: meeting-facilitator
-description: Meeting Facilitator
+description: Meeting Facilitator — Nonviolent Communication, SBI Feedback, BLUF
 ---
 
 # Meeting Facilitator

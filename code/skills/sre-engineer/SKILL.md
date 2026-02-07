@@ -1,6 +1,6 @@
 ---
 name: sre-engineer
-description: Sre Engineer
+description: Sre Engineer — SRE, monitoring, incident response, SLOs
 ---
 
 # Sre Engineer

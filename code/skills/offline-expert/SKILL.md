@@ -1,6 +1,6 @@
 ---
 name: mobile-offline-expert
-description: Mobile Offline Expert
+description: Mobile Offline Expert — SwiftUI, Jetpack Compose, React Native, Flutter
 ---
 
 # Mobile Offline Expert

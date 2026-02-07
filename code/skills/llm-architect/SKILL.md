@@ -1,6 +1,6 @@
 ---
 name: llm-architect
-description: Llm Architect
+description: Llm Architect — LLM apps, RAG, fine-tuning, agents
 ---
 
 # Llm Architect

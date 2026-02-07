@@ -1,6 +1,6 @@
 ---
 name: idea-generator
-description: Idea Generator
+description: Idea Generator — idea generation, creative techniques
 ---
 
 # Idea Generator

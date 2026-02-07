@@ -1,6 +1,6 @@
 ---
 name: load-testing-expert
-description: Load Testing Expert
+description: Load Testing Expert — Test Pyramid, Testing Trophy, BDD/TDD
 ---
 
 # Load Testing Expert

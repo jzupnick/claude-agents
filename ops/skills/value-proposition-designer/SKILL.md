@@ -1,6 +1,6 @@
 ---
 name: value-proposition-designer
-description: Value Proposition Designer
+description: Value Proposition Designer — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
 ---
 
 # Value Proposition Designer

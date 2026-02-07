@@ -1,6 +1,6 @@
 ---
 name: penetration-tester
-description: Penetration Tester
+description: Penetration Tester — Zero Trust, NIST CSF, ISO 27001
 ---
 
 # Penetration Tester

@@ -1,6 +1,6 @@
 ---
 name: tradeoff-analyzer
-description: Tradeoff Analyzer
+description: Tradeoff Analyzer — trade-off analysis, decision matrices
 ---
 
 # Tradeoff Analyzer

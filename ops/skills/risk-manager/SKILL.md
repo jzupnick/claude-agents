@@ -1,6 +1,6 @@
 ---
 name: risk-manager
-description: Risk Manager
+description: Risk Manager — risk assessment, mitigation, monitoring
 ---
 
 # Risk Manager

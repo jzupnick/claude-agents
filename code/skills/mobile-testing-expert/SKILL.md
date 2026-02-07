@@ -1,6 +1,6 @@
 ---
 name: mobile-testing-expert
-description: Mobile Testing Expert
+description: Mobile Testing Expert — SwiftUI, Jetpack Compose, React Native, Flutter
 ---
 
 # Mobile Testing Expert

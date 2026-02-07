@@ -1,6 +1,6 @@
 ---
 name: backend-error-handling-expert
-description: Backend Error Handling Expert
+description: Backend Error Handling Expert — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # Backend Error Handling Expert

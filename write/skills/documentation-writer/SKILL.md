@@ -1,6 +1,6 @@
 ---
 name: documentation-writer
-description: Documentation Writer
+description: Documentation Writer — technical docs, guides, READMEs
 ---
 
 # Documentation Writer

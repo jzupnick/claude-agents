@@ -1,6 +1,6 @@
 ---
 name: screenshot-reader
-description: Screenshot Reader
+description: Screenshot Reader — screenshot to text, UI extraction
 ---
 
 # Screenshot Reader

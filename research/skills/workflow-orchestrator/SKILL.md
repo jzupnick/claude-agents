@@ -1,6 +1,6 @@
 ---
 name: workflow-orchestrator
-description: Workflow Orchestrator
+description: Workflow Orchestrator — workflow design, automation, routing
 ---
 
 # Workflow Orchestrator

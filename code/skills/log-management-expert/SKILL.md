@@ -1,6 +1,6 @@
 ---
 name: log-management-expert
-description: Log Management Expert
+description: Log Management Expert — Kubernetes, Terraform, GitOps
 ---
 
 # Log Management Expert

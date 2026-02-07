@@ -1,6 +1,6 @@
 ---
 name: refactor-assistant
-description: Refactor Assistant
+description: Refactor Assistant — general purpose assistant
 ---
 
 # Refactor Assistant

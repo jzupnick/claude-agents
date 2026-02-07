@@ -1,6 +1,6 @@
 ---
 name: backend-refactoring-expert
-description: Backend Refactoring Expert
+description: Backend Refactoring Expert — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # Backend Refactoring Expert

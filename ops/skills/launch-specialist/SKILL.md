@@ -1,6 +1,6 @@
 ---
 name: product-launch-specialist
-description: Product Launch Specialist
+description: Product Launch Specialist — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # Product Launch Specialist

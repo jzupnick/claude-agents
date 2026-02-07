@@ -1,6 +1,6 @@
 ---
 name: test-coverage-analyst
-description: Test Coverage Analyst
+description: Test Coverage Analyst — Test Pyramid, Testing Trophy, BDD/TDD
 ---
 
 # Test Coverage Analyst

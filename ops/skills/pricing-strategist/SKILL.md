@@ -1,6 +1,6 @@
 ---
 name: pricing-strategist
-description: Pricing Strategist
+description: Pricing Strategist — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # Pricing Strategist

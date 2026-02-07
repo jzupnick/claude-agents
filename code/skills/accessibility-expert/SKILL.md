@@ -1,6 +1,6 @@
 ---
 name: mobile-accessibility-expert
-description: Mobile Accessibility Expert
+description: Mobile Accessibility Expert — SwiftUI, Jetpack Compose, React Native, Flutter
 ---
 
 # Mobile Accessibility Expert

@@ -1,6 +1,6 @@
 ---
 name: test-automator
-description: Test Automator
+description: Test Automator — test automation, CI integration, frameworks
 ---
 
 # Test Automator

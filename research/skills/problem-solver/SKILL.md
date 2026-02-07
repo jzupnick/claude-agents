@@ -1,6 +1,6 @@
 ---
 name: problem-solver
-description: Problem Solver
+description: Problem Solver — problem decomposition, root cause analysis
 ---
 
 # Problem Solver

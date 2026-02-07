@@ -1,6 +1,6 @@
 ---
 name: ci-testing-expert
-description: Ci Testing Expert
+description: Ci Testing Expert — Test Pyramid, Testing Trophy, BDD/TDD
 ---
 
 # CI Testing Expert

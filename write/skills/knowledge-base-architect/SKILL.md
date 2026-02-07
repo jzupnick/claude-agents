@@ -1,6 +1,6 @@
 ---
 name: knowledge-base-architect
-description: Knowledge Base Architect
+description: Knowledge Base Architect — Diátaxis, Read the Docs, OpenAPI
 ---
 
 # Knowledge Base Architect

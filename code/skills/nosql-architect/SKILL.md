@@ -1,6 +1,6 @@
 ---
 name: nosql-architect
-description: Nosql Architect
+description: Nosql Architect — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # NoSQL Architect

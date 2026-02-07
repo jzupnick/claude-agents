@@ -1,6 +1,6 @@
 ---
 name: time-series-analyst
-description: Time Series Analyst
+description: Time Series Analyst — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # Time Series Analyst

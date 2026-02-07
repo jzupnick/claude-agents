@@ -1,6 +1,6 @@
 ---
 name: image-analyzer
-description: Image Analyzer
+description: Image Analyzer — image description, visual Q&A
 ---
 
 # Image Analyzer

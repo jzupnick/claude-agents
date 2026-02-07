@@ -1,6 +1,6 @@
 ---
 name: microservices-architect
-description: Microservices Architect
+description: Microservices Architect — distributed systems, service mesh, API gateways
 ---
 
 # Microservices Architect

@@ -1,6 +1,6 @@
 ---
 name: android-expert
-description: Android Expert
+description: Android Expert — SwiftUI, Jetpack Compose, React Native, Flutter
 ---
 
 # Android Expert

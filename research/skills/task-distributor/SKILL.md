@@ -1,6 +1,6 @@
 ---
 name: task-distributor
-description: Task Distributor
+description: Task Distributor — task allocation, workload balancing
 ---
 
 # Task Distributor

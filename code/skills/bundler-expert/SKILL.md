@@ -1,6 +1,6 @@
 ---
 name: frontend-bundler-expert
-description: Frontend Bundler Expert
+description: Frontend Bundler Expert — React, Vue, TypeScript, Web Vitals
 ---
 
 # Frontend Bundler Expert

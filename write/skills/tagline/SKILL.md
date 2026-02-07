@@ -1,6 +1,6 @@
 ---
 name: tagline-creator
-description: Tagline Creator
+description: Tagline Creator — taglines, slogans, brand copy
 ---
 
 # Tagline Creator

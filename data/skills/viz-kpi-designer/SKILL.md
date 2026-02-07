@@ -1,6 +1,6 @@
 ---
 name: kpi-designer
-description: Kpi Designer
+description: Kpi Designer — AARRR, Analytics Maturity Model, Data Visualization
 ---
 
 # KPI Designer

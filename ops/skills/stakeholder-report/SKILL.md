@@ -1,6 +1,6 @@
 ---
 name: stakeholder-report
-description: Stakeholder Report
+description: Stakeholder Report — status reports, stakeholder updates
 ---
 
 # Stakeholder Report

@@ -1,6 +1,6 @@
 ---
 name: cloud-security-architect
-description: Cloud Security Architect
+description: Cloud Security Architect — AWS Well-Architected, Azure CAF, GCP Best Practices
 ---
 
 # Cloud Security Architect

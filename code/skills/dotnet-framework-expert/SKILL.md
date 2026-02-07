@@ -1,6 +1,6 @@
 ---
 name: dotnet-framework-expert
-description: Dotnet Framework Expert
+description: Dotnet Framework Expert — .NET Framework, C#, WPF, WinForms
 ---
 
 # Dotnet Framework Expert

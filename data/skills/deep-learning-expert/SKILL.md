@@ -1,6 +1,6 @@
 ---
 name: deep-learning-expert
-description: Deep Learning Expert
+description: Deep Learning Expert — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # Deep Learning Expert

@@ -1,6 +1,6 @@
 ---
 name: project-manager
-description: Project Manager
+description: Project Manager — timelines, milestones, resource planning
 ---
 
 # Project Manager

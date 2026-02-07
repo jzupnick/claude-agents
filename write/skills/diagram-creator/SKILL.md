@@ -1,6 +1,6 @@
 ---
 name: diagram-creator
-description: Diagram Creator
+description: Diagram Creator — Diátaxis, Read the Docs, OpenAPI
 ---
 
 # Diagram Creator

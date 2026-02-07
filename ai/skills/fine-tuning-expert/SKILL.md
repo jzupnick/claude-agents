@@ -1,6 +1,6 @@
 ---
 name: fine-tuning-expert
-description: Fine Tuning Expert
+description: Fine Tuning Expert — LangChain, LlamaIndex, AutoGen, CrewAI
 ---
 
 # Fine-tuning Expert

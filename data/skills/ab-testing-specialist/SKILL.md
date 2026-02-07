@@ -1,6 +1,6 @@
 ---
 name: ab-testing-specialist
-description: Ab Testing Specialist
+description: Ab Testing Specialist — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # A/B Testing Specialist

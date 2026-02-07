@@ -1,6 +1,6 @@
 ---
 name: ai-memory-architect
-description: Ai Memory Architect
+description: Ai Memory Architect — LangChain, LlamaIndex, AutoGen, CrewAI
 ---
 
 # AI Memory Architect

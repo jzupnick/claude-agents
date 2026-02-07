@@ -1,6 +1,6 @@
 ---
 name: design-storyteller
-description: Design Storyteller
+description: Design Storyteller — Design Thinking, Double Diamond, Atomic Design
 ---
 
 # Design Storyteller

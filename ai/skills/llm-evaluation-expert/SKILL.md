@@ -1,6 +1,6 @@
 ---
 name: llm-evaluation-expert
-description: Llm Evaluation Expert
+description: Llm Evaluation Expert — LangChain, LlamaIndex, AutoGen, CrewAI
 ---
 
 # LLM Evaluation Expert

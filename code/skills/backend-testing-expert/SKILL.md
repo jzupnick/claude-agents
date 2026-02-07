@@ -1,6 +1,6 @@
 ---
 name: backend-testing-expert
-description: Backend Testing Expert
+description: Backend Testing Expert — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # Backend Testing Expert

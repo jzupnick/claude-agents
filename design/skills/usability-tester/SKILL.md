@@ -1,6 +1,6 @@
 ---
 name: usability-tester
-description: Usability Tester
+description: Usability Tester — Design Thinking, Double Diamond, Atomic Design
 ---
 
 # Usability Tester

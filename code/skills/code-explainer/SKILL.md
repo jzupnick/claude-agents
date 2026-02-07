@@ -1,6 +1,6 @@
 ---
 name: code-explainer
-description: Code Explainer
+description: Code Explainer — code walkthroughs, documentation, teaching
 ---
 
 # Code Explainer

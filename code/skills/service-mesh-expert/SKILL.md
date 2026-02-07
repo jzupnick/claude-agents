@@ -1,6 +1,6 @@
 ---
 name: service-mesh-expert
-description: Service Mesh Expert
+description: Service Mesh Expert — Kubernetes, Terraform, GitOps
 ---
 
 # Service Mesh Expert

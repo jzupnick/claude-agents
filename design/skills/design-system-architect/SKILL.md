@@ -1,6 +1,6 @@
 ---
 name: design-system-architect
-description: Design System Architect
+description: Design System Architect — Design Thinking, Double Diamond, Atomic Design
 ---
 
 # Design System Architect

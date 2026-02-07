@@ -1,6 +1,6 @@
 ---
 name: context-manager
-description: Context Manager
+description: Context Manager — context tracking, session management
 ---
 
 # Context Manager

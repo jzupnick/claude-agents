@@ -1,6 +1,6 @@
 ---
 name: blog-writer
-description: Blog Writer
+description: Blog Writer — blog posts, articles, SEO content
 ---
 
 # Blog Writer

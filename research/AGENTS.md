@@ -1,36 +1,32 @@
-# research plugin
-
-Analysis and research skills. Invoke with /research:<skill>.
-
-## Available Skills (28)
+# research — Agent Skills
 
 | Skill | Description |
 |-------|-------------|
-| `/research:agent-organizer` | Use when you need expert guidance on agent organizer. Agent Organizer. Provide clear, accurate, a... |
-| `/research:budget-planner` | Use when you need expert guidance on budget planner. Budget Planner. Provide clear, accurate, and... |
-| `/research:compliance-auditor` | Use when you need expert guidance on compliance auditor. Compliance Auditor. Provide clear, accur... |
-| `/research:decision-advisor` | Use when you need expert guidance on strategic decision advisor. Domain: Free/Analysis. |
-| `/research:electrician` | Use when you need expert guidance on electrician. Electrician. Provide clear, accurate, and actio... |
-| `/research:error-coordinator` | Use when you need expert guidance on coordinator. Error Coordinator. Provide clear, accurate, and... |
-| `/research:fact-check` | Use when you need expert guidance on fact checker. Fact Checker. Provide clear, accurate, and act... |
-| `/research:feature-spec` | Use when you need expert guidance on feature spec. Feature Spec. Provide clear, accurate, and act... |
-| `/research:forecast-modeler` | Use when you need expert guidance on forecast modeler. Forecast Modeler. Provide clear, accurate,... |
-| `/research:knowledge-synthesizer` | Use when you need expert guidance on knowledge synthesizer. Knowledge Synthesizer. Provide clear,... |
-| `/research:legal-advisor` | Use when you need expert guidance on legal advisor. Legal Advisor. Provide clear, accurate, and a... |
-| `/research:literature-reviewer` | Use when you need expert guidance on literature reviewer. Literature Reviewer. Provide clear, acc... |
-| `/research:manufacturing-planner` | Use when you need expert guidance on manufacturing planner. Manufacturing Planner. Provide clear,... |
-| `/research:market-researcher-agent` | Use when you need expert guidance on market researcher agent. Market Researcher Agent. Provide cl... |
-| `/research:medical-diagnosis` | Use when you need expert guidance on medical diagnosis. Medical Diagnosis. Provide clear, accurat... |
-| `/research:multi-agent-coordinator` | Use when you need expert guidance on multi agent coordinator. Multi Agent Coordinator. Provide cl... |
-| `/research:performance-monitor` | Use when you need expert guidance on performance monitor. Performance Monitor. Provide clear, acc... |
-| `/research:problem-solver` | Use when you need expert guidance on problem solver. Problem Solver. Provide clear, accurate, and... |
-| `/research:product-designer` | Use when you need expert guidance on product designer. Product Designer. Provide clear, accurate,... |
-| `/research:risk-assessor` | Use when you need expert guidance on risk assessor. Risk Assessor. Provide clear, accurate, and a... |
-| `/research:scrum-master` | Use when you need expert guidance on scrum master. Scrum Master. Provide clear, accurate, and act... |
-| `/research:system-architect` | Use when you need expert guidance on system architect design. System Architect. Design scalable, ... |
-| `/research:task-distributor` | Use when you need expert guidance on distributor. Task Distributor. Provide clear, accurate, and ... |
-| `/research:therapist` | Use when you need expert guidance on therapist. Therapist. Provide clear, accurate, and actionabl... |
-| `/research:tradeoff-analyzer` | Use when you need expert guidance on tradeoff analyzer. Tradeoff Analyzer. Provide clear, accurat... |
-| `/research:trend-spotter` | Use when you need expert guidance on trend spotter. Trend Spotter. Provide clear, accurate, and a... |
-| `/research:unit-economics` | Use when you need expert guidance on unit economics. Unit Economics. Provide clear, accurate, and... |
-| `/research:workflow-orchestrator` | Use when you need expert guidance on workflow orchestrator. Workflow Orchestrator. Provide clear,... |
+| `/research:agent-organizer` | Agent Organizer — multi-agent coordination, task routing |
+| `/research:budget-planner` | Budget Planner — budgets, cost planning, forecasting |
+| `/research:compliance-auditor` | Compliance Auditor — compliance checks, audit trails |
+| `/research:decision-advisor` | Decision Advisor — decision frameworks, options analysis |
+| `/research:electrician` | Electrician — electrical systems, wiring, codes |
+| `/research:error-coordinator` | Error Coordinator — error triage, coordination, resolution |
+| `/research:fact-check` | Fact Checker — fact verification, source validation |
+| `/research:feature-spec` | Feature Spec — feature specs, requirements, acceptance criteria |
+| `/research:forecast-modeler` | Forecast Modeler — forecasting, time series, predictions |
+| `/research:knowledge-synthesizer` | Knowledge Synthesizer — knowledge synthesis, summaries |
+| `/research:legal-advisor` | Legal Advisor — legal guidance, contracts, compliance |
+| `/research:literature-reviewer` | Literature Reviewer — literature review, academic research |
+| `/research:manufacturing-planner` | Manufacturing Planner — manufacturing plans, BOM, scheduling |
+| `/research:market-researcher-agent` | Market Researcher Agent — market research, surveys, analysis |
+| `/research:medical-diagnosis` | Medical Diagnosis — medical knowledge, symptoms, guidance |
+| `/research:multi-agent-coordinator` | Multi Agent Coordinator — multi-agent orchestration, workflows |
+| `/research:performance-monitor` | Performance Monitor — performance monitoring, metrics, alerts |
+| `/research:problem-solver` | Problem Solver — problem decomposition, root cause analysis |
+| `/research:product-designer` | Product Designer — product design, prototyping, user research |
+| `/research:risk-assessor` | Risk Assessor — risk evaluation, scoring, prioritization |
+| `/research:scrum-master` | Scrum Master — Scrum ceremonies, sprint planning, retros |
+| `/research:system-architect` | System Architect — system design, architecture patterns |
+| `/research:task-distributor` | Task Distributor — task allocation, workload balancing |
+| `/research:therapist` | Therapist — active listening, CBT techniques, support |
+| `/research:tradeoff-analyzer` | Tradeoff Analyzer — trade-off analysis, decision matrices |
+| `/research:trend-spotter` | Trend Spotter — trend identification, signals, patterns |
+| `/research:unit-economics` | Unit Economics — unit economics, LTV, CAC, margins |
+| `/research:workflow-orchestrator` | Workflow Orchestrator — workflow design, automation, routing |

@@ -1,6 +1,6 @@
 ---
 name: tooling-engineer
-description: Tooling Engineer
+description: Tooling Engineer — developer tools, linters, formatters
 ---
 
 # Tooling Engineer

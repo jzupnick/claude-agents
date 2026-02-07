@@ -1,6 +1,6 @@
 ---
 name: solutions-architect
-description: Solutions Architect
+description: Solutions Architect — AWS Well-Architected, Azure CAF, GCP Best Practices
 ---
 
 # Solutions Architect

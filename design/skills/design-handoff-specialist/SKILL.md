@@ -1,6 +1,6 @@
 ---
 name: design-handoff-specialist
-description: Design Handoff Specialist
+description: Design Handoff Specialist — Design Thinking, Double Diamond, Atomic Design
 ---
 
 # Design Handoff Specialist

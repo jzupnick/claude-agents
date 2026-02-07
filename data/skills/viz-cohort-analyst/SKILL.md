@@ -1,6 +1,6 @@
 ---
 name: cohort-analyst
-description: Cohort Analyst
+description: Cohort Analyst — AARRR, Analytics Maturity Model, Data Visualization
 ---
 
 # Cohort Analyst

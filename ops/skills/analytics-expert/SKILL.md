@@ -1,6 +1,6 @@
 ---
 name: product-analytics-expert
-description: Product Analytics Expert
+description: Product Analytics Expert — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # Product Analytics Expert

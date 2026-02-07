@@ -1,6 +1,6 @@
 ---
 name: translator
-description: Translator
+description: Translator — multi-language translation
 ---
 
 # Translator

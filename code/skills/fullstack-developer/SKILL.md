@@ -1,6 +1,6 @@
 ---
 name: fullstack-developer
-description: Fullstack Developer
+description: Fullstack Developer — frontend + backend, end-to-end features
 ---
 
 # Fullstack Developer

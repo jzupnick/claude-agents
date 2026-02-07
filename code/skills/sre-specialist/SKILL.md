@@ -1,6 +1,6 @@
 ---
 name: sre-specialist
-description: Sre Specialist
+description: Sre Specialist — Kubernetes, Terraform, GitOps
 ---
 
 # SRE Specialist

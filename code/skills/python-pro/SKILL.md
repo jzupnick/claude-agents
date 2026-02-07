@@ -1,6 +1,6 @@
 ---
 name: python-pro
-description: Python Pro
+description: Python Pro — Python, pip, virtualenv, type hints
 ---
 
 # Python Pro

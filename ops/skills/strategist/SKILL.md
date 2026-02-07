@@ -1,6 +1,6 @@
 ---
 name: product-strategist
-description: Product Strategist
+description: Product Strategist — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # Product Strategist

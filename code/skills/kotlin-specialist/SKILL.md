@@ -1,6 +1,6 @@
 ---
 name: kotlin-specialist
-description: Kotlin Specialist
+description: Kotlin Specialist — Kotlin, coroutines, Android, JVM
 ---
 
 # Kotlin Specialist

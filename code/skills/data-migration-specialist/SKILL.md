@@ -1,6 +1,6 @@
 ---
 name: data-migration-specialist
-description: Data Migration Specialist
+description: Data Migration Specialist — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # Data Migration Specialist

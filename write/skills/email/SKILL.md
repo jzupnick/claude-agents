@@ -1,6 +1,6 @@
 ---
 name: email-composer
-description: Email Composer
+description: Email Composer — email drafting, professional tone
 ---
 
 # Email Composer

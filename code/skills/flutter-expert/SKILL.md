@@ -1,6 +1,6 @@
 ---
 name: flutter-expert
-description: Flutter Expert
+description: Flutter Expert — SwiftUI, Jetpack Compose, React Native, Flutter
 ---
 
 # Flutter Expert

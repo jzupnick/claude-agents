@@ -1,6 +1,6 @@
 ---
 name: incident-responder
-description: Incident Responder
+description: Incident Responder — incident management, triage, recovery
 ---
 
 # Incident Responder

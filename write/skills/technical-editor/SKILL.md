@@ -1,6 +1,6 @@
 ---
 name: technical-editor
-description: Technical Editor
+description: Technical Editor — Diátaxis, Read the Docs, OpenAPI
 ---
 
 # Technical Editor

@@ -1,6 +1,6 @@
 ---
 name: frontend-developer
-description: Frontend Developer
+description: Frontend Developer — UI, CSS, responsive design, accessibility
 ---
 
 # Frontend Developer

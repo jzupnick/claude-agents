@@ -1,6 +1,6 @@
 ---
 name: dns-expert
-description: Dns Expert
+description: Dns Expert — Kubernetes, Terraform, GitOps
 ---
 
 # DNS Expert

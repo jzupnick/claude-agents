@@ -1,6 +1,6 @@
 ---
 name: mobile-devops-engineer
-description: Mobile Devops Engineer
+description: Mobile Devops Engineer — SwiftUI, Jetpack Compose, React Native, Flutter
 ---
 
 # Mobile DevOps Engineer

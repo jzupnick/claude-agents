@@ -1,6 +1,6 @@
 ---
 name: sql-optimization-specialist
-description: Sql Optimization Specialist
+description: Sql Optimization Specialist — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # SQL Optimization Specialist

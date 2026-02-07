@@ -1,6 +1,6 @@
 ---
 name: kubernetes-specialist
-description: Kubernetes Specialist
+description: Kubernetes Specialist — K8s, pods, services, Helm, kubectl
 ---
 
 # Kubernetes Specialist

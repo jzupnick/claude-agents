@@ -1,6 +1,6 @@
 ---
 name: pitch-deck-writer
-description: Pitch Deck Writer
+description: Pitch Deck Writer — pitch decks, investor materials
 ---
 
 # Pitch Deck Writer

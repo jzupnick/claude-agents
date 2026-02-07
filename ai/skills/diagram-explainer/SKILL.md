@@ -1,6 +1,6 @@
 ---
 name: diagram-explainer
-description: Diagram Explainer
+description: Diagram Explainer — diagram interpretation, visual to text
 ---
 
 # Diagram Explainer

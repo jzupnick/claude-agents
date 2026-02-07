@@ -1,6 +1,6 @@
 ---
 name: business-process-designer
-description: Business Process Designer
+description: Business Process Designer — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
 ---
 
 # Business Process Designer

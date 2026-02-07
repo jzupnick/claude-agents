@@ -1,6 +1,6 @@
 ---
 name: product-vision-creator
-description: Product Vision Creator
+description: Product Vision Creator — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # Product Vision Creator

@@ -1,6 +1,6 @@
 ---
 name: tutorial-creator
-description: Tutorial Creator
+description: Tutorial Creator — Diátaxis, Read the Docs, OpenAPI
 ---
 
 # Tutorial Creator

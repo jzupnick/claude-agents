@@ -1,6 +1,6 @@
 ---
 name: web-vitals-expert
-description: Web Vitals Expert
+description: Web Vitals Expert — React, Vue, TypeScript, Web Vitals
 ---
 
 # Web Vitals Expert

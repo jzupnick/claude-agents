@@ -1,6 +1,6 @@
 ---
 name: scrum-master
-description: Scrum Master
+description: Scrum Master — Scrum ceremonies, sprint planning, retros
 ---
 
 # Scrum Master

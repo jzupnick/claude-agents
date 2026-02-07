@@ -1,6 +1,6 @@
 ---
 name: risk-analyst
-description: Risk Analyst
+description: Risk Analyst — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
 ---
 
 # Risk Analyst

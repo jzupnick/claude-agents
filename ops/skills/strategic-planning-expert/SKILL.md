@@ -1,6 +1,6 @@
 ---
 name: strategic-planning-expert
-description: Strategic Planning Expert
+description: Strategic Planning Expert — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
 ---
 
 # Strategic Planning Expert

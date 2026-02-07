@@ -1,6 +1,6 @@
 ---
 name: component-library-designer
-description: Component Library Designer
+description: Component Library Designer — React, Vue, TypeScript, Web Vitals
 ---
 
 # Component Library Designer

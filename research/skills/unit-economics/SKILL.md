@@ -1,6 +1,6 @@
 ---
 name: unit-economics
-description: Unit Economics
+description: Unit Economics — unit economics, LTV, CAC, margins
 ---
 
 # Unit Economics

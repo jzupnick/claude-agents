@@ -1,6 +1,6 @@
 ---
 name: exploratory-tester
-description: Exploratory Tester
+description: Exploratory Tester — Test Pyramid, Testing Trophy, BDD/TDD
 ---
 
 # Exploratory Tester

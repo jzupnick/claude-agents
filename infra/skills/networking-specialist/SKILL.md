@@ -1,6 +1,6 @@
 ---
 name: cloud-networking-specialist
-description: Cloud Networking Specialist
+description: Cloud Networking Specialist — AWS Well-Architected, Azure CAF, GCP Best Practices
 ---
 
 # Cloud Networking Specialist

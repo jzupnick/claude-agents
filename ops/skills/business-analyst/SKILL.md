@@ -1,6 +1,6 @@
 ---
 name: business-analyst
-description: Business Analyst
+description: Business Analyst — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
 ---
 
 # Business Analyst

@@ -1,6 +1,6 @@
 ---
 name: cloud-assistant
-description: Cloud Assistant
+description: Cloud Assistant — general purpose assistant
 ---
 
 # Cloud Assistant

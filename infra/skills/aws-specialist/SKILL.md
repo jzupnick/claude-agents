@@ -1,6 +1,6 @@
 ---
 name: aws-specialist
-description: Aws Specialist
+description: Aws Specialist — AWS Well-Architected, Azure CAF, GCP Best Practices
 ---
 
 # AWS Specialist

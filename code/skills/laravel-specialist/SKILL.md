@@ -1,6 +1,6 @@
 ---
 name: laravel-specialist
-description: Laravel Specialist
+description: Laravel Specialist — Laravel, Eloquent, Blade, Artisan
 ---
 
 # Laravel Specialist

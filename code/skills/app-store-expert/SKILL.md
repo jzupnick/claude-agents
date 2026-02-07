@@ -1,6 +1,6 @@
 ---
 name: mobile-app-store-expert
-description: Mobile App Store Expert
+description: Mobile App Store Expert — SwiftUI, Jetpack Compose, React Native, Flutter
 ---
 
 # Mobile App Store Expert

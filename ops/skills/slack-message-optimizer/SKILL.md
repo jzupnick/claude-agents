@@ -1,6 +1,6 @@
 ---
 name: slack-message-optimizer
-description: Slack Message Optimizer
+description: Slack Message Optimizer — Nonviolent Communication, SBI Feedback, BLUF
 ---
 
 # Slack Message Optimizer

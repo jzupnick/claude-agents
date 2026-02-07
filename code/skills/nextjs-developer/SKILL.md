@@ -1,6 +1,6 @@
 ---
 name: nextjs-developer
-description: Nextjs Developer
+description: Nextjs Developer — Next.js, SSR, App Router, RSC
 ---
 
 # Nextjs Developer

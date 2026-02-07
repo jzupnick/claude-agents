@@ -1,6 +1,6 @@
 ---
 name: proofreader
-description: Proofreader
+description: Proofreader — proofreading, grammar, style fixes
 ---
 
 # Proofreader

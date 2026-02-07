@@ -1,6 +1,6 @@
 ---
 name: javascript-pro
-description: Javascript Pro
+description: Javascript Pro — JavaScript, ES6+, Node.js, async/await
 ---
 
 # Javascript Pro

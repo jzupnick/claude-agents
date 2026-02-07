@@ -1,6 +1,6 @@
 ---
 name: cicd-architect
-description: Cicd Architect
+description: Cicd Architect — Kubernetes, Terraform, GitOps
 ---
 
 # CI/CD Architect

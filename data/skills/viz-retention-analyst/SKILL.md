@@ -1,6 +1,6 @@
 ---
 name: retention-analyst
-description: Retention Analyst
+description: Retention Analyst — AARRR, Analytics Maturity Model, Data Visualization
 ---
 
 # Retention Analyst

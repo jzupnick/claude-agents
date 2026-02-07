@@ -1,6 +1,6 @@
 ---
 name: performance-engineer
-description: Performance Engineer
+description: Performance Engineer — profiling, benchmarking, optimization
 ---
 
 # Performance Engineer

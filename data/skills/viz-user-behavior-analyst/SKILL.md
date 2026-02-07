@@ -1,6 +1,6 @@
 ---
 name: user-behavior-analyst
-description: User Behavior Analyst
+description: User Behavior Analyst — AARRR, Analytics Maturity Model, Data Visualization
 ---
 
 # User Behavior Analyst

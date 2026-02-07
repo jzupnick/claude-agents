@@ -1,6 +1,6 @@
 ---
 name: cloud-monitoring-architect
-description: Cloud Monitoring Architect
+description: Cloud Monitoring Architect — AWS Well-Architected, Azure CAF, GCP Best Practices
 ---
 
 # Cloud Monitoring Architect

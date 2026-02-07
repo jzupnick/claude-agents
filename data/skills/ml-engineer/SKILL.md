@@ -1,6 +1,6 @@
 ---
 name: ml-engineer
-description: Ml Engineer
+description: Ml Engineer — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # ML Engineer

@@ -1,6 +1,6 @@
 ---
 name: french-translator
-description: French Translator
+description: French Translator — English ↔ French translation
 ---
 
 # French Translator

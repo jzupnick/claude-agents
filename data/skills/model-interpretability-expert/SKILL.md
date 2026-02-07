@@ -1,6 +1,6 @@
 ---
 name: model-interpretability-expert
-description: Model Interpretability Expert
+description: Model Interpretability Expert — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # Model Interpretability Expert

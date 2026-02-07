@@ -1,6 +1,6 @@
 ---
 name: cache-strategist
-description: Cache Strategist
+description: Cache Strategist — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # Cache Strategist

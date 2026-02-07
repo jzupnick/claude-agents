@@ -1,6 +1,6 @@
 ---
 name: multi-agent-orchestrator
-description: Multi Agent Orchestrator
+description: Multi Agent Orchestrator — LangChain, LlamaIndex, AutoGen, CrewAI
 ---
 
 # Multi-Agent Orchestrator

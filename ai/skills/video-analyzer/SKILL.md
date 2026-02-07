@@ -1,6 +1,6 @@
 ---
 name: video-analyzer
-description: Video Analyzer
+description: Video Analyzer — video frame analysis, scene description
 ---
 
 # Video Analyzer

@@ -1,6 +1,6 @@
 ---
 name: design-sprint-facilitator
-description: Design Sprint Facilitator
+description: Design Sprint Facilitator — Design Thinking, Double Diamond, Atomic Design
 ---
 
 # Design Sprint Facilitator

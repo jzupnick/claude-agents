@@ -1,6 +1,6 @@
 ---
 name: customer-success-manager
-description: Customer Success Manager
+description: Customer Success Manager — customer retention, onboarding, health scores
 ---
 
 # Customer Success Manager

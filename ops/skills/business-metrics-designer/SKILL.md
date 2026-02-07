@@ -1,6 +1,6 @@
 ---
 name: business-metrics-designer
-description: Business Metrics Designer
+description: Business Metrics Designer — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
 ---
 
 # Business Metrics Designer

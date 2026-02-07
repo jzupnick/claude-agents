@@ -1,6 +1,6 @@
 ---
 name: m365-admin
-description: M365 Admin
+description: M365 Admin — Microsoft 365, Exchange, SharePoint, Teams
 ---
 
 # M365 Admin

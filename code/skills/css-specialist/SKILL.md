@@ -1,6 +1,6 @@
 ---
 name: css-specialist
-description: Css Specialist
+description: Css Specialist — React, Vue, TypeScript, Web Vitals
 ---
 
 # CSS Specialist

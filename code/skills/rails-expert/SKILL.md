@@ -1,6 +1,6 @@
 ---
 name: rails-expert
-description: Rails Expert
+description: Rails Expert — Ruby on Rails, ActiveRecord, migrations
 ---
 
 # Rails Expert

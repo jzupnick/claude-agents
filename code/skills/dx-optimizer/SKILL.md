@@ -1,6 +1,6 @@
 ---
 name: dx-optimizer
-description: Dx Optimizer
+description: Dx Optimizer — developer experience, tooling, onboarding
 ---
 
 # Dx Optimizer

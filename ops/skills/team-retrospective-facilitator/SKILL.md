@@ -1,6 +1,6 @@
 ---
 name: team-retrospective-facilitator
-description: Team Retrospective Facilitator
+description: Team Retrospective Facilitator — Nonviolent Communication, SBI Feedback, BLUF
 ---
 
 # Team Retrospective Facilitator

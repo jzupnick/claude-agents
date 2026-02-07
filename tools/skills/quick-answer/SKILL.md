@@ -1,6 +1,6 @@
 ---
 name: quick-answer
-description: Quick Answer
+description: Quick Answer — fast answers, lookups, quick tasks
 ---
 
 # Quick Answer

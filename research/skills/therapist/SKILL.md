@@ -1,6 +1,6 @@
 ---
 name: therapist
-description: Therapist
+description: Therapist — active listening, CBT techniques, support
 ---
 
 # Therapist

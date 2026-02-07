@@ -1,6 +1,6 @@
 ---
 name: backend-performance-engineer
-description: Backend Performance Engineer
+description: Backend Performance Engineer — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # Backend Performance Engineer

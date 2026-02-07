@@ -1,6 +1,6 @@
 ---
 name: voice-ui-designer
-description: Voice Ui Designer
+description: Voice Ui Designer — Design Thinking, Double Diamond, Atomic Design
 ---
 
 # Voice UI Designer

@@ -1,6 +1,6 @@
 ---
 name: metrics-analyst
-description: Metrics Analyst
+description: Metrics Analyst — AARRR, Analytics Maturity Model, Data Visualization
 ---
 
 # Metrics Analyst

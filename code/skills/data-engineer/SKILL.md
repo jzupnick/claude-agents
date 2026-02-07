@@ -1,6 +1,6 @@
 ---
 name: data-engineer
-description: Data Engineer
+description: Data Engineer — ETL, data pipelines, warehousing
 ---
 
 # Data Engineer

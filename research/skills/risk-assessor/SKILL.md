@@ -1,6 +1,6 @@
 ---
 name: risk-assessor
-description: Risk Assessor
+description: Risk Assessor — risk evaluation, scoring, prioritization
 ---
 
 # Risk Assessor

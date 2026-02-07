@@ -1,6 +1,6 @@
 ---
 name: refactoring-specialist
-description: Refactoring Specialist
+description: Refactoring Specialist — refactoring, clean code, design patterns
 ---
 
 # Refactoring Specialist

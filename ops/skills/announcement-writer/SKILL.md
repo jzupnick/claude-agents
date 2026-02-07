@@ -1,6 +1,6 @@
 ---
 name: announcement-writer
-description: Announcement Writer
+description: Announcement Writer — Nonviolent Communication, SBI Feedback, BLUF
 ---
 
 # Announcement Writer

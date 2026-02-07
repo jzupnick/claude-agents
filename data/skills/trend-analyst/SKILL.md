@@ -1,6 +1,6 @@
 ---
 name: trend-analyst
-description: Trend Analyst
+description: Trend Analyst — trend analysis, forecasting, signals
 ---
 
 # Trend Analyst

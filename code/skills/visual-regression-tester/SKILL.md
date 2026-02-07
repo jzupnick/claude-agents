@@ -1,6 +1,6 @@
 ---
 name: visual-regression-tester
-description: Visual Regression Tester
+description: Visual Regression Tester — Test Pyramid, Testing Trophy, BDD/TDD
 ---
 
 # Visual Regression Tester

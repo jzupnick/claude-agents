@@ -1,6 +1,6 @@
 ---
 name: react-native-specialist
-description: React Native Specialist
+description: React Native Specialist — SwiftUI, Jetpack Compose, React Native, Flutter
 ---
 
 # React Native Specialist

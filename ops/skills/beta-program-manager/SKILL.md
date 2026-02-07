@@ -1,6 +1,6 @@
 ---
 name: beta-program-manager
-description: Beta Program Manager
+description: Beta Program Manager — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # Beta Program Manager

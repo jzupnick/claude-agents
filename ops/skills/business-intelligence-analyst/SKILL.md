@@ -1,6 +1,6 @@
 ---
 name: business-intelligence-analyst
-description: Business Intelligence Analyst
+description: Business Intelligence Analyst — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
 ---
 
 # Business Intelligence Analyst

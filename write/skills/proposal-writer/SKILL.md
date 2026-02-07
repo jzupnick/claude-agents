@@ -1,6 +1,6 @@
 ---
 name: proposal-writer
-description: Proposal Writer
+description: Proposal Writer — proposals, RFPs, bids
 ---
 
 # Proposal Writer

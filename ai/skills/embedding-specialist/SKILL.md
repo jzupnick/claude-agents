@@ -1,6 +1,6 @@
 ---
 name: embedding-specialist
-description: Embedding Specialist
+description: Embedding Specialist — LangChain, LlamaIndex, AutoGen, CrewAI
 ---
 
 # Embedding Specialist

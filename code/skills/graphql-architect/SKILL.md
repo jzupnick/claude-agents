@@ -1,6 +1,6 @@
 ---
 name: graphql-architect
-description: Graphql Architect
+description: Graphql Architect — GraphQL, resolvers, schema, subscriptions
 ---
 
 # Graphql Architect

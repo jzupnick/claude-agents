@@ -1,6 +1,6 @@
 ---
 name: design-metrics-analyst
-description: Design Metrics Analyst
+description: Design Metrics Analyst — Design Thinking, Double Diamond, Atomic Design
 ---
 
 # Design Metrics Analyst

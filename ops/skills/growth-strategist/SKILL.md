@@ -1,6 +1,6 @@
 ---
 name: growth-strategist
-description: Growth Strategist
+description: Growth Strategist — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
 ---
 
 # Growth Strategist

@@ -1,6 +1,6 @@
 ---
 name: error-detective
-description: Error Detective
+description: Error Detective — error analysis, stack traces, log forensics
 ---
 
 # Error Detective

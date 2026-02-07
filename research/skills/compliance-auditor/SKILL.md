@@ -1,6 +1,6 @@
 ---
 name: compliance-auditor
-description: Compliance Auditor
+description: Compliance Auditor — compliance checks, audit trails
 ---
 
 # Compliance Auditor

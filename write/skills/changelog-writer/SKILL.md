@@ -1,6 +1,6 @@
 ---
 name: changelog-writer
-description: Changelog Writer
+description: Changelog Writer — Diátaxis, Read the Docs, OpenAPI
 ---
 
 # Changelog Writer

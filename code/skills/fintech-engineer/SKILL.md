@@ -1,6 +1,6 @@
 ---
 name: fintech-engineer
-description: Fintech Engineer
+description: Fintech Engineer — financial systems, compliance, transactions
 ---
 
 # Fintech Engineer

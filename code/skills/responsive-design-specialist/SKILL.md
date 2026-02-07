@@ -1,6 +1,6 @@
 ---
 name: responsive-design-specialist
-description: Responsive Design Specialist
+description: Responsive Design Specialist — React, Vue, TypeScript, Web Vitals
 ---
 
 # Responsive Design Specialist

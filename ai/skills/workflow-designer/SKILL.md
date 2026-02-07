@@ -1,6 +1,6 @@
 ---
 name: ai-workflow-designer
-description: Ai Workflow Designer
+description: Ai Workflow Designer — LangChain, LlamaIndex, AutoGen, CrewAI
 ---
 
 # AI Workflow Designer

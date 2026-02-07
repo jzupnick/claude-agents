@@ -1,6 +1,6 @@
 ---
 name: operations-strategist
-description: Operations Strategist
+description: Operations Strategist — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
 ---
 
 # Operations Strategist

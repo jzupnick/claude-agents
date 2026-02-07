@@ -1,6 +1,6 @@
 ---
 name: azure-expert
-description: Azure Expert
+description: Azure Expert — AWS Well-Architected, Azure CAF, GCP Best Practices
 ---
 
 # Azure Expert

@@ -1,6 +1,6 @@
 ---
 name: monitoring-architect
-description: Monitoring Architect
+description: Monitoring Architect — Kubernetes, Terraform, GitOps
 ---
 
 # Monitoring Architect

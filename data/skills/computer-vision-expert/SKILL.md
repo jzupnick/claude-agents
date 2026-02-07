@@ -1,6 +1,6 @@
 ---
 name: computer-vision-expert
-description: Computer Vision Expert
+description: Computer Vision Expert — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # Computer Vision Expert

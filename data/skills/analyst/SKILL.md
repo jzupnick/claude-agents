@@ -1,6 +1,6 @@
 ---
 name: data-analyst
-description: Data Analyst
+description: Data Analyst — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # Data Analyst

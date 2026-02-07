@@ -1,6 +1,6 @@
 ---
 name: documentation-engineer
-description: Documentation Engineer
+description: Documentation Engineer — API docs, READMEs, technical writing
 ---
 
 # Documentation Engineer

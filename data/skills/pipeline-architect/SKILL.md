@@ -1,6 +1,6 @@
 ---
 name: data-pipeline-architect
-description: Data Pipeline Architect
+description: Data Pipeline Architect — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # Data Pipeline Architect

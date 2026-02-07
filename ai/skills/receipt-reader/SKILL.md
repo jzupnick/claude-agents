@@ -1,6 +1,6 @@
 ---
 name: receipt-reader
-description: Receipt Reader
+description: Receipt Reader — receipt parsing, expense extraction
 ---
 
 # Receipt Reader

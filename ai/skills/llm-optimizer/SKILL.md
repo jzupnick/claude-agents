@@ -1,6 +1,6 @@
 ---
 name: llm-optimizer
-description: Llm Optimizer
+description: Llm Optimizer — LangChain, LlamaIndex, AutoGen, CrewAI
 ---
 
 # LLM Optimizer

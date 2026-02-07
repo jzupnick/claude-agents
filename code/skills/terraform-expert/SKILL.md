@@ -1,6 +1,6 @@
 ---
 name: terraform-expert
-description: Terraform Expert
+description: Terraform Expert — Kubernetes, Terraform, GitOps
 ---
 
 # Terraform Expert

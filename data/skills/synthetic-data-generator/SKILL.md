@@ -1,6 +1,6 @@
 ---
 name: synthetic-data-generator
-description: Synthetic Data Generator
+description: Synthetic Data Generator — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # Synthetic Data Generator

@@ -1,6 +1,6 @@
 ---
 name: ml-model-evaluation-expert
-description: Ml Model Evaluation Expert
+description: Ml Model Evaluation Expert — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # ML Model Evaluation Expert

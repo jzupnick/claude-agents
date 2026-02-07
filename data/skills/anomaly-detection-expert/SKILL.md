@@ -1,6 +1,6 @@
 ---
 name: anomaly-detection-expert
-description: Anomaly Detection Expert
+description: Anomaly Detection Expert — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # Anomaly Detection Expert

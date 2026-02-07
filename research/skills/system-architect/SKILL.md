@@ -1,6 +1,6 @@
 ---
 name: system-architect
-description: System Architect
+description: System Architect — system design, architecture patterns
 ---
 
 # System Architect

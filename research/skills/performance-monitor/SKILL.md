@@ -1,6 +1,6 @@
 ---
 name: performance-monitor
-description: Performance Monitor
+description: Performance Monitor — performance monitoring, metrics, alerts
 ---
 
 # Performance Monitor

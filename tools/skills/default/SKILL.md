@@ -1,6 +1,6 @@
 ---
 name: default
-description: Default
+description: Default — general purpose assistant
 ---
 
 # Default

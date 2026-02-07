@@ -1,6 +1,6 @@
 ---
 name: documentation-tester
-description: Documentation Tester
+description: Documentation Tester — Diátaxis, Read the Docs, OpenAPI
 ---
 
 # Documentation Tester

@@ -1,6 +1,6 @@
 ---
 name: angular-architect
-description: Angular Architect
+description: Angular Architect — Angular, RxJS, TypeScript, NgModules
 ---
 
 # Angular Architect

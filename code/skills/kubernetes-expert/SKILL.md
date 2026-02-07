@@ -1,6 +1,6 @@
 ---
 name: kubernetes-expert
-description: Kubernetes Expert
+description: Kubernetes Expert — Kubernetes, Terraform, GitOps
 ---
 
 # Kubernetes Expert

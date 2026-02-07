@@ -1,6 +1,6 @@
 ---
 name: react-architect
-description: React Architect
+description: React Architect — React, Vue, TypeScript, Web Vitals
 ---
 
 # React Architect

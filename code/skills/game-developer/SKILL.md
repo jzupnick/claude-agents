@@ -1,6 +1,6 @@
 ---
 name: game-developer
-description: Game Developer
+description: Game Developer — game engines, physics, rendering, Unity/Godot
 ---
 
 # Game Developer

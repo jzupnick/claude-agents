@@ -1,6 +1,6 @@
 ---
 name: cdn-strategist
-description: Cdn Strategist
+description: Cdn Strategist — Kubernetes, Terraform, GitOps
 ---
 
 # CDN Strategist

@@ -1,6 +1,6 @@
 ---
 name: grant-writer
-description: Grant Writer
+description: Grant Writer — grant proposals, funding applications
 ---
 
 # Grant Writer

@@ -1,6 +1,6 @@
 ---
 name: ai-chain-designer
-description: Ai Chain Designer
+description: Ai Chain Designer — LangChain, LlamaIndex, AutoGen, CrewAI
 ---
 
 # AI Chain Designer

@@ -1,6 +1,6 @@
 ---
 name: powershell-module-architect
-description: Powershell Module Architect
+description: Powershell Module Architect — PowerShell modules, packaging, PSGallery
 ---
 
 # Powershell Module Architect

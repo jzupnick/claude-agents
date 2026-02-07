@@ -1,6 +1,6 @@
 ---
 name: trend-spotter
-description: Trend Spotter
+description: Trend Spotter — trend identification, signals, patterns
 ---
 
 # Trend Spotter

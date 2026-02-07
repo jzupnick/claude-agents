@@ -1,6 +1,6 @@
 ---
 name: content-writer
-description: Content Writer
+description: Content Writer — web copy, landing pages, articles
 ---
 
 # Content Writer

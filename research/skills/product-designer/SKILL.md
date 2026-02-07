@@ -1,6 +1,6 @@
 ---
 name: product-designer
-description: Product Designer
+description: Product Designer — product design, prototyping, user research
 ---
 
 # Product Designer

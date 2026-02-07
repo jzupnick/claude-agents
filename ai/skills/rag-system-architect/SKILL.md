@@ -1,6 +1,6 @@
 ---
 name: rag-system-architect
-description: Rag System Architect
+description: Rag System Architect — LangChain, LlamaIndex, AutoGen, CrewAI
 ---
 
 # RAG System Architect

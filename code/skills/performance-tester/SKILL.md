@@ -1,6 +1,6 @@
 ---
 name: performance-tester
-description: Performance Tester
+description: Performance Tester — Test Pyramid, Testing Trophy, BDD/TDD
 ---
 
 # Performance Tester

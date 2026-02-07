@@ -1,6 +1,6 @@
 ---
 name: disaster-recovery-planner
-description: Disaster Recovery Planner
+description: Disaster Recovery Planner — Kubernetes, Terraform, GitOps
 ---
 
 # Disaster Recovery Planner

@@ -1,6 +1,6 @@
 ---
 name: electrician
-description: Electrician
+description: Electrician — electrical systems, wiring, codes
 ---
 
 # Electrician

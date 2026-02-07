@@ -1,6 +1,6 @@
 ---
 name: microservices-expert
-description: Microservices Expert
+description: Microservices Expert — REST, GraphQL, gRPC, OpenAPI
 ---
 
 # Microservices Expert

@@ -1,6 +1,6 @@
 ---
 name: model-deployment-expert
-description: Model Deployment Expert
+description: Model Deployment Expert — scikit-learn, PyTorch, TensorFlow, MLflow
 ---
 
 # Model Deployment Expert

@@ -1,6 +1,6 @@
 ---
 name: japanese-translator
-description: Japanese Translator
+description: Japanese Translator — English ↔ Japanese translation
 ---
 
 # Japanese Translator

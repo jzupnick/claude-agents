@@ -1,6 +1,6 @@
 ---
 name: network-architect
-description: Network Architect
+description: Network Architect — Kubernetes, Terraform, GitOps
 ---
 
 # Network Architect

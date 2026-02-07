@@ -1,6 +1,6 @@
 ---
 name: executive-communicator
-description: Executive Communicator
+description: Executive Communicator — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
 ---
 
 # Executive Communicator

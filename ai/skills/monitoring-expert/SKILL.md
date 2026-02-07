@@ -1,6 +1,6 @@
 ---
 name: ai-monitoring-expert
-description: Ai Monitoring Expert
+description: Ai Monitoring Expert — LangChain, LlamaIndex, AutoGen, CrewAI
 ---
 
 # AI Monitoring Expert

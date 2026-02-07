@@ -1,6 +1,6 @@
 ---
 name: general-assistant
-description: General Assistant
+description: General Assistant — general purpose assistant
 ---
 
 # General Assistant

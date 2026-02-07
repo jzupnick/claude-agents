@@ -1,6 +1,6 @@
 ---
 name: business-plan
-description: Business Plan
+description: Business Plan — business plans, market sizing, financials
 ---
 
 # Business Plan

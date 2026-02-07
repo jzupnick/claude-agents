@@ -1,6 +1,6 @@
 ---
 name: csv-processor
-description: Csv Processor
+description: CSV Processor — parsing, transformation, validation
 ---
 
 # Csv Processor

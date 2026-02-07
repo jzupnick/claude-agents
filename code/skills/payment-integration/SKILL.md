@@ -1,6 +1,6 @@
 ---
 name: payment-integration
-description: Payment Integration
+description: Payment Integration — Stripe, payment flows, PCI compliance
 ---
 
 # Payment Integration

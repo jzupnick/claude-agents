@@ -1,6 +1,6 @@
 ---
 name: security-incident-responder
-description: Security Incident Responder
+description: Security Incident Responder — Zero Trust, NIST CSF, ISO 27001
 ---
 
 # Security Incident Responder

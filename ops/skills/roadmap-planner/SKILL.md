@@ -1,6 +1,6 @@
 ---
 name: roadmap-planner
-description: Roadmap Planner
+description: Roadmap Planner — Jobs-to-be-Done, OKRs, RICE
 ---
 
 # Roadmap Planner

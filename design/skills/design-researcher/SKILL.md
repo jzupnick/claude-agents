@@ -1,6 +1,6 @@
 ---
 name: design-researcher
-description: Design Researcher
+description: Design Researcher — Design Thinking, Double Diamond, Atomic Design
 ---
 
 # Design Researcher

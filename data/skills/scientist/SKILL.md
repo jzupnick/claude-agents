@@ -1,6 +1,6 @@
 ---
 name: data-scientist
-description: Data Scientist
+description: Data Scientist — statistics, experiments, modeling, Python
 ---
 
 # Data Scientist

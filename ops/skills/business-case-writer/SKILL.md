@@ -1,6 +1,6 @@
 ---
 name: business-case-writer
-description: Business Case Writer
+description: Business Case Writer — Business Model Canvas, Value Proposition Canvas, Porter's Five Forces
 ---
 
 # Business Case Writer

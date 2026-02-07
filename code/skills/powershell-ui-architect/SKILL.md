@@ -1,6 +1,6 @@
 ---
 name: powershell-ui-architect
-description: Powershell Ui Architect
+description: Powershell Ui Architect — PowerShell GUI, WPF, Windows Forms
 ---
 
 # Powershell Ui Architect

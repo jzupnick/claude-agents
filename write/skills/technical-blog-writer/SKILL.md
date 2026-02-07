@@ -1,6 +1,6 @@
 ---
 name: technical-blog-writer
-description: Technical Blog Writer
+description: Technical Blog Writer — Diátaxis, Read the Docs, OpenAPI
 ---
 
 # Technical Blog Writer

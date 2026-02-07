@@ -1,6 +1,6 @@
 ---
 name: schema-designer
-description: Schema Designer
+description: Schema Designer — database schema, ERD, migrations
 ---
 
 # Schema Designer
